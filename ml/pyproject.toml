@@ -1,0 +1,49 @@
+[project]
+name = "forager-ml"
+version = "0.1.0"
+description = "Forager - ML training pipeline for plant/fungi classification"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    # PyTorch — index source defined in [tool.uv.sources] below
+    # Note: GradCAM package is "grad-cam" on PyPI (not "pytorch-grad-cam")
+    "torch>=2.5.0",
+    "torchvision>=0.20.0",
+    # Model
+    "timm>=1.0.0",
+    "grad-cam>=1.5.0",
+    # Export + inference
+    "onnx>=1.17.0",
+    "onnxruntime>=1.20.0",
+    "onnxscript>=0.1.0",
+    # Data
+    "Pillow>=11.0.0",
+    "numpy>=2.0.0",
+    "pandas>=2.2.0",
+    "scikit-learn>=1.6.0",
+    "requests>=2.32.0",
+    "tqdm>=4.67.0",
+    # Visualization + notebooks
+    "matplotlib>=3.10.0",
+    "seaborn>=0.13.0",
+    "jupyter>=1.1.0",
+    "ipykernel>=6.29.0",
+]
+
+[tool.uv]
+environments = ["sys_platform == 'linux'"]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu130" }
+torchvision = { index = "pytorch-cu130" }
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.ruff]
+target-version = "py312"
+line-length = 160
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "SIM"]

@@ -1,0 +1,68 @@
+[
+  {
+    "species": "ramps",
+    "restrictions": [
+      {
+        "jurisdiction": "Great Smoky Mountains National Park",
+        "states": ["TN", "NC"],
+        "type": "prohibited",
+        "notes": "Harvest of any plant material is prohibited in GSMNP. Ramp populations have been severely depleted by commercial and recreational overharvesting. Violators subject to fines."
+      },
+      {
+        "jurisdiction": "general",
+        "states": ["NC", "TN", "VA", "WV", "KY", "PA", "NY", "VT", "NH", "ME"],
+        "type": "caution",
+        "notes": "Ramps are under significant harvest pressure across Appalachia and the Northeast. Sustainable harvest guidelines: take no more than 10% of any patch, harvest individual leaves only (leave the bulb and roots), and never harvest from small or newly established populations. Allow at least 3-5 years between harvests from the same patch."
+      }
+    ]
+  },
+  {
+    "species": "ostrich_fern",
+    "restrictions": [
+      {
+        "jurisdiction": "general",
+        "states": ["all"],
+        "type": "caution",
+        "notes": "Food safety caution: all fiddleheads must be cooked before eating. Raw fiddleheads (any species) have been linked to multiple illness outbreaks in Canada and the US. Boil or steam for at least 10 minutes, or sauté thoroughly. Only harvest Ostrich Fern (Matteuccia struthiopteris) — identified by the deep U-shaped groove on the inner side of the stem. Harvest tightly coiled fiddleheads only (under 5cm unfurled). Populations recover slowly — take no more than 2-3 fiddleheads per plant per season."
+      }
+    ]
+  },
+  {
+    "species": "watercress",
+    "restrictions": [
+      {
+        "jurisdiction": "general",
+        "states": ["all"],
+        "type": "caution",
+        "notes": "Wild watercress from streams and springs can carry liver flukes (Fasciola hepatica) — parasitic flatworms shed by infected livestock or deer grazing upstream. Infection can cause serious liver damage. Cooking destroys flukes. If eating raw, only harvest from known clean, spring-fed sources with confirmed absence of livestock or deer activity upstream for several miles. Do not harvest from streams near farms or pastures. Commercial watercress is grown in controlled conditions and is safe to eat raw."
+      }
+    ]
+  },
+  {
+    "species": "trout_lily",
+    "restrictions": [
+      {
+        "jurisdiction": "general",
+        "states": ["all"],
+        "type": "caution",
+        "notes": "Trout Lily is a slow-growing spring ephemeral. Plants take approximately 7 years to produce their first flower and corm of harvestable size. Corm harvest kills the plant. Only harvest leaves (leaves regrow annually). If harvesting corms, limit to 1-2 plants per large established colony and never from small populations. Populations are easily depleted and recover very slowly."
+      }
+    ]
+  },
+  {
+    "species": "spring_beauty",
+    "restrictions": [
+      {
+        "jurisdiction": "general",
+        "states": ["all"],
+        "type": "caution",
+        "notes": "Spring Beauty is a slow-growing spring ephemeral. The edible corm takes many years to reach harvestable size. Corm harvest kills the plant. Harvest leaves and flowers instead — they regrow annually. If harvesting corms, take sparingly from large established colonies only, and never from isolated or small populations."
+      }
+    ]
+  },
+  {
+    "species": "pawpaw",
+    "restrictions": [],
+    "notes": "No harvest restrictions. Pawpaw is not a protected or at-risk species. Populations are often locally abundant in bottomland forests. Fruit harvest is non-destructive — the tree is not harmed. Foraging is encouraged."
+  }
+]

@@ -1,0 +1,48 @@
+[project]
+name = "forager-backend"
+version = "0.1.0"
+description = "Forager - Ecological Foraging Intelligence Agent API"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.128.0,<0.129",
+    "uvicorn[standard]>=0.34.0,<1.0",
+    "pydantic[email]>=2.10.0,<3.0",
+    "pydantic-settings>=2.12.0,<3.0",
+    "sqlalchemy[asyncio]>=2.0.0",
+    "asyncpg>=0.29.0",
+    "alembic>=1.18.4",
+    "bcrypt>=5.0.0",
+    "pyjwt>=2.11.0",
+    "authlib>=1.6.8",
+    "httpx>=0.28.1",
+    # cv inference
+    "onnxruntime>=1.20.0,<2.0",
+    "Pillow>=11.0.0,<12.0",
+    "numpy>=2.0.0,<3.0",
+    "python-multipart>=0.0.9",
+    # vector db
+    "pgvector>=0.3.0,<1.0",
+    "slowapi>=0.1.9",
+    "redis>=7.4.0",
+]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 160
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "SIM"]
+ignore = ["B008"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.28.1",
+    "pytest>=8.4.2",
+    "pytest-asyncio>=0.26.0",
+    "ruff>=0.15.1",
+]

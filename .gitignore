@@ -1,0 +1,64 @@
+# environment
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+
+# tools
+.claude/
+
+# node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# docker
+*.log
+
+# project
+planning/
+CLAUDE.md
+
+# ml data — large files and scratch outputs
+ml/data/raw/
+ml/data/raw_old/
+ml/data/train_full.tar.gz
+ml/data/train.json
+ml/data/train_mini.tar.gz
+ml/data/train_full.json.tar.gz
+ml/data/train_mini.json
+ml/data/train_mini.json.tar.gz
+ml/data/plantae_fungi_species.csv
+ml/checkpoints/
+ml/models/*.onnx
+ml/data/splits_mini_dataset/
+ml/Docs/
+*.pth
+
+old_runs_keep/
+
+# private docs
+private-docs/
+
+# random
+my_notes.md
+
+media/
+
+terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.backup

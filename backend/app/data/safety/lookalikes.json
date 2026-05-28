@@ -1,0 +1,3165 @@
+[
+  {
+    "species": "american_chestnut",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "nuts"
+    ],
+    "preparation": {
+      "edible": "Nuts are edible roasted, boiled, or ground into flour. Historically a staple food in Appalachia. Must be peeled after roasting. Sweet, starchy flavor."
+    },
+    "warnings": "Do NOT confuse with horse chestnut (Aesculus hippocastanum), which is toxic. Horse chestnuts have palmate compound leaves (5-7 leaflets from a single point); true chestnuts have simple, long serrated leaves. Horse chestnut husks are smooth with few large spines; chestnut burs are densely covered in thin, sharp spines. American chestnut is extremely rare due to chestnut blight — most trees found today are stumps with small sprouts.",
+    "lookalikes": [
+      {
+        "species": "horse_chestnut",
+        "danger_level": "toxic",
+        "in_dataset": false,
+        "distinguishing_features": "Horse chestnut has PALMATE compound leaves (5-7 leaflets radiating from a single point). American chestnut has SIMPLE leaves — single long narrow leaves with coarse serrated teeth. Horse chestnut husks have a few thick blunt spines; chestnut burs are densely packed with thin needle-like spines. Horse chestnut nuts are rounded and smooth; chestnuts have a pointed tip with a tuft.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); USDA NRCS"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "The American Chestnut Foundation. americanchestnut.org.",
+      "USDA NRCS Plant Profile. Castanea dentata."
+    ]
+  },
+  {
+    "species": "american_elderberry",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "ripe berries (cooked)",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Ripe berries must be cooked before eating — use in pies, jams, syrups, and wine. Flowers can be eaten raw or fried as fritters, or steeped for elderflower tea/cordial. Never eat raw berries — cooking destroys the cyanogenic glycosides in the fruit."
+    },
+    "warnings": "Raw berries, leaves, bark, stems, and roots contain cyanogenic glycosides and are toxic. Eating raw berries causes severe nausea, vomiting, and diarrhea. Unripe (green/red) berries are more toxic than ripe (dark purple/black) berries. Always cook ripe berries before consumption. The model has low accuracy distinguishing american_elderberry from elderberry (F1 ~0.31).",
+    "lookalikes": [
+      {
+        "species": "elderberry",
+        "danger_level": "caution",
+        "in_dataset": true,
+        "distinguishing_features": "European elderberry (Sambucus nigra) is a sister species — both edible when cooked. European elderberry tends to be a larger tree with flatter flower clusters. American elderberry is typically a shrub with more domed flower clusters. Both require cooking before consumption.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "red_elderberry",
+        "danger_level": "danger",
+        "in_dataset": true,
+        "distinguishing_features": "Red elderberry (Sambucus racemosa) has red berries in pyramidal/conical clusters (not flat-topped like american elderberry). Red elderberry berries are generally considered toxic — seeds contain particularly high concentrations of cyanogenic glycosides. American/European elderberry have dark purple-black berries in flat-topped clusters.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Cicuta maculata (water hemlock)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Water hemlock has similar compound umbel flowers but is one of the most toxic plants in North America. Key differences: water hemlock has finely divided, pinnately compound leaves with sharply toothed leaflets and grows in wet areas. Elderberry has opposite, pinnately compound leaves with 5-7 leaflets and pithy stems. Water hemlock stems are hollow with chambered pith at the base (cut lengthwise to check). Elderberry has solid white pith.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "CDC. Poisoning from Elderberry Juice — California. MMWR, 33(13), 1984."
+    ]
+  },
+  {
+    "species": "american_groundnut",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "tubers",
+      "beans"
+    ],
+    "preparation": {
+      "edible": "Tubers are peeled and boiled, roasted, or fried — they taste like a cross between potato and turnip. Beans from mature pods are cooked like other legumes. Both must be cooked; raw tubers may cause digestive upset. Tubers can be harvested year-round but are best in fall."
+    },
+    "warnings": "Always cook before eating. Raw tubers can cause gastrointestinal discomfort. No dangerous lookalikes in Eastern US. Distinctive compound leaves, twining vine habit, and pinkish-brown flowers make identification straightforward.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "arrowhead",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "tubers"
+    ],
+    "preparation": {
+      "edible": "Tubers (duck potatoes) are dug from muddy pond and stream bottoms in fall through early spring. Wash thoroughly and boil, roast, or slice and fry. Flavor is similar to potato with a slightly nutty quality. Can also be dried and ground into flour. Wade into shallow water and feel for tubers with bare feet, or loosen them and let them float to the surface."
+    },
+    "warnings": "Arrow-shaped leaves growing in or near water are distinctive. No dangerous lookalikes among aquatic plants with sagittate (arrow-shaped) leaves. Always cook tubers before eating.",
+    "lookalikes": [
+      {
+        "species": "Peltandra virginica (arrow arum)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Arrow arum has similar arrow-shaped leaves in similar wetland habitat but its leaves have a more leathery texture and prominent parallel veins. Arrow arum contains calcium oxalate crystals throughout the plant — ingestion causes intense burning of mouth and throat. Arrowhead (Sagittaria) has thinner leaves with more prominent pointed lobes and produces distinctive three-petaled white flowers.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "autumn_olive",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Ripe berries (red with silver speckles, September-October) are eaten fresh, made into fruit leather, jam, or sauce. Flavor is tart and astringent until fully ripe, then sweet-tart. High in lycopene. Processing through a food mill removes seeds easily. Berries freeze well."
+    },
+    "warnings": "Autumn olive (Elaeagnus umbellata) is an aggressive invasive species throughout Eastern US — foraging is encouraged for ecological management. No dangerous lookalikes. Distinctive silvery-scaled undersides of leaves are a reliable ID feature.",
+    "lookalikes": [
+      {
+        "species": "Elaeagnus angustifolia (Russian olive)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Russian olive has narrower, more silvery leaves and dry mealy fruit versus autumn olive's juicy berries. Both are invasive. Russian olive fruit is edible but less palatable. Autumn olive has wider leaves that are green on top with silver scales underneath.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "USDA NRCS Invasive Species Profile: Elaeagnus umbellata. https://plants.usda.gov",
+      "Fordham, I.M. et al. 'Fruit of Autumn Olive: A Rich Source of Lycopene.' HortScience, 36(6), 2001."
+    ]
+  },
+  {
+    "species": "bears_head_tooth",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté, roast, or simmer in soups. Has a lobster-like texture when cooked."
+    },
+    "warnings": "No dangerous lookalikes. Confirm white, icicle-like spines growing from a branched structure on hardwood.",
+    "lookalikes": [
+      {
+        "species": "lions_mane",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Lion's mane (Hericium erinaceus) grows as a single unbranched clump of spines. Bear's head tooth has a branched structure with spines hanging from multiple branches. Both are edible — confusion is harmless.",
+        "source": "Kuo, 100 Edible Mushrooms (2007); Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997."
+    ]
+  },
+  {
+    "species": "black_cohosh",
+    "edibility": [
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "roots"
+    ],
+    "preparation": {
+      "medicinal": "Primarily medicinal, not a food plant. Roots are harvested, dried, and used in tinctures or teas. Traditionally used by Cherokee and other nations for gynecological and rheumatic conditions. Not eaten as food."
+    },
+    "warnings": "Large doses can cause headache, nausea, and dizziness. Should not be used during pregnancy. Ensure correct identification — multiple Actaea species exist, some more toxic than others. Baneberries (Actaea rubra, A. pachypoda) have similar leaves but produce toxic berries (red or white 'doll's eyes').",
+    "lookalikes": [
+      {
+        "species": "red_baneberry",
+        "danger_level": "toxic",
+        "in_dataset": false,
+        "distinguishing_features": "Red baneberry (Actaea rubra) has similar compound leaves but produces clusters of bright red berries on thin red stalks. White baneberry (A. pachypoda, 'doll's eyes') produces white berries with a black dot on thick red stalks. Both are toxic. Black cohosh produces a tall spike of white flowers, not berries when flowering. When not in flower/fruit, leaf shape is very similar — experienced plant knowledge required.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); Moerman, Native American Ethnobotany (1998)"
+      }
+    ],
+    "sources": [
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin, 2000.",
+      "USDA NRCS Plant Profile. Actaea racemosa."
+    ]
+  },
+  {
+    "species": "black_raspberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are eaten fresh, used in jams, pies, syrups, and wine. Berries ripen in late June-July and separate cleanly from the receptacle (leaving a hollow core, unlike blackberries). High in anthocyanins and antioxidants."
+    },
+    "warnings": "No toxicity concerns. All Rubus species in Eastern North America produce edible fruit. Canes have small hooked thorns — wear long sleeves when picking.",
+    "lookalikes": [
+      {
+        "species": "blackberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Blackberry fruit retains its receptacle core when picked (solid center). Black raspberry separates cleanly leaving a hollow cup. Black raspberry canes have a distinctive bluish-white waxy bloom. Both are edible.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      },
+      {
+        "species": "wineberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Wineberry has distinctive red glandular-hairy canes and translucent orange-red fruit. Black raspberry has smooth waxy blue-white canes and dark purple-black fruit. Both edible.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "black_trumpet",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Excellent dried and rehydrated. Rich, smoky flavor. Often called 'black chanterelle' or 'horn of plenty.'"
+    },
+    "warnings": "No dangerous lookalikes. The dark gray-to-black funnel shape is distinctive. Considered one of the safest wild mushrooms for beginners to identify.",
+    "lookalikes": [],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981."
+    ]
+  },
+  {
+    "species": "black_walnut",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "nuts"
+    ],
+    "preparation": {
+      "edible": "Harvest nuts in fall after the green husks blacken. Remove husks (they stain everything brown — wear gloves). Cure nuts in shells for 2-4 weeks in a dry area. Crack with a heavy-duty nutcracker or hammer — shells are extremely hard. Nutmeats have a strong, distinctive flavor prized in baking and ice cream."
+    },
+    "warnings": "Husks produce juglone, a natural dye that permanently stains skin, clothing, and surfaces dark brown. Juglone is also allelopathic — toxic to many plants (tomatoes, apples, etc.) growing near walnut trees. Nut allergy risk — black walnuts are tree nuts. Shells are very hard and require a vise or specialized cracker.",
+    "lookalikes": [
+      {
+        "species": "butternut",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Butternut (Juglans cinerea) has oblong/elongated nuts versus black walnut's round nuts. Butternut has stickier husks, lighter colored bark, and a terminal leaflet on compound leaves. Both are edible. Butternut is increasingly rare due to butternut canker disease.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "shagbark_hickory",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Hickory has 5 leaflets (vs walnut's 15-23), distinctive shaggy bark, and round nuts in thick 4-part husks. Black walnut has many more leaflets and a round nut in a solid husk. Both edible.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "USDA NRCS Plant Guide: Juglans nigra. https://plants.usda.gov"
+    ]
+  },
+  {
+    "species": "blackberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "young leaves"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are eaten fresh or used in pies, jams, cobblers, and wine. Young leaves can be dried for tea. Berries ripen July-August and retain their white core when picked (unlike raspberries). Pick fully black, plump berries."
+    },
+    "warnings": "No toxicity concerns. All Rubus species in Eastern North America are edible. Thorns can cause scratches — wear protective clothing. Avoid picking from roadsides or areas sprayed with herbicides.",
+    "lookalikes": [
+      {
+        "species": "black_raspberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Black raspberry leaves are white underneath, canes have blue-white waxy bloom, and fruit is hollow when picked. Blackberry fruit has a solid core, canes are green/reddish, and leaves are green on both sides. Both edible.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "broadleaf_plantain",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young leaves",
+      "seeds",
+      "flower stalks"
+    ],
+    "preparation": {
+      "edible": "Young spring leaves are best — eat raw in salads or cook like spinach. Older leaves become tough and fibrous; remove the stringy veins before cooking. Seeds can be harvested and used similarly to psyllium (a close relative). Young flower stalks can be sautéed.",
+      "medicinal": "Crush or chew fresh leaves and apply as a poultice to insect bites, stings, or minor cuts to reduce inflammation. Dried leaves are steeped as tea for coughs, bronchitis, and digestive irritation. Contains mucilage, tannins, and allantoin which soothe tissue and promote healing."
+    },
+    "warnings": "Avoid harvesting from lawns treated with pesticides/herbicides or near roadsides. Plantain accumulates heavy metals from contaminated soil. No dangerous lookalikes — the parallel veins running lengthwise through the leaf are distinctive.",
+    "lookalikes": [
+      {
+        "species": "Plantago lanceolata (narrowleaf plantain)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Narrowleaf plantain has lance-shaped leaves versus broadleaf's oval leaves. Both are edible and used identically. Both have the characteristic parallel veins and rosette growth form.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Duke, J.A. Handbook of Edible Weeds. CRC Press, 1992.",
+      "Samuelsen, A.B. The traditional uses, chemical constituents and biological activities of Plantago major L. Journal of Ethnopharmacology, 2000.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "burdock",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "roots",
+      "young leaf stalks",
+      "flower stalks"
+    ],
+    "preparation": {
+      "edible": "First-year roots are harvested in fall or early spring — peel, slice, and boil, roast, or stir-fry (gobo in Japanese cuisine). Young leaf stalks are peeled and cooked. Immature flower stalks (before opening) are peeled and eaten raw or cooked. Second-year roots are woody and inedible."
+    },
+    "warnings": "Must be positively identified — first-year burdock rosettes can be confused with toxic plants. Always verify by checking for the large, rhubarb-like leaves with woolly white undersides and solid, non-hollow leaf stalks. Burdock is a biennial: harvest roots only in the first year (large rosette of basal leaves, no flower stalk).",
+    "lookalikes": [
+      {
+        "species": "Arctium minus vs Arctium lappa",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Common burdock (A. minus) and great burdock (A. lappa) are both edible and used similarly. Great burdock has larger roots (preferred for gobo). Both have the characteristic burr seed heads and large woolly-bottomed leaves.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      },
+      {
+        "species": "Petasites spp. (butterbur)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Butterbur has similar large rounded leaves but they emerge directly from the ground (no above-ground stem in first year). Burdock has a central rosette with leaf stalks arising from a crown. Butterbur contains pyrrolizidine alkaloids and should not be eaten without specialized processing.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "butternut",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "nuts"
+    ],
+    "preparation": {
+      "edible": "Nuts are edible raw or roasted. Rich, oily, buttery flavor — hence the name. Harder to crack than black walnuts. Can be pickled when immature. Historically important food source in eastern North America."
+    },
+    "warnings": "No dangerous lookalikes. Compound leaves similar to black walnut but with fewer, shorter leaflets and a sticky, hairy terminal bud. Butternut canker (a fungal disease) has made this tree increasingly rare. Husks stain skin brown (like black walnut).",
+    "lookalikes": [
+      {
+        "species": "black_walnut",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Black walnut has more leaflets (15-23 vs 11-17 for butternut), round nuts, and non-sticky buds. Butternut has a distinctive elongated (oblong) nut, sticky hairy buds, and a prominent leaf scar with a hairy mustache-like ridge above it. Both are edible — confusion is harmless.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); Moerman (1998)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "USDA NRCS Plant Profile. Juglans cinerea."
+    ]
+  },
+  {
+    "species": "cattail",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "young shoots",
+      "rhizomes",
+      "pollen",
+      "immature flower heads"
+    ],
+    "preparation": {
+      "edible": "Young spring shoots (when 1-2 feet tall) are peeled and eaten raw or cooked — taste similar to cucumber. Rhizomes are processed into starch/flour. Pollen is collected from mature male heads and used as a protein-rich flour supplement. Immature green flower heads can be boiled and eaten like corn on the cob."
+    },
+    "warnings": "CRITICAL: Do not confuse with iris (Iris spp.) or daffodil, which grow in similar wet areas and have similar flat blade-like leaves. The key distinguishing feature is that cattail leaves wrap around each other at the base in a tight cylindrical sheath — pull apart to reveal the inner layers. Iris leaves emerge in a flat fan. Also avoid harvesting from polluted water sources — cattails bioaccumulate heavy metals.",
+    "lookalikes": [
+      {
+        "species": "Iris spp. (wild iris/blue flag)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Iris leaves emerge in a flat fan shape from a horizontal rhizome. Cattail leaves are arranged in a round, concentric pattern wrapping around a central stalk. Iris rhizomes are toxic, causing severe GI distress. Before the flower stalk appears, check the leaf base arrangement — cattail is always round/cylindrical, iris is always flat/fan-shaped.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      },
+      {
+        "species": "Acorus calamus (sweet flag)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Sweet flag has similar flat leaves in wet habitats but has a distinctive spicy/cinnamon fragrance when crushed. Sweet flag leaves have an off-center midrib. Cattail leaves have a rounded base and symmetrical midrib. Sweet flag contains beta-asarone (carcinogenic in some varieties).",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "chanterelle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté in butter or dry-heat to bring out the apricot-like aroma. Do not eat raw — may cause GI upset."
+    },
+    "warnings": "Has a well-known toxic lookalike: the jack-o'-lantern mushroom. Always verify false gills (blunt forking ridges, not thin blade-like gills), solitary growth from soil (not clusters on wood), and white-to-pale interior flesh.",
+    "lookalikes": [
+      {
+        "species": "jack_o_lantern",
+        "danger_level": "toxic",
+        "in_dataset": true,
+        "distinguishing_features": "Jack-o'-lanterns have TRUE GILLS — thin, blade-like, sharp-edged. Chanterelles have FALSE GILLS — blunt, forked, shallow ridges. Jack-o'-lanterns grow in CLUSTERS on WOOD or buried roots. Chanterelles grow SINGLY from SOIL. Jack-o'-lantern flesh is orange throughout; chanterelle flesh is white to pale inside. Chanterelles often have a fruity/apricot aroma.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com (2014)"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Kuo, M. Cantharellus cibarius. MushroomExpert.com, 2015.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981."
+    ]
+  },
+  {
+    "species": "chicken_of_the_woods",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook thoroughly before eating. Harvest only young, tender growth at the edges. Older specimens become tough and chalky. Some people experience GI upset — try a small amount the first time."
+    },
+    "warnings": "Generally safe with no close toxic lookalikes, but some individuals react poorly, especially when harvested from eucalyptus, conifer, or locust trees. The host tree may affect edibility. Always cook thoroughly and try a small portion first.",
+    "lookalikes": [
+      {
+        "species": "white_pored_chicken_of_the_woods",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "White-pored chicken of the woods (Laetiporus cincinnatus) has a white to cream pore surface instead of bright yellow. It tends to grow at the base of trees or from buried roots rather than on the trunk. Both are edible — confusion is harmless.",
+        "source": "Kuo, MushroomExpert.com; Bessette et al. (1997)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986."
+    ]
+  },
+  {
+    "species": "chickweed",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Entire above-ground plant is eaten raw in salads or lightly cooked. Mild, fresh flavor similar to lettuce or spinach. Best harvested in cool weather (spring/fall) — goes to seed quickly in heat. Clip the tender tops for best quality."
+    },
+    "warnings": "No significant toxicity concerns. High in vitamin C. Avoid harvesting from treated lawns or roadsides.",
+    "lookalikes": [
+      {
+        "species": "Cerastium spp. (mouse-ear chickweed)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Mouse-ear chickweed has fuzzy, hairy leaves that feel sticky. Common chickweed (Stellaria media) has smooth leaves and a single line of hairs running along one side of the stem (alternating sides at each node). Both are edible.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "Euphorbia spp. (spurge)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Some small spurges grow in similar habitats. KEY TEST: break a stem — spurge exudes white milky latex sap. Chickweed has clear, watery sap. Spurge latex is toxic and irritating. Chickweed has opposite leaves with deeply notched white petals.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Duke, J.A. Handbook of Edible Weeds. CRC Press, 1992."
+    ]
+  },
+  {
+    "species": "chicory",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "roots",
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Roots are roasted and ground as a coffee substitute or additive (New Orleans-style chicory coffee). Young leaves are edible raw in salads (bitter) or cooked to reduce bitterness. Flower petals are edible raw.",
+      "medicinal": "Root decoction used as a digestive tonic and liver support — simmer dried root in water for 5–10 minutes. Also used as a tea for appetite stimulation and as a mild diuretic. Leaves have been applied externally as a poultice for wound healing."
+    },
+    "warnings": "No dangerous lookalikes. The bright sky-blue flowers along a wiry stalk on roadsides are unmistakable — few wild plants have true blue flowers. Basal rosette resembles dandelion but leaves are more deeply lobed.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "USDA NRCS Plant Profile. Cichorium intybus.",
+      "Street, R.A. et al. Cichorium intybus: Traditional Uses, Phytochemistry, Pharmacology, and Toxicology. Evidence-Based Complementary and Alternative Medicine, 2013.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "cleavers",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young shoots",
+      "seeds"
+    ],
+    "preparation": {
+      "edible": "Young spring shoots are best cooked (steamed or sautéed) to soften the hooked hairs. Seeds can be dried, roasted, and ground as a coffee substitute. Cleavers tea (steep fresh or dried herb) is a traditional spring tonic and lymphatic herb. Not typically eaten raw due to the clinging, scratchy texture."
+    },
+    "warnings": "The tiny hooked hairs (which make the plant cling to clothing and fur) can irritate the throat if eaten raw in quantity. Always cook before eating. No toxicity concerns when cooked. Cleavers (Galium aparine) is in the coffee family (Rubiaceae).",
+    "lookalikes": [
+      {
+        "species": "Galium spp. (bedstraw species)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Other Galium species look similar with whorled leaves. All are generally non-toxic. Cleavers is distinguished by its 6-8 leaves per whorl, square stems, and aggressively clinging habit. Sweet woodruff (G. odoratum) has a pleasant vanilla scent when dried.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin Harcourt, 2014.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+    ]
+  },
+  {
+    "species": "dandelion",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "roots",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Young leaves are eaten raw in salads (slightly bitter) or cooked as greens. Roots are roasted and ground as a coffee substitute, or boiled as a root vegetable. Flowers are used in fritters, wine, jelly, and infused vinegar. Harvest leaves before the plant flowers for best flavor — they become increasingly bitter with age.",
+      "medicinal": "Leaf tea used as a natural diuretic — steep dried leaves in hot water for 10–15 minutes. Root tea or roasted root decoction used for digestive support, appetite stimulation, and as a mild liver tonic. A clinical study confirmed increased urination frequency after dandelion leaf extract consumption."
+    },
+    "warnings": "Avoid harvesting from lawns treated with pesticides/herbicides. Dandelions are heavy bioaccumulators and absorb chemicals from treated soil. People with allergies to Asteraceae (ragweed, chrysanthemum) may rarely react. People taking blood thinners or diuretics should consult a physician.",
+    "lookalikes": [
+      {
+        "species": "Hypochaeris radicata (cat's ear / false dandelion)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Cat's ear has hairy, lobed leaves (dandelion leaves are smooth and hairless) and branched flower stems with multiple flower heads. True dandelion has a single flower per hollow stem. Both are edible.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      },
+      {
+        "species": "Sonchus spp. (sow thistle)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Sow thistle has clasping leaf bases on a tall upright stem with multiple flowers. Dandelion has only basal leaves and a single flower per stem. Sow thistle exudes more copious milky sap. Both are edible.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Duke, J.A. Handbook of Edible Weeds. CRC Press, 1992.",
+      "Clare, B.A. et al. The Diuretic Effect in Human Subjects of an Extract of Taraxacum officinale Folium over a Single Day. Journal of Alternative and Complementary Medicine, 2009.",
+      "Memorial Sloan Kettering Cancer Center. Dandelion herb information page. mskcc.org.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "daylily",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "flowers",
+      "buds",
+      "tubers",
+      "young shoots"
+    ],
+    "preparation": {
+      "edible": "Flower buds are excellent sautéed or battered and fried. Open flowers are edible raw or cooked. Tubers are edible cooked. Young shoots (under 15cm) can be used like asparagus. Always cook tubers and shoots."
+    },
+    "warnings": "Some people experience GI upset from daylilies — try a small amount the first time. Do NOT confuse with true lilies (Lilium spp.), which have bulbs, not tubers, and can cause kidney failure in cats. Also avoid confusion with iris, which has flat fan-like leaves and is toxic.",
+    "lookalikes": [
+      {
+        "species": "iris",
+        "danger_level": "toxic",
+        "in_dataset": false,
+        "distinguishing_features": "Iris leaves are flat and fan-shaped, growing in a flat plane from a rhizome. Daylily leaves are V-shaped or folded along the midrib, growing from a clump of fleshy tubers. Iris rhizomes are toxic. Additionally, daylily leaves grow from a central base; iris leaves emerge in flat fans.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); Thayer, Nature's Garden (2010)"
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010."
+    ]
+  },
+  {
+    "species": "deadly_galerina",
+    "edibility": [
+      "deadly"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation exists. Contains amatoxins at concentrations comparable to the death cap. Do not consume under any circumstances."
+    },
+    "warnings": "Arguably the most dangerous mushroom for foragers because it resembles popular edible species and grows on wood alongside them. Contains the same lethal amatoxins as the death cap. Galerina can grow INTERMIXED with edible species on the same log — every individual specimen must be checked. Symptoms delayed 6-12 hours.",
+    "lookalikes": [
+      {
+        "species": "honey_mushroom",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Honey mushrooms (Armillaria mellea) have a WHITE to cream spore print. Deadly galerina has a RUSTY-BROWN spore print — this is the single most critical distinction. Honey mushrooms are generally larger and more robust. Always take a spore print when harvesting any clustered brown mushroom from wood. CRITICAL: Galerina can grow on the same log as honey mushrooms — check every specimen individually.",
+        "source": "Kuo, MushroomExpert.com (2016); Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. Galerina marginata. MushroomExpert.com, 2016.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Beug, M.W. Mushroom Poisoning in North America. McIlvainea, 17(2), 2006.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "death_cap",
+    "edibility": [
+      "deadly"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation exists. Amatoxins are heat-stable and survive all cooking methods. Do not consume under any circumstances."
+    },
+    "warnings": "Responsible for over 90% of mushroom fatalities worldwide. A single cap can contain enough toxin to kill an adult. Symptoms are delayed 6-12 hours, creating a false sense of safety. A deceptive 'recovery' phase follows initial illness before fatal liver failure sets in.",
+    "lookalikes": [
+      {
+        "species": "meadow_mushroom",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Meadow mushrooms (Agaricus campestris) have brown/chocolate spore prints and gills that darken pink to brown with age. Death caps have white spore prints and white gills that stay white. Always take a spore print. Always dig up the full base to check for a volva — Agaricus species lack a volva.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com"
+      },
+      {
+        "species": "giant_puffball",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Young death cap buttons can resemble small puffballs before the cap opens. Always slice puffballs in half vertically — puffballs are uniformly white inside with no internal structure. Amanita buttons show the outline of a cap, gills, and stipe inside.",
+        "source": "Arora, Mushrooms Demystified (1986); Lincoff, Audubon Field Guide (1981)"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. Amanita phalloides. MushroomExpert.com, 2017.",
+      "Berger, K.J. & Guss, D.A. Mycotoxins Revisited: Part I. Journal of Emergency Medicine, 28(1), 2005.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "destroying_angel",
+    "edibility": [
+      "deadly"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation exists. Contains the same lethal amatoxins as the death cap. Do not consume under any circumstances."
+    },
+    "warnings": "Contains amatoxins identical to the death cap — equally lethal. The most dangerous all-white mushroom in eastern North America. Symptoms delayed 6-12 hours, followed by false recovery, then fatal liver failure. In eastern North America, treat ALL medium-to-large, all-white, free-gilled mushrooms growing from soil with a ring and volva as potentially lethal.",
+    "lookalikes": [
+      {
+        "species": "meadow_mushroom",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Meadow mushrooms (Agaricus campestris) have pink-to-brown gills that darken with age and brown spore prints. Destroying angels have permanently white gills and white spore prints. Meadow mushrooms lack a volva at the base. Always dig up the entire mushroom to check for a volva.",
+        "source": "Kuo, MushroomExpert.com (2018); Arora, Mushrooms Demystified (1986)"
+      },
+      {
+        "species": "giant_puffball",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Young Amanita buttons can resemble small puffballs. Always slice any suspected puffball in half vertically — a true puffball is uniformly white inside with no internal structure. An Amanita button reveals the outline of cap, gills, and stipe.",
+        "source": "Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. Amanita bisporigera. MushroomExpert.com, 2018.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Ammirati, J. et al. Poisonous Mushrooms of the Northern United States and Canada. Univ. of Minnesota Press, 1985.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "dryads_saddle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Harvest only young, tender specimens — older ones become very tough. Slice thin edges and sauté. Has a watermelon-rind or cucumber-like smell when fresh."
+    },
+    "warnings": "No dangerous lookalikes. The large bracket shape, scaly brown cap surface, and white pore surface on hardwood are distinctive.",
+    "lookalikes": [],
+    "sources": [
+      "Kuo, M. Cerioporus squamosus. MushroomExpert.com.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997."
+    ]
+  },
+  {
+    "species": "elderberry",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "ripe berries (cooked)",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "European elderberry (Sambucus nigra) follows the same rules as American elderberry — ripe berries must be cooked before eating. Use in syrups, jams, wine, and pies. Flowers are used for elderflower cordial, fritters, and tea. The cooked berries are a traditional remedy for colds and flu."
+    },
+    "warnings": "Raw berries, leaves, bark, stems, and roots contain cyanogenic glycosides and are toxic. Always cook ripe berries before consumption. Unripe and red berries are more toxic. The model frequently confuses this species with american_elderberry (F1 ~0.31) — both require identical safety precautions.",
+    "lookalikes": [
+      {
+        "species": "american_elderberry",
+        "danger_level": "caution",
+        "in_dataset": true,
+        "distinguishing_features": "American elderberry (Sambucus canadensis) is a sister species. European elderberry is typically a larger tree; American is typically a multi-stemmed shrub. Both have flat-topped clusters of dark purple-black berries. Both require cooking. Confusion between the two is not a safety issue.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "red_elderberry",
+        "danger_level": "danger",
+        "in_dataset": true,
+        "distinguishing_features": "Red elderberry (Sambucus racemosa) has bright red berries in pyramidal (cone-shaped) clusters, not flat-topped. Red elderberry berries are toxic — seeds contain high levels of cyanogenic glycosides. European/American elderberry have dark purple-black berries in flat-topped (cyme) clusters.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Cicuta maculata (water hemlock)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Water hemlock has similar compound umbel flowers but is extremely toxic. Water hemlock has finely divided, pinnately compound leaves with narrow, sharply toothed leaflets. Elderberry has broader leaflets (5-7 per leaf) with serrated margins. Water hemlock stems are hollow with chambered pith at the base. Elderberry has solid white pith.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "false_morel",
+    "edibility": [
+      "deadly"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation recommended. Some Scandinavian traditions involve repeated parboiling and discarding water, but gyromitrin content varies enormously between specimens. The boiling process itself produces toxic MMH vapors — people have been poisoned by inhaling the steam. NAMA and most North American mycologists advise against consumption."
+    },
+    "warnings": "Contains gyromitrin, which the body converts to monomethylhydrazine (MMH, rocket fuel compound). Causes liver failure, kidney damage, seizures, and death. Fatality rate estimated 2-4% of symptomatic cases, higher in children. Symptoms delayed 6-12 hours, similar to amatoxin poisoning. The species name 'esculenta' (edible) is a dangerous misnomer.",
+    "lookalikes": [
+      {
+        "species": "morel",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "TRUE MORELS have a HONEYCOMB pattern of pits and ridges. False morels have a BRAIN-LIKE, irregularly wrinkled and lobed cap. CRITICAL FIELD TEST: slice in half vertically. True morels are COMPLETELY HOLLOW — a single continuous cavity from cap to stipe. False morels are CHAMBERED — containing cottony tissue and irregular internal folds. True morel caps are fused to the stipe along their entire length. False morel caps attach at the top only and hang somewhat free.",
+        "source": "Kuo, MushroomExpert.com (2012); Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. Gyromitra esculenta. MushroomExpert.com, 2012.",
+      "Michelot, D. & Toth, B. Poisoning by Gyromitra esculenta — a review. Journal of Applied Toxicology, 11(4), 1991.",
+      "Leathem, A.M. & Dorran, T.J. Poisoning due to raw Gyromitra esculenta. Canadian Journal of Emergency Medicine, 9(2), 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Beug, M.W. Mushroom Poisoning in North America. NAMA, 2006."
+    ]
+  },
+  {
+    "species": "false_solomons_seal",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "young shoots",
+      "ripe berries"
+    ],
+    "preparation": {
+      "edible": "Young spring shoots can be boiled and eaten like asparagus. Ripe berries (red, speckled) can be eaten in small quantities — they are sweet but mildly laxative in large amounts. The rhizome has been used historically but is not commonly consumed."
+    },
+    "warnings": "Berries are mildly laxative if eaten in quantity. Unripe berries may cause stomach upset. Eat berries in moderation. Not as commonly foraged as many other species — young shoots are the most practical harvest.",
+    "lookalikes": [
+      {
+        "species": "solomons_seal",
+        "danger_level": "caution",
+        "in_dataset": true,
+        "distinguishing_features": "True Solomon's seal (Polygonatum) has bell-shaped flowers dangling from leaf axils along the stem and blue-black berries. False Solomon's seal (Maianthemum racemosum) has a terminal plume of small white flowers and red speckled berries at the tip of the stem. Both are edible with caution.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "Convallaria majalis (lily of the valley)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Lily of the valley has 2-3 basal leaves emerging directly from the ground with bell-shaped flowers on a one-sided raceme. False Solomon's seal has an arching stem with many alternate leaves and terminal flower/berry clusters. Lily of the valley is highly cardiotoxic. The growth form is distinct — basal leaves vs. arching leafy stem.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "fireweed",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young shoots",
+      "leaves",
+      "flowers",
+      "pith"
+    ],
+    "preparation": {
+      "edible": "Young shoots (under 8 inches) are eaten raw or steamed like asparagus. Young leaves are cooked as greens or dried for tea (traditional fermented fireweed tea in Russia). Flowers are used as garnish or in jellies. The inner pith of older stems can be eaten raw or cooked — sweet and mucilaginous."
+    },
+    "warnings": "Older leaves become tough and bitter. Some people experience mild laxative effects from consuming large quantities. The plant is most palatable in spring and early summer. No dangerous lookalikes.",
+    "lookalikes": [
+      {
+        "species": "Epilobium spp. (willowherbs)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Other willowherb species are smaller with smaller flowers. Fireweed (Chamerion angustifolium) is tall (3-6 feet) with large showy pink-magenta flowers in a long terminal raceme. All Epilobium species are non-toxic.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "fly_agaric",
+    "edibility": [
+      "toxic"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation recommended. Some traditional methods exist (repeated parboiling) but toxin concentration varies widely between specimens and no reliable detoxification method is established. NAMA advises against consumption."
+    },
+    "warnings": "Contains ibotenic acid and muscimol, which cause confusion, visual disturbances, loss of coordination, muscle twitching, and alternating agitation and drowsiness. Rarely fatal in healthy adults with modern medical care, but fatalities have been documented in children and elderly. Symptoms appear within 30 minutes to 2 hours.",
+    "lookalikes": [
+      {
+        "species": "caesars_mushroom",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Caesar's mushroom (Amanita caesarea/jacksonii) is a prized edible with a similar red-orange cap. Key difference: Caesar's mushroom has YELLOW-ORANGE gills and stipe. Fly agaric has WHITE gills and WHITE stipe. Caesar's has a prominent white sac-like volva; fly agaric's volva breaks into warts on the cap.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com (2017)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. Amanita muscaria. MushroomExpert.com, 2017.",
+      "Michelot, D. & Melendez-Howell, L.M. Amanita muscaria: chemistry, biology, toxicology, and ethnomycology. Mycological Research, 107(2), 2003.",
+      "Benjamin, D.R. Mushrooms: Poisons and Panaceas. W.H. Freeman, 1995.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "garlic_mustard",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "roots",
+      "flowers",
+      "seeds"
+    ],
+    "preparation": {
+      "edible": "Leaves are eaten raw in salads (garlic-and-mustard flavor) or cooked as greens. First-year basal rosettes are available fall through spring. Roots have a strong horseradish-like flavor and can be grated as a condiment. Flowers and immature seed pods are edible. Flavor diminishes with cooking — best used raw or added at the end of cooking."
+    },
+    "warnings": "Garlic mustard (Alliaria petiolata) is a highly invasive species devastating Eastern US forest understories — harvesting is strongly encouraged for ecological management. Contains cyanide compounds in small amounts (like many brassicas) that are not dangerous in normal culinary quantities. Avoid very large quantities raw.",
+    "lookalikes": [
+      {
+        "species": "Viola spp. (violet)",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "First-year garlic mustard rosettes have kidney-shaped, scalloped leaves that can resemble violet leaves. KEY TEST: crush a leaf — garlic mustard smells distinctly of garlic. Violet leaves have no garlic odor and are also edible.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "USDA Forest Service. Invasive Species Profile: Alliaria petiolata. https://www.fs.usda.gov"
+    ]
+  },
+  {
+    "species": "giant_puffball",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Eat only when interior is uniformly pure white. Slice and sauté, bread and fry, or use as a pizza dough substitute. Discard any specimen with yellow, brown, or purple interior — it is past prime or a different species."
+    },
+    "warnings": "CRITICAL: Always slice puffballs in half vertically before eating. If the interior shows ANY internal structure — the outline of a cap, gills, or stipe — it is an immature Amanita button, which may be deadly. A true puffball is uniformly solid white inside with no differentiation.",
+    "lookalikes": [
+      {
+        "species": "destroying_angel",
+        "danger_level": "deadly",
+        "in_dataset": true,
+        "distinguishing_features": "Young Amanita buttons (including the deadly destroying angel and death cap) can resemble small puffballs before the cap opens. ALWAYS slice vertically: puffballs are uniformly white inside with no internal structure. Amanita buttons reveal the outline of a cap, gills, and stipe. Giant puffballs grow much larger (20-50cm+) than any Amanita button, but SMALL puffball species require this check every time.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com; NAMA"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "golden_reishi",
+    "edibility": [
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "medicinal": "Too tough to eat directly. Used medicinally as a tea or tincture — slice thin and simmer for extended periods. Bitter flavor is characteristic."
+    },
+    "warnings": "No dangerous lookalikes. The lacquered, golden-orange to reddish cap surface with a white pore surface on hardwood is distinctive. Often confused with hemlock reishi (also safe).",
+    "lookalikes": [
+      {
+        "species": "hemlock_reishi",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Hemlock reishi (Ganoderma tsugae) grows on conifers (especially hemlock) while golden reishi grows on hardwoods. Both are used medicinally and are safe. Distinguishing the two is primarily an academic exercise for foragers.",
+        "source": "Stamets, Mycelium Running (2005); Bessette et al. (1997)"
+      }
+    ],
+    "sources": [
+      "Stamets, P. Mycelium Running. Ten Speed Press, 2005.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986."
+    ]
+  },
+  {
+    "species": "goldenrod",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Young leaves can be cooked as greens. Flowers used to make infused vinegar or added to baked goods for color. Tea from fresh or dried leaves and flowers has a mild, pleasant, anise-like flavor.",
+      "medicinal": "Leaf and flower tea steeped 10–15 minutes, traditionally used as a diuretic and for urinary tract support. Also used topically as a wound wash. Often mistakenly blamed for hay fever — goldenrod is insect-pollinated, not wind-pollinated."
+    },
+    "warnings": "Goldenrod is NOT ragweed and does NOT cause hay fever — this is a persistent myth. Ragweed (Ambrosia) blooms at the same time and is wind-pollinated; goldenrod is insect-pollinated and its heavy pollen does not become airborne. People with Asteraceae allergies may still react. Goldenrod is generally very safe.",
+    "lookalikes": [
+      {
+        "species": "Ambrosia spp. (ragweed)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Ragweed has deeply divided, fern-like leaves and inconspicuous greenish flowers. Goldenrod has simple, lance-shaped leaves and bright yellow plume-like flower clusters. They look nothing alike up close — the confusion is purely due to simultaneous fall blooming.",
+        "source": "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin Harcourt, 2014."
+      }
+    ],
+    "sources": [
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin Harcourt, 2014.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+    ]
+  },
+  {
+    "species": "greenbrier",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young shoots",
+      "tendrils",
+      "leaves",
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Young shoot tips and tendrils are the primary edible parts — eat raw or lightly cooked. Taste similar to asparagus. Young leaves are edible raw in salads. Berries are edible but bland. Roots of some species contain edible starch."
+    },
+    "warnings": "No dangerous lookalikes. The thorny woody vine with round, leathery leaves, tendrils, and dark berries is distinctive. Watch out for the thorns when harvesting.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998."
+    ]
+  },
+  {
+    "species": "ground_cherry",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "ripe fruit"
+    ],
+    "preparation": {
+      "edible": "ONLY eat fully ripe fruit — ripe ground cherries have a papery husk that turns tan/brown and the fruit inside is golden-yellow, sweet, and aromatic (tropical flavor with hints of pineapple and vanilla). Eat fresh, or use in salads, salsas, pies, and preserves. Fruit that has fallen to the ground and has a dry husk is typically ripe."
+    },
+    "warnings": "UNRIPE (green) fruit, leaves, stems, and husks contain solanine and are TOXIC — ground cherry is in the nightshade family (Solanaceae). Never eat green/unripe fruit. Only harvest fruit with fully dried tan/brown husks and golden-yellow flesh. Children should be supervised as unripe fruit looks like green cherry tomatoes.",
+    "lookalikes": [
+      {
+        "species": "Physalis alkekengi (Chinese lantern)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Chinese lantern is an ornamental with bright orange-red papery husks. Native ground cherry (Physalis virginiana, P. heterophylla) has tan/brown papery husks. Chinese lantern fruit is generally considered mildly toxic or at best unpalatable. The vivid orange husk color is the key distinguishing feature.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Solanum spp. (nightshade)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Nightshade berries lack the papery husk that encloses ground cherry fruit. Black nightshade (S. nigrum) has small black berries in clusters without husks. Ground cherry fruit is always enclosed in a distinctive papery lantern-like husk. If there's no husk, it's not a ground cherry.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Cornell University Poisonous Plants Informational Database: Physalis. https://poisonousplants.ansci.cornell.edu"
+    ]
+  },
+  {
+    "species": "hackberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Ripe berries can be eaten raw directly from the tree in fall. The thin sweet flesh surrounds a large seed. Berries can also be dried and ground whole (flesh, seed, and shell) into a nutritious paste or powder for use in porridge or baked goods — a technique used historically by Indigenous peoples."
+    },
+    "warnings": "The edible flesh layer is very thin. The seed is hard but edible when ground. No significant toxicity concerns. Ensure correct identification — hackberry trees have distinctive warty bark and asymmetrical leaf bases.",
+    "lookalikes": [
+      {
+        "species": "Celtis tenuifolia (dwarf hackberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Dwarf hackberry is a smaller shrub with smaller leaves and fruit. Also edible, so misidentification poses no safety risk.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Celtis laevigata (sugarberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Sugarberry has narrower, smoother-margined leaves and smoother bark than common hackberry. Also edible — no safety concern if confused.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "hawthorn",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "berries",
+      "young leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Ripe berries (haws) can be eaten raw but are mealy and seedy — best cooked into jellies, syrups, or fruit leather. Young spring leaves can be eaten raw in salads. Flowers are edible and can be used in teas. Seeds contain amygdalin (cyanogenic glycoside) and should not be chewed or consumed in quantity."
+    },
+    "warnings": "Do not eat the seeds — they contain amygdalin which releases hydrogen cyanide when digested. Swallowing a few whole seeds incidentally is not dangerous, but do not crush or chew them. Hawthorn has documented interactions with heart medications (beta-blockers, digoxin) due to its cardiac glycoside content. Consult a physician if taking heart medication.",
+    "lookalikes": [
+      {
+        "species": "Malus spp. (crabapple)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Crabapples have larger fruit without the prominent calyx remnant of hawthorn. Crabapple thorns are less common and shorter. Both are edible, so confusion is not dangerous.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Pyracantha spp. (firethorn)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Firethorn has evergreen leaves and berries in dense clusters along stems. Hawthorn is deciduous with berries hanging in loose clusters. Firethorn berries are mildly toxic raw but not life-threatening.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Mills, S. & Bone, K. The Essential Guide to Herbal Safety. Elsevier, 2005."
+    ]
+  },
+  {
+    "species": "hazelnut",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "nuts"
+    ],
+    "preparation": {
+      "edible": "Harvest nuts in early fall when husks begin to brown. Remove the leafy husk and dry nuts in a single layer for 2-4 weeks. Crack the hard shell and eat raw or roasted. Roasting at 300°F for 15-20 minutes improves flavor. American hazelnut (Corylus americana) and beaked hazelnut (C. cornuta) are both native to Eastern US."
+    },
+    "warnings": "Tree nut allergy risk — hazelnuts are a common allergen. Squirrels and other wildlife compete aggressively for the crop; harvest promptly. Ensure nuts are not moldy or rancid before eating. No toxic lookalikes among nut-bearing shrubs with the distinctive leafy husk.",
+    "lookalikes": [
+      {
+        "species": "Hamamelis virginiana (witch hazel)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Witch hazel has similar leaf shape but produces small woody capsules, not nuts in leafy husks. Witch hazel blooms in fall/winter with spidery yellow flowers. Hazelnut has catkins in early spring. Witch hazel is not palatable but not dangerously toxic.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      }
+    ],
+    "sources": [
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "USDA NRCS Plant Guide: Corylus americana. https://plants.usda.gov"
+    ]
+  },
+  {
+    "species": "hemlock_reishi",
+    "edibility": [
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "medicinal": "Too tough to eat directly. Used medicinally as a tea or tincture — slice thin and simmer. Bitter flavor."
+    },
+    "warnings": "No dangerous lookalikes. Lacquered reddish cap on conifer wood (especially eastern hemlock) is distinctive.",
+    "lookalikes": [
+      {
+        "species": "golden_reishi",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Golden reishi (Ganoderma curtisii) grows on hardwoods rather than conifers. Both are safe and used similarly.",
+        "source": "Stamets, Mycelium Running (2005)"
+      }
+    ],
+    "sources": [
+      "Stamets, P. Mycelium Running. Ten Speed Press, 2005.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986."
+    ]
+  },
+  {
+    "species": "hen_of_the_woods",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté, roast, or add to soups. Tear into pieces along natural seams rather than cutting. Harvest the tender outer edges; the inner core can be tough."
+    },
+    "warnings": "No dangerous lookalikes. The overlapping grayish-brown fan-shaped caps growing in large rosettes at the base of oaks are distinctive. One of the most recognizable edible mushrooms.",
+    "lookalikes": [
+      {
+        "species": "berkeley_polypore",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Berkeley's polypore (Bondarzewia berkeleyi) grows in similar rosettes at tree bases but has much larger, thicker individual caps and a paler color. It is edible when young but tough. Confusion is harmless.",
+        "source": "Kuo, MushroomExpert.com; Bessette et al. (1997)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997."
+    ]
+  },
+  {
+    "species": "highbush_blueberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are eaten fresh, or used in pies, jams, syrups, and baked goods. Berries ripen unevenly on the bush — pick only dark blue, easily detached fruit. No preparation required beyond rinsing."
+    },
+    "warnings": "Ensure positive identification. The calyx (crown) on the bottom of a true blueberry is a key feature — look for the five-pointed crown remnant. Avoid berries from areas sprayed with pesticides or along roadsides.",
+    "lookalikes": [
+      {
+        "species": "lowbush_blueberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Lowbush blueberry is a shorter shrub (under 2 feet) versus highbush (6-12 feet). Both are equally edible. Lowbush berries are often smaller and more intensely flavored.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      },
+      {
+        "species": "Gaylussacia spp. (huckleberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Huckleberries have resin dots on the undersides of leaves (visible with a hand lens) and contain 10 hard seeds versus blueberry's many tiny soft seeds. Both are edible — confusion is harmless.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "honey_mushroom",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [
+      "caps"
+    ],
+    "preparation": {
+      "edible": "Must be cooked thoroughly — raw honey mushrooms cause GI upset in most people. Discard the tough stipes. Parboil for 5 minutes, discard water, then sauté. Some people react even to well-cooked specimens — try a small portion first."
+    },
+    "warnings": "DEADLY LOOKALIKE: Deadly galerina (Galerina marginata) contains the same lethal amatoxins as the death cap and grows on wood in clusters — the same habitat as honey mushrooms. Galerina can even grow INTERMIXED with honey mushrooms on the same log. ALWAYS take a spore print: honey mushrooms have a WHITE to cream print; deadly galerina has a RUSTY-BROWN print. Check every individual specimen.",
+    "lookalikes": [
+      {
+        "species": "deadly_galerina",
+        "danger_level": "deadly",
+        "in_dataset": true,
+        "distinguishing_features": "Deadly galerina has a RUSTY-BROWN spore print; honey mushrooms have a WHITE to cream spore print. This is the single most critical distinction. Galerina is generally smaller and thinner-stemmed. Galerina can grow on the same log as honey mushrooms — check EVERY individual specimen. When in doubt, take a spore print of every cluster.",
+        "source": "Kuo, MushroomExpert.com (2016); Arora, Mushrooms Demystified (1986); NAMA"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Kuo, M. Galerina marginata. MushroomExpert.com, 2016.",
+      "NAMA Toxicology Committee. Mushroom Poisoning Syndromes. namyco.org."
+    ]
+  },
+  {
+    "species": "indigo_milk_cap",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté or grill. The blue color fades to grayish-green when cooked. Mild, slightly granular texture."
+    },
+    "warnings": "No dangerous lookalikes. The bright indigo-blue color and blue latex (milk) that bleeds when cut are unique among North American mushrooms. No other blue-bleeding Lactarius is toxic.",
+    "lookalikes": [],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997.",
+      "Kuo, M. Lactarius indigo. MushroomExpert.com."
+    ]
+  },
+  {
+    "species": "jack_o_lantern",
+    "edibility": [
+      "toxic"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation recommended. Illudin toxins may be partially heat-labile but concentrations vary. Do not consume."
+    },
+    "warnings": "The most commonly misidentified toxic mushroom in North America — frequently confused with chanterelles. Causes severe nausea, vomiting, abdominal cramps, and diarrhea within 30 minutes to 2 hours. Not typically fatal but can cause severe dehydration requiring hospitalization.",
+    "lookalikes": [
+      {
+        "species": "chanterelle",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Jack-o-lanterns have TRUE GILLS — thin, blade-like, close together, sharp-edged. Chanterelles have FALSE GILLS — blunt, forked, shallow ridges fused to the cap surface. Jack-o-lanterns grow in CLUSTERS on WOOD (stumps, buried roots). Chanterelles grow SINGLY from SOIL. Jack-o-lantern flesh is orange throughout; chanterelle flesh is white to pale inside. Jack-o-lanterns lack the fruity/apricot aroma of chanterelles.",
+        "source": "Kuo, MushroomExpert.com (2014); Arora, Mushrooms Demystified (1986)"
+      },
+      {
+        "species": "smooth_chanterelle",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Same distinctions as golden chanterelle — smooth chanterelles grow singly from soil with false ridges, not true gills. Jack-o-lanterns cluster on wood with true gills.",
+        "source": "Kuo, MushroomExpert.com (2014)"
+      },
+      {
+        "species": "red_chanterelle",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Red chanterelles are much smaller and more deeply red/cinnabar colored than jack-o-lanterns. They grow singly from soil with false ridges. Confusion is less common due to size and color difference.",
+        "source": "Kuo, MushroomExpert.com (2014)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. Omphalotus illudens. MushroomExpert.com, 2014.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kirchmair, M. et al. Toxicity of Omphalotus olearius and its sesquiterpenes. Toxicon, 44(4), 2004.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981."
+    ]
+  },
+  {
+    "species": "japanese_knotweed",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young shoots"
+    ],
+    "preparation": {
+      "edible": "Harvest young shoots under 30cm tall in spring — they resemble asparagus. Peel outer skin and cook like rhubarb. Tart flavor works well in pies, jams, and sauces. Older stems become woody and inedible."
+    },
+    "warnings": "No dangerous lookalikes for the distinctive bamboo-like stems and shield-shaped leaves. Highly invasive — foraging is encouraged. Contains oxalic acid (like rhubarb), so avoid large quantities if prone to kidney stones.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010.",
+      "USDA NRCS Plant Profile. Reynoutria japonica."
+    ]
+  },
+  {
+    "species": "jerusalem_artichoke",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "tubers"
+    ],
+    "preparation": {
+      "edible": "Dig tubers in late fall after frost or in early spring before new growth. Scrub well and eat raw (nutty, crisp texture), roast, sauté, or use in soups. Roasting at 400°F for 25-30 minutes caramelizes the inulin and brings out sweetness. Skin is thin and does not need to be peeled."
+    },
+    "warnings": "Contains high levels of inulin (a fructan) which can cause significant gas, bloating, and digestive discomfort in many people, especially when eaten in large quantities for the first time. Start with small portions. Cooking does not eliminate inulin but may reduce symptoms for some. Also known as sunchoke.",
+    "lookalikes": [
+      {
+        "species": "Helianthus annuus (common sunflower)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Common sunflower typically has a single large flower head versus Jerusalem artichoke's many smaller (2-3 inch) flower heads. Common sunflower has a thicker, rougher stem. Both are non-toxic.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "king_bolete",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "cap",
+      "stipe"
+    ],
+    "preparation": {
+      "edible": "Excellent sautéed, dried, or in soups. Check for insect larvae in the spongy pore layer — remove if heavily infested. Young firm specimens are best."
+    },
+    "warnings": "While no deadly boletes grow in eastern North America, some boletes cause GI distress. Follow the general bolete safety rule: avoid any bolete with a RED pore surface, BLUE-staining flesh, or both. King boletes have a white-to-olive pore surface that does not stain blue.",
+    "lookalikes": [
+      {
+        "species": "bitter_bolete",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Tylopilus felleus (bitter bolete) is similar in size and shape but has a PINK pore surface (vs white-to-olive in king bolete) and intensely bitter flesh. Not toxic but inedibly bitter — a single specimen can ruin a dish. Taste a tiny piece of raw cap flesh: king bolete is mild and nutty; bitter bolete is immediately, intensely bitter.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Bessette, A. et al. North American Boletes. Syracuse Univ. Press, 2000.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981."
+    ]
+  },
+  {
+    "species": "lambs_quarters",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "young shoots",
+      "seeds"
+    ],
+    "preparation": {
+      "edible": "Young leaves and tender shoot tips are excellent raw in salads or cooked like spinach (steaming or sautéing for 3-5 minutes). Seeds can be harvested in fall and ground into flour or cooked as a grain. One of the most nutritious wild greens — higher in calcium, iron, and vitamins A and C than spinach."
+    },
+    "warnings": "Contains oxalic acid (like spinach) — people with kidney stones or kidney disease should limit consumption, especially raw. Avoid harvesting from roadsides, agricultural fields (pesticide exposure), or areas with potential heavy metal contamination, as lamb's quarters readily accumulates nitrates and heavy metals from soil.",
+    "lookalikes": [
+      {
+        "species": "Chenopodium ambrosioides (epazote/wormseed)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Epazote has a strong pungent odor when leaves are crushed, with more deeply toothed, narrower leaves. Lamb's quarters leaves have a mealy white coating on undersides and no strong odor. Epazote is used as a culinary herb in small amounts but is toxic in large quantities.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Duke, J.A. Handbook of Edible Weeds. CRC Press, 1992."
+    ]
+  },
+  {
+    "species": "lions_mane",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Slice into steaks and sauté in butter until golden — develops a lobster-like flavor and texture. Squeeze out excess moisture before cooking."
+    },
+    "warnings": "No dangerous lookalikes. The single unbranched clump of white cascading spines on hardwood is unmistakable. One of the safest wild mushrooms to identify.",
+    "lookalikes": [
+      {
+        "species": "bears_head_tooth",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Bear's head tooth (Hericium americanum) has a branched structure with spines hanging from multiple branches, while lion's mane is a single unbranched globular mass of spines. Both are edible — confusion is harmless.",
+        "source": "Kuo, 100 Edible Mushrooms (2007); Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Stamets, P. Mycelium Running. Ten Speed Press, 2005.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986."
+    ]
+  },
+  {
+    "species": "lowbush_blueberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Berries are edible raw — sweet and flavorful, often considered more intensely flavored than cultivated highbush blueberries. Use in all the same ways: raw, baked, jammed, frozen."
+    },
+    "warnings": "No dangerous lookalikes that produce blue berries in clusters on low shrubs. All Vaccinium species with blue-black berries are edible.",
+    "lookalikes": [
+      {
+        "species": "highbush_blueberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Highbush blueberry (Vaccinium corymbosum) grows as a tall shrub (2-4m) while lowbush grows as a ground-hugging plant under 50cm. Both produce edible blueberries — confusion is harmless.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "USDA NRCS Plant Profile. Vaccinium angustifolium."
+    ]
+  },
+  {
+    "species": "mayapple",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [
+      "ripe fruit"
+    ],
+    "preparation": {
+      "edible": "ONLY the fully ripe fruit is edible. Ripe fruit is soft, yellowish, fragrant, and detaches easily from the stem (typically late July-August). Eat the pulp raw or cooked into preserves and drinks. Remove seeds before cooking. The ripe fruit has a tropical, citrus-like flavor."
+    },
+    "warnings": "ALL parts of the plant except the ripe fruit are TOXIC — leaves, stems, roots, and unripe (green/white) fruit contain podophyllotoxin, a potent cytotoxic compound. Ingestion causes severe vomiting, diarrhea, and potentially life-threatening toxicity. Podophyllotoxin is used in chemotherapy drugs. Even handling the root can cause skin irritation. NEVER eat unripe fruit.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "USDA Forest Service. Fire Effects Information System: Podophyllum peltatum. https://www.fs.usda.gov/database/feis/"
+    ]
+  },
+  {
+    "species": "meadow_garlic",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "bulbs",
+      "leaves",
+      "flowers",
+      "bulbils"
+    ],
+    "preparation": {
+      "edible": "All parts are edible and taste like mild garlic/onion. Bulbs can be used like small garlic cloves — raw or cooked. Leaves are used as a chive substitute. Aerial bulbils (small bulbs in the flower cluster) are a convenient harvest. CRITICAL: Always confirm identity by smell — all parts of true Allium species smell distinctly of garlic or onion. If it looks like garlic but has NO onion/garlic smell, DO NOT EAT IT."
+    },
+    "warnings": "DANGEROUS LOOKALIKES EXIST. The smell test is your most important tool: crush a leaf and smell it. True meadow garlic (Allium canadense) always smells of onion/garlic. Death camas (Zigadenus/Toxicoscordion) and Star of Bethlehem (Ornithogalum) have similar grass-like leaves and bulbs but NO garlic/onion odor, and both are toxic — death camas can be fatal.",
+    "lookalikes": [
+      {
+        "species": "Zigadenus spp. / Toxicoscordion spp. (death camas)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Death camas has grass-like basal leaves similar to wild garlic but produces a raceme of small white/cream flowers (not the umbel with bulbils of meadow garlic). CRITICAL: death camas has NO onion or garlic odor. Always crush and smell the leaves. Death camas bulbs can be fatal if ingested.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      },
+      {
+        "species": "Ornithogalum umbellatum (Star of Bethlehem)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Star of Bethlehem has narrow grass-like leaves with a white midrib stripe and star-shaped white flowers with green stripes on the reverse. No onion/garlic odor. The bulb resembles a small onion but is toxic, containing cardiac glycosides. Meadow garlic always has a strong garlic/onion scent.",
+        "source": "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "morel",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Must be cooked — raw morels contain hydrazine compounds that are destroyed by heat. Sauté, bread and fry, or add to cream sauces. Never eat raw."
+    },
+    "warnings": "DEADLY LOOKALIKE: False morels (Gyromitra esculenta) fruit in the same season and habitat. False morels contain gyromitrin, which converts to monomethylhydrazine (rocket fuel) in the body and can be fatal. Always verify the honeycomb pattern and hollow interior.",
+    "lookalikes": [
+      {
+        "species": "false_morel",
+        "danger_level": "deadly",
+        "in_dataset": true,
+        "distinguishing_features": "True morels have a HONEYCOMB pattern of pits and ridges. False morels have a BRAIN-LIKE, irregularly wrinkled and lobed cap. CRITICAL FIELD TEST: slice in half vertically. True morels are COMPLETELY HOLLOW — a single continuous cavity from cap to stipe base. False morels are CHAMBERED — containing cottony tissue and irregular internal folds. True morel caps are fused to the stipe along their full length; false morel caps attach only at the top.",
+        "source": "Kuo, MushroomExpert.com (2012); Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. Morchella. MushroomExpert.com, 2012.",
+      "Beug, M.W. Mushroom Poisoning in North America. NAMA, 2006."
+    ]
+  },
+  {
+    "species": "mullein",
+    "edibility": [
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "medicinal": "Primarily used as a medicinal tea. Steep dried leaves or flowers in hot water for 10-15 minutes. ALWAYS strain through a fine cloth or coffee filter to remove the tiny irritating hairs. Flower-infused oil (flowers steeped in olive oil for 2-3 weeks) is a traditional earache remedy. Not typically eaten as food."
+    },
+    "warnings": "The fine hairs covering leaves and stems can irritate the throat and digestive tract if not filtered out of tea. Mullein seeds contain rotenone (a fish poison) and should never be consumed. Some people experience contact dermatitis from handling the fuzzy leaves.",
+    "lookalikes": [
+      {
+        "species": "Digitalis purpurea (foxglove)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "First-year foxglove rosettes can resemble mullein rosettes. Foxglove leaves are darker green, more wrinkled/puckered, with crenate margins and prominent veining on undersides. Mullein leaves are densely covered in soft woolly hairs giving a silver-green appearance and feel velvety. Foxglove contains cardiac glycosides (digitalis) and is potentially fatal.",
+        "source": "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000."
+      }
+    ],
+    "sources": [
+      "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Grieve, M. A Modern Herbal. Dover Publications, 1971 (reprint)."
+    ]
+  },
+  {
+    "species": "multiflora_rose",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "hips",
+      "petals"
+    ],
+    "preparation": {
+      "edible": "Rose hips are edible raw or cooked — high in vitamin C. Remove seeds and fine hairs inside before eating (the hairs cause irritation). Petals are edible raw in salads or infused in water. Hips are best after the first frost when they soften and sweeten."
+    },
+    "warnings": "No dangerous lookalikes among roses. All rose species (Rosa) produce edible hips and petals. Multiflora rose is highly invasive — foraging is encouraged. Watch for thorns.",
+    "lookalikes": [
+      {
+        "species": "rose_hip",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Dog rose (Rosa canina) produces larger hips. Multiflora rose produces clusters of small hips. Both are edible — any rose hip is safe.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); Thayer (2010)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "USDA NRCS Plant Profile. Rosa multiflora."
+    ]
+  },
+  {
+    "species": "muscadine",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "leaves",
+      "tendrils"
+    ],
+    "preparation": {
+      "edible": "Ripe muscadine grapes are eaten fresh — bite the thick skin to squeeze out the sweet pulp. Excellent for jellies, jams, wine, and juice. Young leaves and tendrils can be eaten raw or cooked. Muscadines ripen individually (not in bunches) and drop when ripe."
+    },
+    "warnings": "No significant toxicity concerns. Thick skin is tart and tannic but not harmful. Muscadine (Vitis rotundifolia) has simple tendrils (not forked), round leaves with coarse teeth. Do not confuse with moonseed vine.",
+    "lookalikes": [
+      {
+        "species": "wild_grape",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Other wild grapes (Vitis spp.) have forked tendrils and fruit in clusters. Muscadine has unbranched tendrils and fruit ripens individually. Both are equally edible.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "Menispermum canadense (moonseed)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Moonseed is a twining vine with NO tendrils (grapes always have tendrils). Moonseed has a single crescent-shaped seed per berry; grapes have round seeds. Moonseed berries contain the alkaloid dauricine and are potentially fatal.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+    ]
+  },
+  {
+    "species": "ostrich_fern",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fiddleheads"
+    ],
+    "preparation": {
+      "edible": "Harvest only tightly coiled fiddleheads in early spring when they are 1-2 inches above ground, still covered in papery brown scales. Remove scales and wash thoroughly. MUST be cooked before eating — boil for 10-15 minutes or steam for 12-15 minutes. Never eat raw."
+    },
+    "warnings": "ONLY harvest fiddleheads from ostrich fern (Matteuccia struthiopteris) — other fern species are NOT safe to eat. Even ostrich fern fiddleheads must be thoroughly cooked. The CDC has documented foodborne illness outbreaks from raw or undercooked fiddleheads. Identify by smooth green stipe with a deep U-shaped groove and presence of last year's brown fertile fronds at the base.",
+    "lookalikes": [
+      {
+        "species": "Pteridium aquilinum (bracken fern)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Bracken fern fiddleheads emerge individually from underground rhizomes (not in a crown) and have three-branched tips. Ostrich fern fiddleheads emerge in a tight cluster from a central crown. Bracken contains ptaquiloside, a known carcinogen. Do not eat bracken fiddleheads.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      },
+      {
+        "species": "Osmunda cinnamomea (cinnamon fern)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Cinnamon fern fiddleheads are covered in dense woolly cinnamon-brown hair (not papery scales). Ostrich fern fiddleheads have a smooth green stipe with a U-shaped groove and loose papery brown scales.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "CDC. Foodborne Illness Associated with Fiddlehead Ferns. MMWR, 1994.",
+      "University of Maine Cooperative Extension. Bulletin #4198: Fiddleheads. https://extension.umaine.edu"
+    ]
+  },
+  {
+    "species": "oyster_mushroom",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté, add to stir-fries, or use in soups. Tear along the natural grain rather than cutting. Harvest young specimens — older ones become tough."
+    },
+    "warnings": "Generally safe. The fan-shaped white-to-gray caps growing in overlapping shelves on dead hardwood with decurrent gills and white spore print are distinctive. Angel wings (Pleurocybella porrigens), a thin white wood-growing mushroom, have caused fatalities in Japan in people with kidney conditions — they grow on conifers, not hardwood.",
+    "lookalikes": [
+      {
+        "species": "angel_wings",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Angel wings (Pleurocybella porrigens) are thinner, pure white, and grow on CONIFER wood. Oyster mushrooms are thicker, white to gray/tan/lilac, and grow on HARDWOOD. Angel wings lack a distinct stipe; oysters have a short lateral stipe or are sessile. Angel wings have caused fatal encephalopathy in people with kidney disease in Japan.",
+        "source": "Kuo, MushroomExpert.com; Arora, Mushrooms Demystified (1986)"
+      }
+    ],
+    "sources": [
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997."
+    ]
+  },
+  {
+    "species": "pawpaw",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "ripe fruit"
+    ],
+    "preparation": {
+      "edible": "Harvest fruit when it yields to gentle pressure and has a strong tropical fragrance (September-October). Cut in half and scoop out the custard-like pulp, discarding the large brown seeds. Eat fresh or use in smoothies, ice cream, baked goods, and custards. Flavor described as banana-mango-vanilla."
+    },
+    "warnings": "Seeds are toxic — they contain asimicin and other acetogenins. Some people experience allergic reaction or contact dermatitis from the fruit skin. A small percentage of people experience GI distress. Avoid eating the skin. Leaves and bark contain insecticidal acetogenins and are not edible.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Kentucky State University Pawpaw Program. Pawpaw: A Tropical Fruit for Temperate Climates. https://www.kysu.edu/academics/college-of-agriculture/pawpaw/"
+    ]
+  },
+  {
+    "species": "persimmon",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "ripe fruit"
+    ],
+    "preparation": {
+      "edible": "American persimmon (Diospyros virginiana) must be fully ripe before eating — wait until fruit is very soft, wrinkled, and falls from the tree naturally (after frost, typically October-November). Ripe fruit has a rich, sweet, date-like flavor. Eat fresh, or use pulp in puddings, breads, and jams. Strain pulp through a food mill to remove seeds and skin."
+    },
+    "warnings": "UNRIPE persimmon fruit is extremely astringent due to high tannin content. While not toxic, eating large amounts of unripe persimmon can potentially cause phytobezoars (intestinal blockages). Wait for full ripeness — mushy and sweet with no astringency.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+    ]
+  },
+  {
+    "species": "pineapple_weed",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "flower heads",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Flower heads are the primary edible part — eat raw, brew as tea, or add to salads. Has a sweet pineapple-chamomile flavor. Closely related to chamomile and used the same way."
+    },
+    "warnings": "No dangerous lookalikes. The small cone-shaped yellow-green flower heads without ray petals (no white 'daisy' petals) and the pineapple-chamomile scent when crushed are distinctive. Grows in compacted, disturbed soil (paths, driveways, trailsides).",
+    "lookalikes": [],
+    "sources": [
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "USDA NRCS Plant Profile. Matricaria discoidea."
+    ]
+  },
+  {
+    "species": "poison_hemlock",
+    "edibility": [
+      "deadly"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "No safe preparation exists. All piperidine alkaloids remain toxic regardless of cooking. Do not consume any part. Even handling should be done with gloves — absorption through skin is possible."
+    },
+    "warnings": "All parts of the plant are poisonous at all stages of growth. Contains coniine and gamma-coniceine, which cause ascending muscular paralysis leading to respiratory failure and death. The patient may remain conscious until near the end. Symptoms begin within 30 minutes to 2 hours. Historically the poison used to execute Socrates. One of the most poisonous plants in North America.",
+    "lookalikes": [
+      {
+        "species": "queen_annes_lace",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "PURPLE BLOTCHES ON STEMS is the single most reliable field feature — poison hemlock stems are smooth, hairless, and mottled with purple-red spots. Wild carrot stems are hairy and green with no purple. Poison hemlock stems are HOLLOW and smooth; wild carrot stems are mostly solid and hairy. Crushed poison hemlock smells FOUL and mousy; wild carrot smells like carrot. Poison hemlock grows much larger — up to 3 meters vs wild carrot's 1 meter.",
+        "source": "Vetter, J. Poison hemlock. Food and Chemical Toxicology, 42(9), 2004; Ohio State University Extension"
+      },
+      {
+        "species": "yarrow",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Yarrow has finely divided feathery leaves that could superficially resemble poison hemlock leaves. Yarrow is much smaller (under 1 meter), has flat-topped flower clusters (not umbels), and lacks purple-blotched hollow stems. Yarrow has a distinctive herbal/camphor aroma when crushed.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977)"
+      }
+    ],
+    "sources": [
+      "Vetter, J. Poison hemlock (Conium maculatum L.). Food and Chemical Toxicology, 42(9), 2004.",
+      "Schep, L.J. et al. Poisoning due to Conium maculatum. Clinical Toxicology, 47(1), 2009.",
+      "Kingsbury, J.M. Poisonous Plants of the United States and Canada. Prentice-Hall, 1964.",
+      "Ohio State University Extension. Poison Hemlock.",
+      "USDA NRCS Plant Profile. Conium maculatum L."
+    ]
+  },
+  {
+    "species": "poison_ivy",
+    "edibility": [
+      "toxic"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "Not consumed. Urushiol is not destroyed by cooking. Burning poison ivy is EXTREMELY DANGEROUS — urushiol particles in smoke cause severe lung inflammation and potentially life-threatening pulmonary edema."
+    },
+    "warnings": "All parts contain urushiol oil, which causes severe allergic contact dermatitis in approximately 85% of the population. Urushiol remains active on surfaces (tools, clothing, pet fur) for months to years. Not a foraging target, but included because foragers encounter it constantly and it can contaminate nearby foraged plants. If ingested, causes severe inflammation of mouth, throat, and GI tract.",
+    "lookalikes": [
+      {
+        "species": "virginia_creeper",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Virginia creeper (Parthenocissus quinquefolia) has FIVE leaflets. Poison ivy ALWAYS has THREE. 'Leaves of three, let it be.' They often grow in the same habitat and even on the same trees.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977); USDA NRCS"
+      },
+      {
+        "species": "box_elder_seedling",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Box elder (Acer negundo) seedlings have trifoliate compound leaves that are very commonly confused with poison ivy. Box elder has OPPOSITE leaf arrangement on the stem. Poison ivy has ALTERNATE arrangement. Box elder leaves are more uniformly toothed.",
+        "source": "CDC/NIOSH. Poisonous Plants."
+      },
+      {
+        "species": "staghorn_sumac",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Staghorn sumac (Rhus typhina) is sometimes avoided because it's in the same family as poison ivy, but it is safe. Sumac has compound leaves with MANY leaflets (11-31), not three. Sumac has fuzzy red berry clusters at branch tips. Poison sumac (Toxicodendron vernix) is the dangerous one — it grows in wetlands, has smooth white berries, and 7-13 leaflets.",
+        "source": "Gladman, A.C. Toxicodendron Dermatitis. Wilderness & Environmental Medicine, 17(2), 2006."
+      }
+    ],
+    "sources": [
+      "Gladman, A.C. Toxicodendron Dermatitis: Poison Ivy, Oak, and Sumac. Wilderness & Environmental Medicine, 17(2), 2006.",
+      "USDA NRCS Plant Profile. Toxicodendron radicans.",
+      "CDC/NIOSH. Poisonous Plants — Poison Ivy.",
+      "American Academy of Dermatology. Poison Ivy, Oak, and Sumac."
+    ]
+  },
+  {
+    "species": "pokeweed",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [
+      "very young spring shoots"
+    ],
+    "preparation": {
+      "edible": "ONLY the very young spring shoots (under 6-8 inches tall, before any pink/red coloration appears in stems) are considered edible, and ONLY after triple-boil preparation: boil in water for 5 minutes, drain completely, replace with fresh water, boil again for 5 minutes, drain, repeat a third time. After boiling, shoots can be sautéed. This is the traditional Appalachian 'poke sallet.'"
+    },
+    "warnings": "POKEWEED IS DANGEROUS FOR BEGINNERS. The entire mature plant — roots, stems, leaves, and berries — contains phytolaccatoxin and phytolaccigenin. Roots are the most toxic part. Toxicity increases dramatically as the plant matures. Purple/red coloration in stems indicates high toxin levels — NEVER harvest with any red or purple color. Berries have caused deaths in children. Many experts advise against eating pokeweed entirely.",
+    "lookalikes": [
+      {
+        "species": "Veratrum viride (false hellebore)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Young false hellebore shoots can resemble pokeweed shoots. False hellebore has strongly ribbed, pleated leaves that clasp the stem. Pokeweed shoots have smooth, alternate leaves. False hellebore is highly toxic and grows in wet meadows; pokeweed prefers disturbed ground and field edges.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "CDC. Poisoning from Pokeweed. MMWR. Various reports.",
+      "North Carolina State University Extension. Pokeweed — Phytolacca americana. https://plants.ces.ncsu.edu"
+    ]
+  },
+  {
+    "species": "purple_dead_nettle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "stems"
+    ],
+    "preparation": {
+      "edible": "Entire above-ground plant is edible raw or cooked. Young tops are best — add to salads, smoothies, or sauté as greens. Mild, slightly earthy flavor. Despite the name, it does NOT sting (unlike true stinging nettle)."
+    },
+    "warnings": "No dangerous lookalikes. Square stems, opposite leaves, and purple-tinged upper leaves with small pink-purple tubular flowers are characteristic of the mint family. Sometimes confused with henbit (Lamium amplexicaule), which is also edible.",
+    "lookalikes": [],
+    "sources": [
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "purslane",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flower buds"
+    ],
+    "preparation": {
+      "edible": "Entire above-ground plant is edible raw or cooked. Succulent with a mild, slightly tart flavor. Excellent raw in salads, or lightly sautéed. One of the highest plant sources of omega-3 fatty acids (alpha-linolenic acid)."
+    },
+    "warnings": "Contains oxalic acid — people with kidney stones should limit consumption. Primary safety concern is misidentification with spurge.",
+    "lookalikes": [
+      {
+        "species": "Euphorbia maculata / E. supina (spotted spurge / prostrate spurge)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "KEY TEST: break a stem — spurge exudes white milky sap (latex), while purslane exudes clear watery sap. Spurge has thin, flat, opposite leaves on thin wiry stems. Purslane has thick, succulent, alternate leaves on fleshy reddish stems. Spurge latex is a skin and GI irritant.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Simopoulos, A.P. et al. 'Common purslane: a source of omega-3 fatty acids and antioxidants.' Journal of the American College of Nutrition, 1992."
+    ]
+  },
+  {
+    "species": "queen_annes_lace",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [
+      "roots",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "First-year roots are edible cooked — they are the wild ancestor of the cultivated carrot. Flower heads can be battered and fried. Seeds used as seasoning."
+    },
+    "warnings": "DEADLY LOOKALIKE: Poison hemlock (Conium maculatum) is one of the most poisonous plants in North America and closely resembles wild carrot. ALWAYS check stems: poison hemlock has SMOOTH, HAIRLESS stems with PURPLE BLOTCHES. Wild carrot has HAIRY stems with NO purple. Crush and smell: wild carrot smells like carrot; poison hemlock smells foul and mousy. Also resembles water hemlock (Cicuta maculata), which is equally deadly. This is NOT a beginner plant.",
+    "lookalikes": [
+      {
+        "species": "poison_hemlock",
+        "danger_level": "deadly",
+        "in_dataset": true,
+        "distinguishing_features": "Poison hemlock stems are SMOOTH, HAIRLESS, HOLLOW, and covered in PURPLE-RED BLOTCHES. Wild carrot stems are HAIRY, mostly SOLID, and GREEN without purple. Poison hemlock grows much larger (up to 3m vs 1m). Crushed poison hemlock smells FOUL and mousy; wild carrot smells like CARROT.",
+        "source": "Vetter, Food and Chemical Toxicology (2004); Peterson, Field Guide to Edible Wild Plants (1977)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Vetter, J. Poison hemlock (Conium maculatum L.). Food and Chemical Toxicology, 42(9), 2004."
+    ]
+  },
+  {
+    "species": "ramps",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "bulbs"
+    ],
+    "preparation": {
+      "edible": "Leaves and bulbs have a rich garlic-onion flavor. Leaves can be eaten raw in salads or pesto, or sautéed. Bulbs used like scallions — sautéed, pickled, or in soups. SUSTAINABLE HARVEST: Take only one leaf per plant and leave the bulb. If harvesting bulbs, take no more than 5-10% of a patch."
+    },
+    "warnings": "CONSERVATION CONCERN: Ramps are severely overharvested throughout Appalachia. Populations are declining. Quebec has legally protected ramps since 1995. Practice sustainable harvest — preferably take only leaves. Regrowth from bulb harvest takes 5-7 years. Always confirm identity by smell (strong garlic/onion odor) — leaves resemble toxic lily-of-the-valley.",
+    "lookalikes": [
+      {
+        "species": "Convallaria majalis (lily-of-the-valley)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Lily-of-the-valley has similar broad elliptical leaves but lacks any garlic or onion odor when crushed. Ramps have a strong, unmistakable garlic/onion scent. Lily-of-the-valley typically has 2-3 leaves wrapping around stem base; ramp leaves have a distinct reddish stem emerging from a bulb. Lily-of-the-valley contains over 30 cardiac glycosides and is potentially fatal.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Rock, J. et al. 'Ecology and Conservation of Allium tricoccum.' Native Plants Journal, 2004.",
+      "USDA Forest Service. Celebrating Wildflowers: Ramps. https://www.fs.usda.gov"
+    ]
+  },
+  {
+    "species": "red_chanterelle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Sauté gently — smaller and more delicate than golden chanterelles. Peppery flavor when raw."
+    },
+    "warnings": "Same jack-o'-lantern caution as other chanterelles, though confusion is less likely due to the small size and distinctive cinnabar-red color of red chanterelles.",
+    "lookalikes": [
+      {
+        "species": "jack_o_lantern",
+        "danger_level": "toxic",
+        "in_dataset": true,
+        "distinguishing_features": "Jack-o'-lanterns are much larger, orange (not cinnabar-red), grow in CLUSTERS on WOOD, and have TRUE GILLS. Red chanterelles are small (2-5cm), grow SINGLY from SOIL, and have false ridges or nearly smooth undersurfaces. Confusion is uncommon due to the size and color difference.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com (2014)"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. Cantharellus cinnabarinus. MushroomExpert.com.",
+      "Lincoff, G.H. Audubon Society Field Guide to North American Mushrooms. Alfred A. Knopf, 1981."
+    ]
+  },
+  {
+    "species": "red_clover",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "flowers",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Flower heads are edible raw, dried for tea, or battered and fried. Young leaves can be added to salads. Dried flowers make a mild, pleasant tea. Pull individual florets from the head for the sweetest flavor.",
+      "medicinal": "Flowering tops steeped as an infusion — pour near-boiling water over 1–2 teaspoons of dried flowers, cover, and steep 10–15 minutes. Traditionally used as an expectorant for coughs and respiratory congestion. Contains isoflavones (phytoestrogens) — avoid during pregnancy or if taking blood thinners."
+    },
+    "warnings": "No dangerous lookalikes. The round pink-to-red flower heads and trifoliate leaves with a characteristic pale chevron mark are distinctive. Ubiquitous in lawns, fields, and roadsides.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "NCCIH (National Center for Complementary and Integrative Health). Red Clover. nccih.nih.gov.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "red_elderberry",
+    "edibility": [
+      "toxic"
+    ],
+    "safety_verdict": "danger",
+    "edible_parts": [],
+    "preparation": {
+      "warning": "Ripe berries MAY be edible after thorough cooking AND complete removal of all seeds, but this is debated. Seeds contain the highest concentration of cyanogenic glycosides. Some authorities advise against consumption entirely. The safe foraging species is American black elderberry (Sambucus canadensis), not red elderberry."
+    },
+    "warnings": "All parts (bark, leaves, roots, unripe berries, seeds) contain cyanogenic glycosides that metabolize to hydrogen cyanide. Significantly more toxic than black elderberry. Causes nausea, vomiting, abdominal cramps, diarrhea. In severe cases (large quantities or consumption of bark/roots/leaves): cyanide poisoning with rapid heartbeat, respiratory depression, convulsions, potentially death.",
+    "lookalikes": [
+      {
+        "species": "american_elderberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "American black elderberry has dark PURPLE-BLACK berries in FLAT-TOPPED clusters. Red elderberry has RED berries in DOME-SHAPED or PYRAMIDAL clusters. Black elderberry has WHITE pith in stems; red elderberry has BROWN pith. Black elderberry flowers June-July in lowland areas; red elderberry flowers earlier (April-May) and prefers higher elevations. Even black elderberry should be cooked before consumption.",
+        "source": "Thayer, The Forager's Harvest (2006); Peterson, Field Guide to Edible Wild Plants (1977)"
+      },
+      {
+        "species": "elderberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "European elderberry (Sambucus nigra) also has dark purple-black berries in flat-topped clusters, similar to American black elderberry and distinct from red elderberry's red berries in dome-shaped clusters. European elderberry is widely used for elderflower cordial and elderberry syrup.",
+        "source": "Atkinson, M.D. & Atkinson, E. Sambucus nigra L. Journal of Ecology, 90(5), 2002."
+      }
+    ],
+    "sources": [
+      "Turner, N.J. & Szczawinski, A.F. Common Poisonous Plants and Mushrooms of North America. Timber Press, 1991.",
+      "Atkinson, M.D. & Atkinson, E. Sambucus nigra L. Journal of Ecology, 90(5), 2002.",
+      "Cornell University Poisonous Plants Database. Sambucus.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "USDA NRCS Plant Profile. Sambucus racemosa L."
+    ]
+  },
+  {
+    "species": "red_mulberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "young leaves"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are edible raw — sweet and juicy when dark red to black. Use in pies, jams, and wines. Unripe berries and raw leaves may cause mild GI upset. Young leaves are edible cooked."
+    },
+    "warnings": "No dangerous lookalikes for the fruit. The elongated aggregate berry on a tree is distinctive. Do not eat unripe (white or pink) berries — they can cause hallucinations and GI distress. Milky sap from leaves and unripe fruit can irritate skin.",
+    "lookalikes": [
+      {
+        "species": "white_mulberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "White mulberry (Morus alba) has glossy, smooth upper leaf surfaces; red mulberry has rough, sandpapery upper leaf surfaces. White mulberry fruits range from white to pink to purple; red mulberry fruits are dark red to black. Both are edible — confusion is harmless.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "USDA NRCS Plant Profile. Morus rubra."
+    ]
+  },
+  {
+    "species": "red_raspberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Berries are edible raw or cooked. Leaves are dried for tea (raspberry leaf tea). Berries have a hollow core when picked — this distinguishes all raspberries from blackberries (solid core)."
+    },
+    "warnings": "No dangerous lookalikes among raspberries and blackberries — all Rubus species with aggregate berries are safe to eat. The only precaution is thorns.",
+    "lookalikes": [
+      {
+        "species": "black_raspberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Black raspberries have dark purple-black fruit and glaucous (whitish-blue) canes. Red raspberries have red fruit and less glaucous canes. Both have a hollow core when picked. Both are edible — confusion is harmless.",
+        "source": "Thayer, The Forager's Harvest (2006); Peterson (1977)"
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "redbud",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "flowers",
+      "young seed pods",
+      "flower buds"
+    ],
+    "preparation": {
+      "edible": "Flowers appear in early spring before the leaves and have a mild, sweet, pea-like flavor. Eat raw in salads, use as garnish, or pickle them. Young green seed pods can be sautéed like snow peas. Flower buds can be pickled as a caper substitute."
+    },
+    "warnings": "No significant toxicity concerns. As a legume (Fabaceae family), redbud is related to peas and beans. Eat in moderation the first time. Avoid harvesting from trees treated with pesticides.",
+    "lookalikes": [],
+    "sources": [
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+    ]
+  },
+  {
+    "species": "rose_hip",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruit (hips)",
+      "petals"
+    ],
+    "preparation": {
+      "edible": "Harvest rose hips after first frost when bright red/orange and slightly soft. Cut in half and scoop out seeds and irritating hairs. Use outer flesh for tea, jam, jelly, syrup, or fruit leather. Rose hips are exceptionally high in vitamin C. Rose petals from any Rosa species are edible — use in salads, teas, or desserts."
+    },
+    "warnings": "The fine hairs surrounding seeds inside the hip are irritating to mouth, throat, and digestive tract — always remove seeds and hairs, or strain thoroughly. Only harvest from wild roses or confirmed unsprayed garden roses.",
+    "lookalikes": [
+      {
+        "species": "multiflora_rose",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Multiflora rose is invasive with small hips in clusters. Native wild roses typically have larger, solitary hips. All Rosa species produce edible hips — no dangerous lookalike within the genus.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+    ]
+  },
+  {
+    "species": "sassafras",
+    "edibility": [
+      "edible_with_caution",
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "young leaves",
+      "root bark"
+    ],
+    "preparation": {
+      "edible": "Young spring leaves (especially mitten-shaped) are dried and ground into filé powder for Cajun/Creole gumbo. Root bark was historically used for sassafras tea and original root beer flavoring. To make tea, scrub small roots, peel the bark, and steep in hot water. Use in moderation.",
+      "medicinal": "Root bark historically steeped as tea by Native Americans for fevers, diarrhea, and rheumatism, and was the original flavoring in root beer. However, sassafras root bark contains safrole, classified as a probable carcinogen — the FDA banned safrole-containing sassafras as a food additive in 1960. Safrole-free leaf (filé powder) remains legal; root bark tea is not recommended."
+    },
+    "warnings": "The FDA banned safrole (the primary essential oil in sassafras root bark) as a food additive in 1960 after studies showed it caused liver cancer in laboratory rats. Commercial root beer no longer contains sassafras. Filé powder (dried leaves) contains much lower safrole levels and is still sold commercially. Pregnant women should avoid. Use root bark tea only occasionally and in moderation, if at all.",
+    "lookalikes": [
+      {
+        "species": "spicebush",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Spicebush grows in similar habitat and has aromatic bark. However, spicebush has simple, entire elliptical leaves, while sassafras has distinctive mitten-shaped, three-lobed, and unlobed leaves often on the same tree. Both are aromatic and safe.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "FDA. CFR Title 21, Section 189.180 — Safrole. Code of Federal Regulations.",
+      "Foster, S. & Duke, J.A. A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. Houghton Mifflin, 2000.",
+      "Memorial Sloan Kettering Cancer Center. Sassafras herb information page. mskcc.org.",
+      "National Toxicology Program. Report on Carcinogens: Safrole. U.S. DHHS, 15th Edition.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "serviceberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruit",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Fruits are eaten fresh, dried, or cooked into jams, pies, and sauces. Can be used as a blueberry substitute in any recipe. Flowers are edible as garnish."
+    },
+    "warnings": "Seeds contain small amounts of cyanogenic glycosides but are too small and hard to pose a realistic risk when eaten whole in fruit. No significant safety concerns with normal consumption.",
+    "lookalikes": [
+      {
+        "species": "Crataegus spp. (hawthorn)",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Hawthorn has thorns and smaller, harder fruits with a mealy texture. Serviceberry lacks thorns and has smooth bark with vertical striping. Hawthorn leaves are more deeply lobed.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+    ]
+  },
+  {
+    "species": "shagbark_hickory",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "nuts",
+      "sap",
+      "inner bark"
+    ],
+    "preparation": {
+      "edible": "Crack nuts and extract meats for eating raw, roasting, or baking. Hickory milk is made by boiling crushed nuts (shell and all) in water and straining. Sap can be boiled into syrup similarly to maple."
+    },
+    "warnings": "Nuts require significant effort to crack. Bitternut hickory (Carya cordiformis) nuts are extremely bitter and unpalatable, though not toxic.",
+    "lookalikes": [
+      {
+        "species": "Carya cordiformis (bitternut hickory)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Bitternut hickory has tight, non-shaggy bark and yellow-green terminal buds. Shagbark hickory has distinctive long, peeling bark strips and brown buds. Bitternut has 7-11 leaflets vs shagbark's 5.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      },
+      {
+        "species": "butternut",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Butternut has oblong sticky fruits, compound leaves with 11-17 leaflets, and chambered pith. Shagbark hickory has round nuts in thick husks and only 5 leaflets with dramatic peeling bark.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "USDA NRCS Plant Guide: Carya ovata. https://plants.usda.gov"
+    ]
+  },
+  {
+    "species": "smooth_chanterelle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Similar to golden chanterelle — sauté in butter. Sometimes considered the best-flavored chanterelle."
+    },
+    "warnings": "Same jack-o'-lantern caution as other chanterelles. Verify solitary growth from soil, smooth to slightly wrinkled undersurface (not true gills), and pale interior flesh.",
+    "lookalikes": [
+      {
+        "species": "jack_o_lantern",
+        "danger_level": "toxic",
+        "in_dataset": true,
+        "distinguishing_features": "Jack-o'-lanterns have TRUE GILLS and grow in CLUSTERS on WOOD. Smooth chanterelles have a nearly SMOOTH to slightly wrinkled undersurface (not even the pronounced false ridges of golden chanterelles) and grow SINGLY from SOIL. Interior flesh of smooth chanterelle is white-to-pale; jack-o'-lantern is orange throughout.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. Cantharellus lateritius. MushroomExpert.com.",
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997."
+    ]
+  },
+  {
+    "species": "sochan",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "young leaves",
+      "shoots"
+    ],
+    "preparation": {
+      "edible": "Young spring leaves are harvested before the plant flowers. Traditionally boiled or sautéed as a potherb. Cherokee peoples historically gathered sochan (Rudbeckia laciniata) as a staple green. Older leaves become tough."
+    },
+    "warnings": "Harvest only young leaves in spring. Some Asteraceae family members can cause contact dermatitis in sensitive individuals.",
+    "lookalikes": [
+      {
+        "species": "Rudbeckia hirta (black-eyed Susan)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Black-eyed Susan has undivided, rough-hairy leaves and smaller flower heads with dark brown central cones. Sochan has deeply cut, lobed leaves (3-7 lobes) and a raised greenish-yellow central cone. Sochan grows much taller (3-10 feet).",
+        "source": "Hamel, P.B. & Chiltoskey, M.U. Cherokee Plants and Their Uses: A 400 Year History. Herald Publishing, 1975."
+      }
+    ],
+    "sources": [
+      "Hamel, P.B. & Chiltoskey, M.U. Cherokee Plants and Their Uses: A 400 Year History. Herald Publishing, 1975.",
+      "Davis, J. Cultivating Sochan (Rudbeckia laciniata). Appalachian Sustainable Agriculture Project, 2019.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+    ]
+  },
+  {
+    "species": "solomons_seal",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "rhizomes",
+      "young shoots"
+    ],
+    "preparation": {
+      "edible": "Rhizomes are peeled and boiled or roasted — starchy, parsnip-like quality. Young spring shoots can be eaten like asparagus when cooked. Berries are not typically eaten and may cause digestive upset."
+    },
+    "warnings": "Berries may cause nausea, vomiting, and diarrhea if eaten. Only consume rhizomes and young shoots. Do not confuse with lily of the valley (Convallaria majalis), which is highly toxic.",
+    "lookalikes": [
+      {
+        "species": "false_solomons_seal",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "False Solomon's seal (Maianthemum racemosum) has a terminal cluster of white flowers and speckled red berries at stem tip. True Solomon's seal (Polygonatum) has bell-shaped flowers dangling from leaf axils along the underside of the arching stem. Both are edible.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "Convallaria majalis (lily of the valley)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Lily of the valley has 2-3 basal leaves emerging directly from the ground, not along an arching stem. Its flowers are in a one-sided raceme. Solomon's seal has an arching stem with alternating leaves and paired dangling flowers at each leaf node. Lily of the valley is highly cardiotoxic.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "spicebush",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "twigs",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Twigs and leaves are steeped for a fragrant tea with a flavor reminiscent of allspice. Berries are dried and ground as a spice (Appalachian allspice). Fresh berries can be used whole in cooking. Young leaves can be used in salads or as seasoning.",
+      "medicinal": "Bark and twig tea traditionally used by Cherokee, Creek, and Rappahannock peoples for colds, fevers, and rheumatism. Steep fresh twigs in hot water for 10–15 minutes. Also used as a diaphoretic to promote sweating during illness."
+    },
+    "warnings": "No significant toxicity concerns. Harvest sustainably as spicebush is an important native understory shrub and host plant for spicebush swallowtail butterflies.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "USDA NRCS Plant Guide: Lindera benzoin."
+    ]
+  },
+  {
+    "species": "spring_beauty",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "corms",
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Small corms are washed, boiled, or roasted — taste like mild chestnuts or potatoes. Leaves and flowers can be eaten raw in salads. Corms are best harvested in early spring."
+    },
+    "warnings": "Corms are very small and harvesting removes the entire plant. Spring beauty (Claytonia virginica) is a slow-reproducing ephemeral wildflower. Only harvest where extremely abundant and leave most plants undisturbed.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+    ]
+  },
+  {
+    "species": "staghorn_sumac",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruit clusters (drupes)",
+      "young shoots"
+    ],
+    "preparation": {
+      "edible": "Soak ripe red berry clusters in cold water for 15-30 minutes, crush and strain through cloth to make 'sumac-ade' — a tart, lemonade-like drink rich in vitamin C. Do not use hot water as it extracts bitter tannins. Berry clusters can also be dried and ground as a sour spice."
+    },
+    "warnings": "Do NOT confuse with poison sumac (Toxicodendron vernix). Poison sumac has white/gray-green drooping berry clusters and grows ONLY in swamps and wetlands. Staghorn sumac has upright fuzzy red berry clusters and grows in dry upland areas. They look nothing alike. People with severe Anacardiaceae allergies (cashew, mango) may rarely react.",
+    "lookalikes": [
+      {
+        "species": "Toxicodendron vernix (poison sumac)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Poison sumac has smooth white or gray-green berries in loose drooping clusters, smooth-edged leaflets, and grows ONLY in swamps. Staghorn sumac has dense upright cones of fuzzy red berries, serrated leaflets, and velvety hairy stems. Grows in dry uplands. Completely different habitat and appearance.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "Rhus glabra (smooth sumac)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Smooth sumac also has red upright berry clusters and is equally edible. Staghorn sumac has densely hairy stems resembling deer antler velvet; smooth sumac has smooth, waxy stems. Both safe to use interchangeably.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "stinging_nettle",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "young leaves",
+      "shoots",
+      "seeds"
+    ],
+    "preparation": {
+      "edible": "MUST be cooked or thoroughly dried before eating to neutralize stinging trichomes. Blanch in boiling water for 2-3 minutes, steam, or sauté. Excellent as a spinach substitute, in soups, pesto, or dried for tea. Harvest young tops in spring wearing thick gloves.",
+      "medicinal": "Dried leaf tea used for seasonal allergies and as an anti-inflammatory for joint pain. Root preparations used for urinary symptoms — a clinical trial (620 patients) showed significant improvement in BPH symptoms. Steep dried leaves for tea; root is typically taken as capsule or tincture."
+    },
+    "warnings": "Raw plants deliver painful stings from hollow hairs (trichomes) that inject formic acid and histamine. Always wear gloves and long sleeves when harvesting. Cooking, drying, or blending neutralizes the sting. Avoid older plants after flowering. May interact with blood pressure and blood-thinning medications.",
+    "lookalikes": [
+      {
+        "species": "Laportea canadensis (wood nettle)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Wood nettle has alternate, broader leaves (vs stinging nettle's opposite, narrower leaves). Both sting and both are edible when cooked.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      },
+      {
+        "species": "purple_dead_nettle",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Purple dead nettle (Lamium purpureum) is a small mint-family plant with square stems and purple-pink hooded flowers. It does NOT sting. Stinging nettle is much taller with pointed serrated leaves. Both edible.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014.",
+      "NCCIH (National Center for Complementary and Integrative Health). Stinging Nettle. nccih.nih.gov."
+    ]
+  },
+  {
+    "species": "teaberry",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Leaves are chewed fresh for a wintergreen flavor or steeped in warm (not boiling) water for tea. Red berries are eaten fresh as a trailside nibble. Berries have a mild, sweet wintergreen taste.",
+      "medicinal": "Leaf tea brewed for headaches, fever, and sore muscles — traditional use by Algonquin, Cherokee, and Iroquois peoples. Leaves contain methyl salicylate (related to aspirin). Wintergreen oil is used externally only as a liniment for musculoskeletal pain. CAUTION: Pure wintergreen oil is extremely toxic — never ingest oil directly."
+    },
+    "warnings": "Contains methyl salicylate (wintergreen oil), chemically related to aspirin. People with aspirin sensitivity should avoid. Do not consume in very large quantities. Normal culinary use is safe.",
+    "lookalikes": [
+      {
+        "species": "Mitchella repens (partridgeberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Partridgeberry is a trailing vine with small round opposite leaves and paired red berries with two dimples. Teaberry (Gaultheria procumbens) has leathery, oval, alternate leaves clustered at stem tips with a strong wintergreen scent when crushed.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014.",
+      "Motyka, P. et al. Phytochemistry and Biological Profile of Gaultheria procumbens. Molecules, 2024; 29(2):313."
+    ]
+  },
+  {
+    "species": "toothwort",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "rhizomes",
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Rhizomes are washed and eaten raw or added to salads — they have a sharp, horseradish-like flavor. Leaves and flowers can be eaten raw as a peppery garnish. Rhizomes can be grated as a horseradish substitute."
+    },
+    "warnings": "No significant toxicity concerns. Rhizomes are small and harvesting removes the plant, so collect sustainably. Spring ephemeral with a limited harvest window.",
+    "lookalikes": [
+      {
+        "species": "Cardamine spp. (other bittercress species)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Other Cardamine species are generally edible with similar peppery flavor. Toothwort is distinguished by its pair of opposite three-part leaves partway up the stem, white to pale pink four-petaled flowers, and segmented rhizome.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "trout_lily",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "corms"
+    ],
+    "preparation": {
+      "edible": "Young leaves can be eaten raw in small quantities or cooked. Corms can be cooked. Best used sparingly as a trail nibble or salad accent rather than a staple food."
+    },
+    "warnings": "May cause nausea or vomiting if consumed in large quantities — contains emetic compounds. Eat only in small amounts. Trout lily is a slow-reproducing spring ephemeral. Harvesting corms destroys the plant and colonies take years to recover. Harvest very sparingly.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "turkey_tail",
+    "edibility": [
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "medicinal": "Too tough to eat directly. Used medicinally as a tea — simmer dried pieces for 1-2 hours. Rich in polysaccharide-K (PSK), studied for immune support."
+    },
+    "warnings": "No dangerous lookalikes, but commonly confused with non-medicinal look-alikes that are also non-toxic. Verify: concentric color bands on top, WHITE pore surface underneath (not smooth), thin and flexible (not rigid), and a hairy/velvety upper surface.",
+    "lookalikes": [
+      {
+        "species": "false_turkey_tail",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "False turkey tail (Stereum ostrea) has a SMOOTH undersurface with no pores. True turkey tail has a WHITE PORE surface. This is the single most important distinction. Both are non-toxic — confusion just means you're brewing ineffective tea.",
+        "source": "Stamets, Mycelium Running (2005); Kuo, MushroomExpert.com"
+      }
+    ],
+    "sources": [
+      "Stamets, P. Mycelium Running. Ten Speed Press, 2005.",
+      "Kuo, M. Trametes versicolor. MushroomExpert.com.",
+      "Standish, L.J. et al. Trametes versicolor mushroom immune therapy in breast cancer. ISRN Oncology, 2008."
+    ]
+  },
+  {
+    "species": "violet",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "flowers",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Flowers and young leaves are edible raw in salads or candied. Leaves can be cooked as greens or used to thicken soups (mucilaginous). Flowers make a striking purple syrup or jelly."
+    },
+    "warnings": "No dangerous lookalikes. One of the safest and most recognizable wild edibles. African violets (Saintpaulia) are a completely different genus — not relevant to foraging.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Kallas, J. Edible Wild Plants. Gibbs Smith, 2010."
+    ]
+  },
+  {
+    "species": "watercress",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Leaves and tender stems are eaten raw in salads or cooked in soups. Sharp, peppery flavor. Thoroughly wash all parts before eating. Cooking eliminates the risk of liver fluke parasites."
+    },
+    "warnings": "CRITICAL: Only harvest from clean, unpolluted water sources. Watercress near livestock may harbor liver fluke (Fasciola hepatica) larvae. Cooking kills liver fluke but raw consumption from contaminated water is dangerous. Also at risk of heavy metals, pesticide runoff, and bacterial contamination. When in doubt, cook it.",
+    "lookalikes": [
+      {
+        "species": "poison_hemlock",
+        "danger_level": "danger",
+        "in_dataset": true,
+        "distinguishing_features": "Poison hemlock can grow near water with divided leaves, but its leaves are finely dissected (fern-like), not rounded. Poison hemlock stems are smooth with purple blotches and no peppery taste. Watercress has rounded leaflets, hollow stems, sharp peppery flavor, and grows directly in flowing water. Poison hemlock smells musty/mousy when crushed.",
+        "source": "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "CDC. Fascioliasis (Liver Fluke). Centers for Disease Control and Prevention. https://www.cdc.gov/parasites/fasciola/"
+    ]
+  },
+  {
+    "species": "white_mulberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries",
+      "young leaves"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are edible raw — milder and sweeter than red mulberry. Fruit color ranges from white to pink to purple when ripe. Use in the same ways as red mulberry. Young leaves are edible cooked and are the traditional food of silkworms."
+    },
+    "warnings": "No dangerous lookalikes. Same cautions as red mulberry — avoid unripe berries. Invasive species in North America. Foraging is encouraged.",
+    "lookalikes": [
+      {
+        "species": "red_mulberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Red mulberry (Morus rubra) has rough, sandpapery upper leaf surfaces; white mulberry has glossy, smooth surfaces. Both are edible — confusion is harmless.",
+        "source": "Peterson, Field Guide to Edible Wild Plants (1977)"
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "USDA NRCS Plant Profile. Morus alba."
+    ]
+  },
+  {
+    "species": "white_oak",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "acorns"
+    ],
+    "preparation": {
+      "edible": "Acorns must be leached of tannins before eating — shell, grind or chop, then soak in multiple changes of water (cold water method takes days; hot water method takes hours) until bitterness is gone. Leached acorn meal can be used as flour for breads, pancakes, and porridge. White oak group acorns are lower in tannin and easier to process than red oak group."
+    },
+    "warnings": "Raw acorns are very bitter and high in tannins — they must be leached before eating. Tannins in large quantities cause nausea and kidney stress. No dangerous lookalikes among oaks — all oak acorns are edible after proper leaching. White oak group (rounded leaf lobes) vs red oak group (pointed leaf lobes with bristle tips) is a useful distinction: white oaks have lower tannin content.",
+    "lookalikes": [],
+    "sources": [
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "USDA NRCS Plant Profile. Quercus alba."
+    ]
+  },
+  {
+    "species": "white_pored_chicken_of_the_woods",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Same as chicken of the woods — cook thoroughly. Harvest young, tender edges. Some people react poorly — try a small amount first."
+    },
+    "warnings": "Same cautions as chicken of the woods. No toxic lookalikes, but individual GI reactions occur. Check host tree — specimens from eucalyptus, conifer, or locust may cause reactions.",
+    "lookalikes": [
+      {
+        "species": "chicken_of_the_woods",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Standard chicken of the woods (Laetiporus sulphureus) has a bright YELLOW pore surface and grows on tree trunks. White-pored (L. cincinnatus) has a WHITE to cream pore surface and tends to grow at tree bases or from buried roots. Both are edible — confusion is harmless.",
+        "source": "Bessette et al. (1997); Kuo, MushroomExpert.com"
+      }
+    ],
+    "sources": [
+      "Bessette, A. et al. Mushrooms of Northeastern North America. Syracuse Univ. Press, 1997.",
+      "Kuo, M. 100 Edible Mushrooms. Univ. of Michigan Press, 2007.",
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986."
+    ]
+  },
+  {
+    "species": "wild_bergamot",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Leaves and flowers are brewed as tea (also called bee balm tea or Oswego tea). Flowers are edible raw in salads. Has a strong oregano-thyme-like flavor. Used traditionally by many Indigenous nations for both food and medicine.",
+      "medicinal": "Leaf and flower tea used by Ojibwe, Menominee, and Ho-Chunk peoples for colds, sore throats, headaches, and digestive complaints. Steep dried leaves and flowers for an aromatic infusion. Contains thymol, a natural antiseptic — historically applied to wounds and dental infections."
+    },
+    "warnings": "No dangerous lookalikes. The lavender tubular flower clusters on square stems with opposite aromatic leaves are characteristic of the mint family. Very fragrant when crushed.",
+    "lookalikes": [],
+    "sources": [
+      "Peterson, L.A. Field Guide to Edible Wild Plants. Houghton Mifflin, 1977.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "USDA NRCS Plant Profile. Monarda fistulosa.",
+      "USDA NRCS Plant Guide: Monarda fistulosa.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+    ]
+  },
+  {
+    "species": "wild_black_cherry",
+    "edibility": [
+      "edible_with_caution"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "ripe fruit flesh"
+    ],
+    "preparation": {
+      "edible": "Ripe dark purple-black cherries are eaten fresh (spit out pits), cooked into jams, jellies, syrups, or used to flavor beverages. Fruit flesh is safe and nutritious. Best when fully ripe in late summer."
+    },
+    "warnings": "CRITICAL: Leaves, bark, twigs, and seeds (pits) contain cyanogenic glycosides (prunasin/amygdalin) that release hydrogen cyanide. NEVER consume wilted leaves, bark, or crushed seeds. Wilted leaves are especially dangerous — livestock have been killed by eating fallen wild cherry leaves after storms. Always spit out or remove pits. Fruit flesh is safe.",
+    "lookalikes": [
+      {
+        "species": "Rhamnus cathartica (common buckthorn)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Buckthorn has dark berries that are strongly cathartic (severe diarrhea). Buckthorn has opposite or sub-opposite leaves with curved veins and thorn-tipped branches. Wild black cherry has alternate leaves with finely serrated margins and elongated fruit clusters (racemes). Cherry bark has a bitter almond aroma when scratched.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Cornell University Poisonous Plants Informational Database: Prunus serotina. https://poisonousplants.ansci.cornell.edu",
+      "USDA Forest Service Silvics Manual: Prunus serotina. https://www.srs.fs.usda.gov"
+    ]
+  },
+  {
+    "species": "wild_ginger",
+    "edibility": [
+      "edible_with_caution",
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "rhizomes"
+    ],
+    "preparation": {
+      "edible": "Rhizomes are washed, peeled, and used as a ginger-like spice — candied, in tea, or in baked goods. Flavor is similar to true ginger but more subtle and earthy. Use in small quantities as an occasional seasoning. Prepare with water-based methods only (tea, boiling) — aristolochic acid is barely water-soluble (~1% extraction), but highly soluble in alcohol and vinegar. Never steep in alcohol or vinegar.",
+      "medicinal": "Rhizome tea traditionally used by Ojibwe, Meskwaki, and Cherokee as a digestive aid, expectorant, and cold remedy. Steep sliced fresh rhizome in hot water. Water-based preparations extract minimal aristolochic acid. Use occasionally, not as a daily remedy."
+    },
+    "warnings": "Contains aristolochic acid (AA), linked to kidney damage and carcinogenicity in laboratory studies. However, North American Asarum canadense contains low AA levels (~0.037% dry weight), and AA is barely water-soluble — water steeping extracts only ~1% of AA present. The serious health incidents (1992 Belgian crisis) involved concentrated Asian species in diet pills, not culinary use. Safe in moderation with water-based preparation. Do NOT steep in alcohol or vinegar (AA is highly soluble in both). Avoid regular large-quantity consumption. Pregnant women should avoid.",
+    "lookalikes": [
+      {
+        "species": "Hexastylis spp. (heartleaf / little brown jugs)",
+        "danger_level": "caution",
+        "in_dataset": false,
+        "distinguishing_features": "Heartleaf ginger (Hexastylis) has evergreen, leathery, often mottled heart-shaped leaves. Wild ginger (Asarum canadense) has deciduous, soft-textured, fuzzy heart-shaped leaves. Both have ground-level jug-shaped flowers. Hexastylis also contains aristolochic acid.",
+        "source": "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+      }
+    ],
+    "sources": [
+      "Shaw, H. Wild Ginger: Edible or Toxic? Honest Food (honest-food.net), 2024.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014.",
+      "Moerman, D.E. Native American Ethnobotany. Timber Press, 1998.",
+      "National Toxicology Program. Aristolochic Acids. Report on Carcinogens, 15th Edition. U.S. DHHS, 2021."
+    ]
+  },
+  {
+    "species": "wild_grape",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruit",
+      "young leaves",
+      "tendrils"
+    ],
+    "preparation": {
+      "edible": "Ripe grapes are eaten fresh, made into juice, jelly, jam, or wine. Young leaves are used in dolma (stuffed grape leaves). Young tendrils and shoot tips are edible. Wild grapes are seedy and tart — best processed into preserves."
+    },
+    "warnings": "CRITICAL: Do NOT confuse with moonseed (Menispermum canadense), which is poisonous. Grape seeds are round with multiple per fruit; moonseed has a single crescent-shaped seed. Grapes have forked tendrils; moonseed has NO tendrils (it twines). Always cut open fruit and check seed shape before eating from a new vine.",
+    "lookalikes": [
+      {
+        "species": "Menispermum canadense (moonseed)",
+        "danger_level": "danger",
+        "in_dataset": false,
+        "distinguishing_features": "Moonseed has a single crescent-shaped seed per fruit. Wild grapes have multiple round seeds. Moonseed has NO tendrils — it twines. Grapes have forked tendrils. Moonseed leaves are unlobed with smooth edges. Grape leaves are coarsely toothed. Always check the seed — this is the definitive test.",
+        "source": "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+      }
+    ],
+    "sources": [
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "wild_strawberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruit",
+      "leaves"
+    ],
+    "preparation": {
+      "edible": "Fruits are eaten fresh — smaller but more intensely flavored than cultivated strawberries. Leaves can be dried for a mild tea. Fruits can be used in jams and desserts though small size makes large quantities labor-intensive."
+    },
+    "warnings": "No significant toxicity concerns. The common lookalike (mock strawberry) is also non-toxic. Some people with strawberry allergies may react.",
+    "lookalikes": [
+      {
+        "species": "Duchesnea indica / Potentilla indica (mock strawberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Mock strawberry has yellow flowers (wild strawberry has white flowers). Mock strawberry fruit points upward, is round, and has no flavor. Wild strawberry fruit hangs down, is conical, and is intensely fragrant and sweet. Mock strawberry is not toxic, just flavorless.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006."
+    ]
+  },
+  {
+    "species": "wineberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "fruit"
+    ],
+    "preparation": {
+      "edible": "Ripe berries are eaten fresh, used in jams, pies, sauces, and wine. Flavor is tart-sweet, similar to raspberry but more wine-like. Berries ripen in July and separate easily from the calyx when ripe."
+    },
+    "warnings": "No toxicity concerns. Wineberry (Rubus phoenicolasius) is an invasive species from East Asia — harvesting is encouraged for ecological management. Canes have distinctive reddish glandular hairs that can scratch skin.",
+    "lookalikes": [
+      {
+        "species": "black_raspberry",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Black raspberry has smooth blue-white waxy canes with hooked thorns and dark purple-black fruit. Wineberry has red-bristled canes with sticky glandular hairs and translucent orange-red fruit. Both safe and delicious.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. The Forager's Harvest. Forager's Harvest Press, 2006.",
+      "USDA NRCS Invasive Species Profile: Rubus phoenicolasius. https://plants.usda.gov"
+    ]
+  },
+  {
+    "species": "wood_sorrel",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers",
+      "seed pods"
+    ],
+    "preparation": {
+      "edible": "All parts have a pleasant sour, lemony flavor due to oxalic acid. Eaten raw in salads, as a trailside nibble, or as a garnish. Young seed pods are crunchy and sour. Can be infused in water for a lemon-flavored drink."
+    },
+    "warnings": "Contains oxalic acid (like spinach, rhubarb). Safe in normal quantities but should not be consumed in very large amounts regularly, especially by people with kidney stones or kidney disease. Enjoy in moderation.",
+    "lookalikes": [
+      {
+        "species": "Trifolium spp. (clover)",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Clovers have round or oval leaflets (legume family). Wood sorrel (Oxalis) has distinctly heart-shaped leaflets that fold along the midrib. Entirely different plant families. Wood sorrel has 5-petaled flowers; clover has dense round flower heads. Wood sorrel tastes distinctly sour; clover does not.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009.",
+      "Noonan, S.C. & Savage, G.P. Oxalate content of foods. Asia Pacific Journal of Clinical Nutrition, 8(1): 64-74, 1999."
+    ]
+  },
+  {
+    "species": "yarrow",
+    "edibility": [
+      "edible",
+      "medicinal"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": {
+      "edible": "Young leaves used sparingly in salads — quite bitter. Can also be used as a seasoning herb in small amounts.",
+      "medicinal": "Leaves and flowers dried for tea — traditionally used to reduce fever (diaphoretic), as a digestive aid, and topically to slow bleeding (styptic). Apply crushed fresh leaves directly to minor wounds."
+    },
+    "warnings": "Asteraceae family — people with ragweed/chrysanthemum allergies may react. Avoid during pregnancy as it may stimulate uterine contractions. May interact with blood-thinning medications. Contains thujone in small amounts. Use medicinally in moderation.",
+    "lookalikes": [
+      {
+        "species": "poison_hemlock",
+        "danger_level": "danger",
+        "in_dataset": true,
+        "distinguishing_features": "Poison hemlock has smooth, hollow stems with distinctive purple blotches and fern-like leaves that smell musty/mousy when crushed. Yarrow has solid, hairy stems with no purple spots and feathery leaves that smell strongly aromatic/medicinal. Yarrow flowers are flat-topped clusters; poison hemlock has umbrella-shaped umbels. This distinction is critical.",
+        "source": "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977."
+      },
+      {
+        "species": "queen_annes_lace",
+        "danger_level": "safe",
+        "in_dataset": true,
+        "distinguishing_features": "Queen Anne's lace has umbrella-shaped umbel flower clusters with a single dark floret at center, hairy stems, and carrot-scented roots. Yarrow has flat-topped dense flower clusters (corymbs) and far more finely divided leaves with a distinctive medicinal aroma.",
+        "source": "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Foster, S. & Duke, J.A. Peterson Field Guide to Medicinal Plants and Herbs. Houghton Mifflin Harcourt, 2014.",
+      "Elias, T.S. & Dykeman, P.A. Edible Wild Plants: A North American Field Guide. Sterling Publishing, 2009."
+    ]
+  },
+  {
+    "species": "yellowfoot_chanterelle",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "caution",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "preparation": {
+      "edible": "Cook before eating. Excellent dried. Small but often found in large quantities in mossy conifer forests. Mild, slightly sweet flavor."
+    },
+    "warnings": "Same jack-o'-lantern caution as other chanterelles, though yellowfoot's small size, hollow stipe, and preference for mossy conifer forests make confusion unlikely.",
+    "lookalikes": [
+      {
+        "species": "jack_o_lantern",
+        "danger_level": "toxic",
+        "in_dataset": true,
+        "distinguishing_features": "Jack-o'-lanterns are much larger, bright orange, grow in CLUSTERS on hardWOOD, and have true gills. Yellowfoot chanterelles are small (2-6cm cap), have a distinctive hollow yellow-brown stipe, grow scattered or in troops from SOIL in mossy conifer forests, and have wrinkled-to-veined undersurfaces rather than true gills.",
+        "source": "Arora, Mushrooms Demystified (1986); Kuo, MushroomExpert.com"
+      }
+    ],
+    "sources": [
+      "Arora, D. Mushrooms Demystified, 2nd ed. Ten Speed Press, 1986.",
+      "Kuo, M. Craterellus tubaeformis. MushroomExpert.com.",
+      "Mattila, P. et al. Contents of vitamins, minerals, and some phenolic compounds in Cantharellus tubaeformis. J. Agric. Food Chem., 2001."
+    ]
+  },
+  {
+    "species": "blueberry",
+    "edibility": [
+      "edible"
+    ],
+    "safety_verdict": "safe",
+    "edible_parts": [
+      "berries"
+    ],
+    "preparation": {
+      "edible": "Ripe berries eaten fresh, or used in pies, jams, syrups, and baked goods. No preparation required beyond rinsing. Lowbush berries are often smaller and more intensely flavored; highbush berries are larger and milder. Pick only fully dark blue, easily detached fruit — reddish berries are underripe."
+    },
+    "warnings": "Look for the five-pointed calyx crown on the bottom of the berry — a key identifying feature of all Vaccinium blueberries. No dangerous lookalikes produce blue berries in clusters on low shrubs in eastern North America. All Vaccinium with blue-black berries are edible.",
+    "lookalikes": [
+      {
+        "species": "Gaylussacia spp. (huckleberry)",
+        "danger_level": "safe",
+        "in_dataset": false,
+        "distinguishing_features": "Huckleberries have resin dots on leaf undersides (visible with a hand lens) and 10 hard seeds vs. blueberry's many tiny soft seeds. Both are edible — confusion is harmless.",
+        "source": "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010."
+      }
+    ],
+    "sources": [
+      "Peterson, L.A. A Field Guide to Edible Wild Plants: Eastern and Central North America. Houghton Mifflin, 1977.",
+      "Thayer, S. Nature's Garden. Forager's Harvest Press, 2010.",
+      "USDA NRCS Plant Profile. Vaccinium corymbosum and Vaccinium angustifolium."
+    ]
+  }
+]

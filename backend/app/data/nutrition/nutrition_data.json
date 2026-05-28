@@ -1,0 +1,3198 @@
+[
+  {
+    "species": "american_elderberry",
+    "common_name": "American Black Elderberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09088",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 73,
+    "protein_g": 0.7,
+    "fat_g": 0.5,
+    "carbs_g": 18.4,
+    "fiber_g": 7.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "36mg",
+        "percent_dv": 40
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "amount": "0.23mg",
+        "percent_dv": 14
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "1.6mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "280mg",
+        "percent_dv": 6
+      }
+    ],
+    "notes": "Raw berries should not be eaten in quantity — cook before consuming to neutralize cyanogenic glycosides. Flowers are edible raw. Leaves, bark, and unripe berries are toxic. Closely related to European elderberry (#09089); nutritional profiles are similar."
+  },
+  {
+    "species": "american_groundnut",
+    "common_name": "American Groundnut",
+    "confidence": "medium",
+    "source": "Yanovsky & Kingsbury (1938); Thayer 'Nature's Garden' (2010)",
+    "edible_parts": [
+      "tubers",
+      "seeds"
+    ],
+    "calories_per_100g": 95,
+    "protein_g": 9.0,
+    "fat_g": 0.3,
+    "carbs_g": 17.0,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Protein",
+        "amount": "9g",
+        "percent_dv": 18
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "2.3mg",
+        "percent_dv": 13
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "70mg",
+        "percent_dv": 5
+      }
+    ],
+    "notes": "One of the most protein-rich wild root vegetables. Must be cooked before eating. Protein content 3× that of cultivated potato by weight. Seeds (beans) are also edible cooked."
+  },
+  {
+    "species": "arrowhead",
+    "common_name": "Arrowhead",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #11590 (approximate, water chestnut proxy); Thayer (2010)",
+    "edible_parts": [
+      "tubers"
+    ],
+    "calories_per_100g": 93,
+    "protein_g": 5.3,
+    "fat_g": 0.1,
+    "carbs_g": 19.7,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "922mg",
+        "percent_dv": 20
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "143mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Protein",
+        "amount": "5.3g",
+        "percent_dv": 11
+      }
+    ],
+    "notes": "Tubers must be cooked (boiled or roasted). High in potassium. Used as a staple starch by many Indigenous nations. Harvest in fall or early spring when starch content is highest."
+  },
+  {
+    "species": "autumn_olive",
+    "common_name": "Autumn Olive",
+    "confidence": "medium",
+    "source": "Fordham et al. (2001) J. Am. Soc. Hortic. Sci.; Thayer (2010)",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 67,
+    "protein_g": 0.5,
+    "fat_g": 0.5,
+    "carbs_g": 16.0,
+    "fiber_g": 3.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Lycopene",
+        "amount": "~40–55mg",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~100mg",
+        "percent_dv": 111
+      },
+      {
+        "nutrient": "Vitamin E",
+        "amount": "~2mg",
+        "percent_dv": 13
+      }
+    ],
+    "notes": "Exceptionally high in lycopene — 7–17× more than raw tomatoes, making it one of the richest known dietary sources. Invasive in Eastern US but widely foraged. Tart-sweet; best used in sauces, jams, or dried."
+  },
+  {
+    "species": "bears_head_tooth",
+    "common_name": "Bear's Head Tooth",
+    "confidence": "low",
+    "source": "General fungal nutrition estimates; limited species-specific data",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 35,
+    "protein_g": 3.0,
+    "fat_g": 0.4,
+    "carbs_g": 6.0,
+    "fiber_g": 2.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "~400mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "~100mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~4mg",
+        "percent_dv": 25
+      }
+    ],
+    "notes": "Related to Lion's Mane (Hericium erinaceus) and likely shares similar nutritional profile and potential neuroprotective compounds. Limited independent analysis available. Best cooked."
+  },
+  {
+    "species": "black_raspberry",
+    "common_name": "Black Raspberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09070",
+    "edible_parts": [
+      "berries",
+      "young shoots"
+    ],
+    "calories_per_100g": 65,
+    "protein_g": 1.5,
+    "fat_g": 0.8,
+    "carbs_g": 14.7,
+    "fiber_g": 6.4,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "25mg",
+        "percent_dv": 28
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.7mg",
+        "percent_dv": 30
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "7.8µg",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "26µg",
+        "percent_dv": 7
+      }
+    ],
+    "notes": "Higher anthocyanin content than red raspberries; strong antioxidant profile. High fiber relative to calorie content. Young spring shoots (without leaves) can be peeled and eaten raw."
+  },
+  {
+    "species": "black_trumpet",
+    "common_name": "Black Trumpet",
+    "confidence": "medium",
+    "source": "Manzi et al. (2001) Food Chemistry; general Craterellus sp. analysis",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 28,
+    "protein_g": 2.8,
+    "fat_g": 0.5,
+    "carbs_g": 4.2,
+    "fiber_g": 3.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin B12",
+        "amount": "~2.7µg",
+        "percent_dv": 113
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "~3.5mg",
+        "percent_dv": 19
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~400mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "Exceptionally rare among plant foods — black trumpet is one of the few that contains meaningful Vitamin B12. Vitamin B12 presence is confirmed in Craterellus cornucopioides by multiple studies. Dried form is very concentrated. Excellent flavor."
+  },
+  {
+    "species": "black_walnut",
+    "common_name": "Black Walnut",
+    "confidence": "high",
+    "source": "USDA SR Legacy #12154",
+    "edible_parts": [
+      "nut meat"
+    ],
+    "calories_per_100g": 618,
+    "protein_g": 24.1,
+    "fat_g": 59.0,
+    "carbs_g": 9.9,
+    "fiber_g": 6.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Omega-3 (ALA)",
+        "amount": "3.3g",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "3.9mg",
+        "percent_dv": 170
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "201mg",
+        "percent_dv": 48
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "513mg",
+        "percent_dv": 41
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "1.4mg",
+        "percent_dv": 156
+      }
+    ],
+    "notes": "More protein and omega-3 fatty acids than English walnut. Strong, distinctive flavor. The hull contains juglone, which stains skin; use gloves when processing. Kernels are safe to eat raw or cooked."
+  },
+  {
+    "species": "blackberry",
+    "common_name": "Allegheny Blackberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09042",
+    "edible_parts": [
+      "berries",
+      "young shoots",
+      "leaves (tea)"
+    ],
+    "calories_per_100g": 43,
+    "protein_g": 1.4,
+    "fat_g": 0.5,
+    "carbs_g": 9.6,
+    "fiber_g": 5.3,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "21mg",
+        "percent_dv": 23
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "19.8µg",
+        "percent_dv": 17
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.6mg",
+        "percent_dv": 28
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "25µg",
+        "percent_dv": 6
+      }
+    ],
+    "notes": "Data approximated from Rubus allegheniensis; most USDA data covers generic blackberry (R. ursinus/fruticosus). High fiber content for a berry. Young cane shoots in spring are edible raw after peeling."
+  },
+  {
+    "species": "broadleaf_plantain",
+    "common_name": "Broadleaf Plantain",
+    "confidence": "medium",
+    "source": "Guil-Guerrero et al. (1998) Plant Foods for Human Nutrition; Kallas (2010)",
+    "edible_parts": [
+      "young leaves",
+      "seeds"
+    ],
+    "calories_per_100g": 40,
+    "protein_g": 2.5,
+    "fat_g": 0.4,
+    "carbs_g": 7.0,
+    "fiber_g": 3.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin K",
+        "amount": "~290µg",
+        "percent_dv": 242
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~2100 IU",
+        "percent_dv": 42
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "184mg",
+        "percent_dv": 14
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~22mg",
+        "percent_dv": 24
+      }
+    ],
+    "notes": "Young leaves are best eaten raw or cooked; older leaves become fibrous and bitter. High in Vitamin K. Seeds can be ground as a flour substitute or eaten as a psyllium-like fiber source. One of the most common edible weeds worldwide."
+  },
+  {
+    "species": "burdock",
+    "common_name": "Burdock",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11104",
+    "edible_parts": [
+      "root",
+      "young leaves",
+      "peeled stalks"
+    ],
+    "calories_per_100g": 72,
+    "protein_g": 1.5,
+    "fat_g": 0.2,
+    "carbs_g": 17.3,
+    "fiber_g": 3.9,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "308mg",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.3mg",
+        "percent_dv": 13
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "38mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "23µg",
+        "percent_dv": 6
+      }
+    ],
+    "notes": "USDA data is for cultivated gobo root (Arctium lappa). Wild burdock is nutritionally similar. Rich in inulin (prebiotic fiber). Young stalks peeled in spring are mild and palatable raw or cooked."
+  },
+  {
+    "species": "cattail",
+    "common_name": "Cattail",
+    "confidence": "medium",
+    "source": "Thayer (2010); Morton (1975) J. Economic Botany; USDA partial data",
+    "edible_parts": [
+      "pollen",
+      "young shoots",
+      "green flower spikes",
+      "starchy rhizome"
+    ],
+    "calories_per_100g": 283,
+    "protein_g": 6.9,
+    "fat_g": 1.0,
+    "carbs_g": 63.6,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "~380mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "~126mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Protein",
+        "amount": "6.9g",
+        "percent_dv": 14
+      }
+    ],
+    "notes": "Macros are for dried rhizome flour — one of the most calorie-dense wild starches. Young shoots (corms) have a much lower calorie content (~30 kcal/100g). Pollen is very nutritious but limited data available. Multiple edible parts across the seasons make this a foraging staple."
+  },
+  {
+    "species": "chanterelle",
+    "common_name": "Golden Chanterelle",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11821",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 38,
+    "protein_g": 1.5,
+    "fat_g": 0.5,
+    "carbs_g": 6.9,
+    "fiber_g": 3.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin D",
+        "amount": "~212 IU",
+        "percent_dv": 27
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.4mg",
+        "percent_dv": 44
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "4.1mg",
+        "percent_dv": 26
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "506mg",
+        "percent_dv": 11
+      }
+    ],
+    "notes": "One of the best-studied wild mushrooms nutritionally. Good source of Vitamin D, especially when sun-exposed after harvest. Copper content is notable. Fruity, apricot aroma. Always cook before eating."
+  },
+  {
+    "species": "chicken_of_the_woods",
+    "common_name": "Chicken of the Woods",
+    "confidence": "medium",
+    "source": "Manzi et al. (2001); Vetter (2005) Acta Alimentaria",
+    "edible_parts": [
+      "fruiting body (young, outer edges)"
+    ],
+    "calories_per_100g": 33,
+    "protein_g": 3.3,
+    "fat_g": 0.5,
+    "carbs_g": 5.0,
+    "fiber_g": 1.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Protein",
+        "amount": "3.3g",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~370mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~5mg",
+        "percent_dv": 31
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "~100mg",
+        "percent_dv": 8
+      }
+    ],
+    "notes": "Harvest only young, tender outer edges — older tissue is tough and inedible. Must be cooked thoroughly. A small percentage of people have GI reactions, especially when growing on certain tree species (locust, conifers). High protein for a mushroom."
+  },
+  {
+    "species": "chickweed",
+    "common_name": "Chickweed",
+    "confidence": "medium",
+    "source": "Guil-Guerrero et al. (1998); Kallas (2010) 'Edible Wild Plants'",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers"
+    ],
+    "calories_per_100g": 25,
+    "protein_g": 2.2,
+    "fat_g": 0.5,
+    "carbs_g": 3.5,
+    "fiber_g": 1.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~30mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "~160mg",
+        "percent_dv": 12
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "2.7mg",
+        "percent_dv": 15
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~1400 IU",
+        "percent_dv": 28
+      }
+    ],
+    "notes": "Best raw in salads; mild flavor similar to spinach. Cool-season plant — at its best in spring and fall. Historically used as a green vegetable throughout Europe and North America. Rich in nutrients relative to calories."
+  },
+  {
+    "species": "cleavers",
+    "common_name": "Cleavers",
+    "confidence": "low",
+    "source": "Couplan (1998) 'Encyclopedia of Edible Plants of North America'; limited nutritional data",
+    "edible_parts": [
+      "young shoots",
+      "seeds (roasted as coffee substitute)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Very limited nutritional data available. Young spring shoots are edible cooked (hairy texture is reduced by heat). Roasted seeds are a well-documented coffee substitute. Primarily used medicinally as a lymphatic tonic in herbal traditions. No reliable macro data found."
+  },
+  {
+    "species": "dandelion",
+    "common_name": "Dandelion",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11207",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "roots"
+    ],
+    "calories_per_100g": 45,
+    "protein_g": 2.7,
+    "fat_g": 0.7,
+    "carbs_g": 9.2,
+    "fiber_g": 3.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin K",
+        "amount": "778µg",
+        "percent_dv": 648
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "10161 IU",
+        "percent_dv": 203
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "35mg",
+        "percent_dv": 39
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "187mg",
+        "percent_dv": 14
+      }
+    ],
+    "notes": "Extraordinarily nutrient-dense. More beta-carotene than carrots by weight. Vitamin K content exceeds daily value by over 6×. Young spring leaves are least bitter; roots are edible year-round (roasted root is a coffee substitute). All parts edible."
+  },
+  {
+    "species": "dryads_saddle",
+    "common_name": "Dryad's Saddle",
+    "confidence": "low",
+    "source": "General polypore estimates; limited species-specific analysis",
+    "edible_parts": [
+      "young fruiting body (tender outer edge)"
+    ],
+    "calories_per_100g": 25,
+    "protein_g": 1.5,
+    "fat_g": 0.2,
+    "carbs_g": 5.0,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "~250mg",
+        "percent_dv": 5
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~2mg",
+        "percent_dv": 13
+      }
+    ],
+    "notes": "Only young, tender specimens are edible — older ones become leathery and indigestible. Distinct cucumber-melon aroma when fresh. Limited nutritional analysis; macros are estimates. Mild flavor when young and properly cooked."
+  },
+  {
+    "species": "elderberry",
+    "common_name": "European Black Elderberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09089",
+    "edible_parts": [
+      "berries",
+      "flowers"
+    ],
+    "calories_per_100g": 73,
+    "protein_g": 0.7,
+    "fat_g": 0.5,
+    "carbs_g": 18.4,
+    "fiber_g": 7.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "36mg",
+        "percent_dv": 40
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "amount": "0.23mg",
+        "percent_dv": 14
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "1.6mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "~1500mg/kg",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Very similar to American elderberry nutritionally. Berries must be cooked; raw berries cause nausea. Flowers (elderflower) are edible raw. Leaves, bark, roots, and unripe berries are toxic. Both species are widely studied for immune support (anthocyanin content)."
+  },
+  {
+    "species": "false_solomons_seal",
+    "common_name": "False Solomon's Seal",
+    "confidence": "low",
+    "source": "Thayer (2010); limited nutritional data available",
+    "edible_parts": [
+      "young shoots (cooked)",
+      "ripe berries",
+      "rhizome (leached)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present in berries, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Young spring shoots are edible cooked (boiled with water changes). Ripe red berries edible but mildly laxative in quantity. Rhizome requires leaching to remove bitterness. No reliable macro data available. Not to be confused with true Solomon's Seal (Polygonatum)."
+  },
+  {
+    "species": "fireweed",
+    "common_name": "Fireweed",
+    "confidence": "medium",
+    "source": "Kuhnlein & Turner (1991) 'Traditional Plant Foods of Canadian Indigenous Peoples'; Kallas (2010)",
+    "edible_parts": [
+      "young shoots",
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": 34,
+    "protein_g": 2.0,
+    "fat_g": 0.5,
+    "carbs_g": 5.8,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~65mg",
+        "percent_dv": 72
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~1700 IU",
+        "percent_dv": 34
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "~135mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.5mg",
+        "percent_dv": 22
+      }
+    ],
+    "notes": "Young spring shoots are the most palatable — eaten like asparagus. Older leaves become bitter. Flowers are edible raw. Excellent Vitamin C source. Historically a major food plant for many Northern Indigenous nations. Pith of older stems edible."
+  },
+  {
+    "species": "garlic_mustard",
+    "common_name": "Garlic Mustard",
+    "confidence": "medium",
+    "source": "Bjo ̈rkman et al. glucosinolate data; Kallas (2010); Couplan (1998)",
+    "edible_parts": [
+      "young leaves",
+      "flowers",
+      "roots (first year)",
+      "seeds"
+    ],
+    "calories_per_100g": 32,
+    "protein_g": 2.9,
+    "fat_g": 0.5,
+    "carbs_g": 4.4,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~79mg",
+        "percent_dv": 88
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~3830 IU",
+        "percent_dv": 77
+      },
+      {
+        "nutrient": "Vitamin E",
+        "amount": "~0.9mg",
+        "percent_dv": 6
+      },
+      {
+        "nutrient": "Omega-3 (ALA)",
+        "amount": "~0.4g in seeds",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Exceptionally high in Vitamin C and A for a leafy green. Garlicky-mustard flavor mellows when cooked. Invasive in North America — foraging is encouraged. Young leaves best in spring; older leaves can be quite bitter. Contains glucosinolates (similar to broccoli)."
+  },
+  {
+    "species": "giant_puffball",
+    "common_name": "Giant Puffball",
+    "confidence": "medium",
+    "source": "Vetter (2005) Acta Alimentaria; Manzi et al. (2001)",
+    "edible_parts": [
+      "interior flesh (pure white only)"
+    ],
+    "calories_per_100g": 25,
+    "protein_g": 3.5,
+    "fat_g": 0.2,
+    "carbs_g": 3.0,
+    "fiber_g": 1.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Protein",
+        "amount": "3.5g",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~400mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Riboflavin",
+        "amount": "~0.4mg",
+        "percent_dv": 31
+      }
+    ],
+    "notes": "Must be pure white inside — any hint of yellow or purple indicates sporulation and inedibility. CRITICAL: slice open every puffball before eating to confirm the interior is solid white (rules out deadly Amanita buttons which could appear similar externally). Best sliced and pan-fried in butter."
+  },
+  {
+    "species": "golden_reishi",
+    "common_name": "Golden Reishi",
+    "confidence": "low",
+    "source": "General Ganoderma sp. research; species-specific data limited",
+    "edible_parts": [
+      "fruiting body (tea/tincture — too tough to eat directly)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Beta-glucans",
+        "amount": "present, immunomodulatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Triterpenoids (ganoderic acids)",
+        "amount": "present, anti-inflammatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Polysaccharides",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Used primarily as a medicinal mushroom tea or tincture — the fruiting body is too woody/bitter to eat directly. Bioactive compounds include beta-glucans and ganoderic acids. Used in North America similarly to G. lucidum (Asian reishi). No reliable macro data applicable for this preparation."
+  },
+  {
+    "species": "goldenrod",
+    "common_name": "Canada Goldenrod",
+    "confidence": "low",
+    "source": "Couplan (1998); Thayer (2010); limited nutritional data",
+    "edible_parts": [
+      "young shoots",
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Quercetin",
+        "amount": "present, anti-inflammatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Rutin",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Young spring shoots and leaves edible raw or cooked; older leaves become bitter and fibrous. Flowers make a pleasant tea. Primarily known as a medicinal herb (urinary tract, anti-inflammatory). No reliable macro nutritional data available. Commonly misidentified as causing hay fever — actually caused by ragweed (Ambrosia)."
+  },
+  {
+    "species": "ground_cherry",
+    "common_name": "Ground Cherry",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #11975 (tomatillo proxy); species-specific data limited",
+    "edible_parts": [
+      "ripe fruit (inside papery husk)"
+    ],
+    "calories_per_100g": 53,
+    "protein_g": 1.9,
+    "fat_g": 0.7,
+    "carbs_g": 11.2,
+    "fiber_g": 1.9,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~17mg",
+        "percent_dv": 19
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~720 IU",
+        "percent_dv": 14
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~2.8mg",
+        "percent_dv": 18
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "~50mg",
+        "percent_dv": 4
+      }
+    ],
+    "notes": "Only ripe fruit (golden-yellow, dropping naturally from husk) is edible. Unripe fruit and all green parts contain solanine and are toxic. Papery husk must be removed before eating. Related to tomatillo; sweet, tropical flavor."
+  },
+  {
+    "species": "hackberry",
+    "common_name": "Hackberry",
+    "confidence": "medium",
+    "source": "Moerman (1998) 'Native American Ethnobotany'; limited USDA data",
+    "edible_parts": [
+      "berries (whole, including seed)"
+    ],
+    "calories_per_100g": 70,
+    "protein_g": 0.8,
+    "fat_g": 0.5,
+    "carbs_g": 17.0,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Calcium",
+        "amount": "~53mg (from seed)",
+        "percent_dv": 4
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~12mg",
+        "percent_dv": 13
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "~1.2mg",
+        "percent_dv": 7
+      }
+    ],
+    "notes": "Entire berry is edible — seed, skin, and flesh together. The seed is nutritious and can be ground to a paste. Used by Indigenous nations ground whole as a high-energy food. Small berries, but highly productive trees. Limited modern nutritional data."
+  },
+  {
+    "species": "hawthorn",
+    "common_name": "Parsley Hawthorn",
+    "confidence": "medium",
+    "source": "General Crataegus sp. data; Edwards et al. (2012); USDA partial",
+    "edible_parts": [
+      "ripe haws (fruit)",
+      "young leaves",
+      "flowers"
+    ],
+    "calories_per_100g": 52,
+    "protein_g": 0.4,
+    "fat_g": 0.1,
+    "carbs_g": 13.0,
+    "fiber_g": 5.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~30mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Flavonoids (vitexin, quercetin)",
+        "amount": "present, cardioprotective",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Fiber",
+        "amount": "5g",
+        "percent_dv": 18
+      }
+    ],
+    "notes": "Data is for Crataegus sp. generally — Parsley Hawthorn (C. marshallii) specific data is limited. Haws have large seeds relative to flesh; high pectin content makes them good for jellies. Young leaves and flowers are edible and mild. Traditionally used as a heart tonic herb."
+  },
+  {
+    "species": "hazelnut",
+    "common_name": "American Hazelnut",
+    "confidence": "high",
+    "source": "USDA SR Legacy #12120 (filberts/hazelnuts — closely related)",
+    "edible_parts": [
+      "nut meat"
+    ],
+    "calories_per_100g": 628,
+    "protein_g": 15.0,
+    "fat_g": 60.8,
+    "carbs_g": 16.7,
+    "fiber_g": 9.7,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin E",
+        "amount": "15.3mg",
+        "percent_dv": 102
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "6.2mg",
+        "percent_dv": 270
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "1.7mg",
+        "percent_dv": 189
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "163mg",
+        "percent_dv": 39
+      }
+    ],
+    "notes": "USDA data is for European hazelnut (C. avellana); American hazelnut (C. americana) is nutritionally very similar. Smaller nut than European variety. Outstanding source of Vitamin E and manganese. Eat raw or roasted."
+  },
+  {
+    "species": "hemlock_reishi",
+    "common_name": "Hemlock Reishi",
+    "confidence": "low",
+    "source": "General Ganoderma tsugae research; limited species-specific nutritional data",
+    "edible_parts": [
+      "fruiting body (tea/tincture only — too tough to eat)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Beta-glucans",
+        "amount": "present, immunomodulatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Triterpenoids",
+        "amount": "present",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Polysaccharides",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Ganoderma tsugae — the eastern North American equivalent of Asian reishi (G. lucidum). Prepared as a tea or tincture (simmered for 20–40 minutes). Too woody and bitter to eat. Note: grows on hemlock trees (Tsuga), NOT poison hemlock (Conium) — safe to handle and consume."
+  },
+  {
+    "species": "hen_of_the_woods",
+    "common_name": "Hen of the Woods",
+    "confidence": "high",
+    "source": "USDA FDC #168436; Stamets (2005) 'Mycelium Running'",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 31,
+    "protein_g": 2.0,
+    "fat_g": 0.2,
+    "carbs_g": 6.0,
+    "fiber_g": 2.7,
+    "notable_nutrients": [
+      {
+        "nutrient": "Beta-glucans (D-fraction)",
+        "amount": "present, well-studied",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin D",
+        "amount": "~7 IU",
+        "percent_dv": 1
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~5.6mg",
+        "percent_dv": 35
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~370mg",
+        "percent_dv": 8
+      }
+    ],
+    "notes": "Also known as Maitake. One of the most studied medicinal-culinary mushrooms. Maitake D-fraction (beta-glucan extract) has documented immunomodulatory effects in clinical studies. Delicious and choice edible. Found at base of oaks in fall. Always cook before eating."
+  },
+  {
+    "species": "highbush_blueberry",
+    "common_name": "Northern Highbush Blueberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09050",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 57,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "carbs_g": 14.5,
+    "fiber_g": 2.4,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "9.7mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "19.3µg",
+        "percent_dv": 16
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.3mg",
+        "percent_dv": 17
+      },
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "~163mg/100g",
+        "percent_dv": null
+      }
+    ],
+    "notes": "USDA data covers cultivated highbush blueberry; wild blueberries typically have 2× higher anthocyanin content. Strong antioxidant profile. One of the best-studied berries for cognitive health."
+  },
+  {
+    "species": "honey_mushroom",
+    "common_name": "Honey Mushroom",
+    "confidence": "medium",
+    "source": "Vetter (2005); general Armillaria sp. analysis",
+    "edible_parts": [
+      "caps (cooked thoroughly)"
+    ],
+    "calories_per_100g": 35,
+    "protein_g": 3.0,
+    "fat_g": 0.4,
+    "carbs_g": 5.0,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "~390mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "~120mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "~0.3mg",
+        "percent_dv": 33
+      }
+    ],
+    "notes": "MUST be cooked thoroughly — raw honey mushrooms cause severe GI distress. Some individuals react even when well-cooked; eat a small amount first time. Only caps recommended; stems are too tough. Consume alcohol-free around preparation — possible mild disulfiram-like interaction reported."
+  },
+  {
+    "species": "indigo_milk_cap",
+    "common_name": "Indigo Milk Cap",
+    "confidence": "low",
+    "source": "Limited species-specific data; general Lactarius sp. estimates",
+    "edible_parts": [
+      "fruiting body (cooked)"
+    ],
+    "calories_per_100g": 30,
+    "protein_g": 2.5,
+    "fat_g": 0.4,
+    "carbs_g": 5.0,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Potassium",
+        "amount": "~300mg",
+        "percent_dv": 6
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~3mg",
+        "percent_dv": 19
+      }
+    ],
+    "notes": "Distinctive blue-indigo latex when cut. Good edible mushroom — exudes blue milk that turns green-gray on cooking. No reliable species-specific nutritional analysis found; macros are estimates from related Lactarius species. Always cook before eating."
+  },
+  {
+    "species": "jerusalem_artichoke",
+    "common_name": "Jerusalem Artichoke",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11203",
+    "edible_parts": [
+      "tubers"
+    ],
+    "calories_per_100g": 73,
+    "protein_g": 2.0,
+    "fat_g": 0.0,
+    "carbs_g": 17.4,
+    "fiber_g": 1.6,
+    "notable_nutrients": [
+      {
+        "nutrient": "Inulin (prebiotic fiber)",
+        "amount": "~14–19g/100g",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "3.4mg",
+        "percent_dv": 19
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "429mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Thiamine (B1)",
+        "amount": "0.2mg",
+        "percent_dv": 17
+      }
+    ],
+    "notes": "Extremely high in inulin — a prebiotic fructan that feeds gut bacteria but causes significant gas in many people ('fartichoke' is the colloquial name). Inulin content decreases with longer cooking or frost. Excellent iron source. Safe for diabetics — inulin does not spike blood sugar."
+  },
+  {
+    "species": "king_bolete",
+    "common_name": "King Bolete",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11238 (porcini/cep); Manzi et al. (1999) J. Food Composition",
+    "edible_parts": [
+      "cap",
+      "stem"
+    ],
+    "calories_per_100g": 34,
+    "protein_g": 3.7,
+    "fat_g": 0.5,
+    "carbs_g": 5.5,
+    "fiber_g": 3.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Copper",
+        "amount": "0.5mg",
+        "percent_dv": 56
+      },
+      {
+        "nutrient": "Riboflavin (B2)",
+        "amount": "0.4mg",
+        "percent_dv": 31
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "4.8mg",
+        "percent_dv": 30
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "442mg",
+        "percent_dv": 10
+      }
+    ],
+    "notes": "Boletus edulis — prized as porcini/cep worldwide. One of the best-studied wild mushrooms. High copper and B-vitamin content. Dried porcini is much more concentrated — ~300 kcal/100g dried. Best eaten fresh or dried. Confirm no red pore surface (indicates bitter/toxic boletes)."
+  },
+  {
+    "species": "lambs_quarters",
+    "common_name": "Lamb's Quarters",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11270",
+    "edible_parts": [
+      "young leaves",
+      "stems",
+      "seeds"
+    ],
+    "calories_per_100g": 43,
+    "protein_g": 4.2,
+    "fat_g": 0.8,
+    "carbs_g": 7.3,
+    "fiber_g": 4.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "amount": "11600 IU",
+        "percent_dv": 232
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "80mg",
+        "percent_dv": 89
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "309mg",
+        "percent_dv": 24
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "~830µg",
+        "percent_dv": 692
+      }
+    ],
+    "notes": "One of the most nutritious wild greens available — comparable to spinach but with more protein and calcium. Very high in oxalates (like spinach); limit if prone to kidney stones. Young leaves are best raw or lightly cooked. Seeds (like quinoa — same family) are edible and nutritious."
+  },
+  {
+    "species": "lions_mane",
+    "common_name": "Lion's Mane",
+    "confidence": "high",
+    "source": "USDA FDC #2346394; Mori et al. (2009) Phytother. Res.",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 35,
+    "protein_g": 2.5,
+    "fat_g": 0.4,
+    "carbs_g": 6.0,
+    "fiber_g": 2.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Hericenones / Erinacines",
+        "amount": "present — NGF stimulators",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Beta-glucans",
+        "amount": "present, immunomodulatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~450mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~5mg",
+        "percent_dv": 31
+      }
+    ],
+    "notes": "Excellent culinary and medicinal mushroom. Unique in containing hericenones and erinacines — compounds shown to stimulate Nerve Growth Factor (NGF) synthesis, with promising applications for cognitive and neurological health. Crab/lobster-like texture when cooked. Always cook before eating."
+  },
+  {
+    "species": "mayapple",
+    "common_name": "Mayapple",
+    "confidence": "medium",
+    "source": "Thayer (2010); Duke (1992) 'Handbook of Edible Weeds'",
+    "edible_parts": [
+      "ripe fruit only"
+    ],
+    "calories_per_100g": 55,
+    "protein_g": 0.8,
+    "fat_g": 0.2,
+    "carbs_g": 13.8,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~30mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Riboflavin",
+        "amount": "~0.1mg",
+        "percent_dv": 8
+      }
+    ],
+    "notes": "SAFETY CRITICAL: Only the fully ripe yellow fruit is edible — when soft and fragrant, falling from the plant. ALL OTHER PARTS are highly toxic (rhizome, leaves, stems, unripe fruit contain podophyllotoxin, a potent cytotoxin). Seeds inside the ripe fruit should also not be eaten. Do NOT eat unripe green fruit."
+  },
+  {
+    "species": "meadow_garlic",
+    "common_name": "Meadow Garlic",
+    "confidence": "medium",
+    "source": "General Allium sp. data; USDA SR Legacy #11215 (garlic proxy)",
+    "edible_parts": [
+      "bulbs",
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": 40,
+    "protein_g": 1.5,
+    "fat_g": 0.2,
+    "carbs_g": 8.0,
+    "fiber_g": 1.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~30mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Allicin (organosulfur)",
+        "amount": "present, antimicrobial",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.3mg",
+        "percent_dv": 13
+      }
+    ],
+    "notes": "All parts of Allium canadense are edible if they smell like garlic or onion. CRITICAL identification rule: any Allium must smell distinctly of garlic/onion when cut — if no smell, do not eat (could be death camas). Use as a mild garlic substitute. Macros estimated from garlic; milder flavor means higher water content."
+  },
+  {
+    "species": "morel",
+    "common_name": "White Morel",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11282",
+    "edible_parts": [
+      "fruiting body (cooked)"
+    ],
+    "calories_per_100g": 31,
+    "protein_g": 3.1,
+    "fat_g": 0.6,
+    "carbs_g": 5.1,
+    "fiber_g": 2.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Iron",
+        "amount": "12.2mg",
+        "percent_dv": 68
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.6mg",
+        "percent_dv": 67
+      },
+      {
+        "nutrient": "Vitamin D",
+        "amount": "~206 IU",
+        "percent_dv": 26
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.6mg",
+        "percent_dv": 26
+      }
+    ],
+    "notes": "One of the highest iron content of any wild mushroom — remarkable for a non-meat food. Excellent Vitamin D and copper source. MUST be cooked before eating — raw morels cause GI distress. Do not confuse with false morels (Gyromitra) which are toxic. Hollow stem and cap when sliced vertically is key ID feature."
+  },
+  {
+    "species": "mullein",
+    "common_name": "Mullein",
+    "confidence": "low",
+    "source": "Limited nutritional data; primarily medicinal use",
+    "edible_parts": [
+      "flowers (tea)",
+      "young leaves (tea only — hairy)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Saponins",
+        "amount": "present, expectorant",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Mucilage",
+        "amount": "present, demulcent",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Flavonoids",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Primarily a medicinal plant — flowers and leaves are used as a respiratory herb tea. Hairy leaves should not be eaten directly (irritating); strain tea well. Flowers can be eaten but are primarily used for infusions. No reliable macro nutritional data applicable for tea use."
+  },
+  {
+    "species": "muscadine",
+    "common_name": "Muscadine",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09132 (muscadine grapes)",
+    "edible_parts": [
+      "fruit",
+      "seeds"
+    ],
+    "calories_per_100g": 57,
+    "protein_g": 0.8,
+    "fat_g": 0.5,
+    "carbs_g": 13.9,
+    "fiber_g": 0.9,
+    "notable_nutrients": [
+      {
+        "nutrient": "Resveratrol",
+        "amount": "~0.5mg/100g (skin)",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Ellagic acid",
+        "amount": "present, antioxidant",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~6.8mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.9mg",
+        "percent_dv": 39
+      }
+    ],
+    "notes": "Muscadine seeds are edible and contain high concentrations of ellagic acid and other polyphenols. Skin is thick and chewy — often spit out, but contains most of the antioxidants. Unique to the American Southeast. Higher polyphenol content than most other grape varieties."
+  },
+  {
+    "species": "ostrich_fern",
+    "common_name": "Ostrich Fern",
+    "confidence": "medium",
+    "source": "Tee et al. (1997); Thayer (2010); USDA partial data (fiddleheads)",
+    "edible_parts": [
+      "fiddleheads (tightly coiled young fronds only)"
+    ],
+    "calories_per_100g": 34,
+    "protein_g": 4.6,
+    "fat_g": 0.4,
+    "carbs_g": 5.7,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Niacin",
+        "amount": "~5.0mg",
+        "percent_dv": 31
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~26.6mg",
+        "percent_dv": 30
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.5mg",
+        "percent_dv": 22
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "~1.3mg",
+        "percent_dv": 7
+      }
+    ],
+    "notes": "Only ostrich fern (Matteuccia struthiopteris) fiddleheads are reliably edible. Other fern fiddleheads may contain toxins. MUST be cooked — boiled for 10–15 minutes (discard water) or steamed/sautéed until tender. Raw fiddleheads have caused foodborne illness outbreaks. Harvest only when tightly coiled, before frond unfurls."
+  },
+  {
+    "species": "oyster_mushroom",
+    "common_name": "Oyster Mushroom",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11473",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 33,
+    "protein_g": 3.3,
+    "fat_g": 0.4,
+    "carbs_g": 6.1,
+    "fiber_g": 2.3,
+    "notable_nutrients": [
+      {
+        "nutrient": "Niacin",
+        "amount": "4.96mg",
+        "percent_dv": 31
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.2mg",
+        "percent_dv": 22
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "420mg",
+        "percent_dv": 9
+      },
+      {
+        "nutrient": "Riboflavin (B2)",
+        "amount": "0.35mg",
+        "percent_dv": 27
+      }
+    ],
+    "notes": "One of the most widely consumed and cultivated wild mushrooms. High in B-vitamins relative to calories. Mild flavor; very versatile in cooking. Wild specimens typically found on dead or dying hardwoods. Always cook before eating."
+  },
+  {
+    "species": "pawpaw",
+    "common_name": "Pawpaw",
+    "confidence": "medium",
+    "source": "Peterson (1991) 'Pawpaw'; Pomper et al. (2009) HortScience; USDA limited data",
+    "edible_parts": [
+      "fruit pulp"
+    ],
+    "calories_per_100g": 80,
+    "protein_g": 1.2,
+    "fat_g": 1.2,
+    "carbs_g": 18.8,
+    "fiber_g": 2.6,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~18mg",
+        "percent_dv": 20
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~247mg",
+        "percent_dv": 5
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "~47mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Riboflavin",
+        "amount": "~0.1mg",
+        "percent_dv": 8
+      }
+    ],
+    "notes": "Highest calorie density of any North American native fruit. Custard-like texture; tropical banana/mango flavor. Seeds and skin contain annonaceous acetogenins (potentially toxic); eat pulp only. Some individuals experience allergic reactions — eat small amounts at first. Highly perishable; eat within a few days of harvest."
+  },
+  {
+    "species": "persimmon",
+    "common_name": "American Persimmon",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #09260 (Japanese persimmon proxy); Pennington (1998) partial data for D. virginiana",
+    "edible_parts": [
+      "ripe fruit"
+    ],
+    "calories_per_100g": 70,
+    "protein_g": 0.8,
+    "fat_g": 0.4,
+    "carbs_g": 18.6,
+    "fiber_g": 3.6,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~66mg",
+        "percent_dv": 73
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~2700 IU",
+        "percent_dv": 54
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.4mg",
+        "percent_dv": 17
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~160mg",
+        "percent_dv": 3
+      }
+    ],
+    "notes": "American persimmon (D. virginiana) data based on Japanese persimmon (D. kaki) USDA data — actual values may differ. Must be fully ripe (soft, wrinkled, after first frost or fully fallen) — unripe fruit contains high tannins (soluble) causing extreme astringency and mouth puckering. Ripe fruit is sweet and delicious."
+  },
+  {
+    "species": "pokeweed",
+    "common_name": "Pokeweed",
+    "confidence": "medium",
+    "source": "USDA partial; Duke (1992); Thayer (2010)",
+    "edible_parts": [
+      "young shoots only (under 15–20cm, no pink coloration, properly prepared)"
+    ],
+    "calories_per_100g": 24,
+    "protein_g": 2.3,
+    "fat_g": 0.4,
+    "carbs_g": 3.7,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~136mg",
+        "percent_dv": 151
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~7700 IU",
+        "percent_dv": 154
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "~53mg",
+        "percent_dv": 4
+      }
+    ],
+    "notes": "SAFETY CRITICAL: Pokeweed is toxic in all parts — roots most toxic (contain phytolaccatoxin and pokeweed antiviral protein). Only the youngest shoots (no pink or red color, no trace of root) are edible after proper preparation: boil in large pot of water, discard water, boil again, discard water, then cook a third time. Traditional 'poke sallit' requires this triple-boiling process. Berries, roots, leaves, and mature stems are toxic. This is an advanced forager plant — extreme caution required."
+  },
+  {
+    "species": "purslane",
+    "common_name": "Purslane",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11427",
+    "edible_parts": [
+      "leaves",
+      "stems"
+    ],
+    "calories_per_100g": 16,
+    "protein_g": 1.3,
+    "fat_g": 0.1,
+    "carbs_g": 3.4,
+    "fiber_g": 0.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Omega-3 (ALA)",
+        "amount": "400mg",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "1320 IU",
+        "percent_dv": 26
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "21mg",
+        "percent_dv": 23
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "68mg",
+        "percent_dv": 16
+      }
+    ],
+    "notes": "Highest omega-3 fatty acid content of any leafy vegetable — exceptional for a plant source. Contains both alpha-linolenic acid (ALA) and small amounts of EPA. Common 'weed' worldwide. Succulent and slightly sour; excellent raw or lightly cooked. High in oxalic acid — moderate consumption for those prone to kidney stones."
+  },
+  {
+    "species": "ramps",
+    "common_name": "Ramps",
+    "confidence": "medium",
+    "source": "Rose et al. (2005) J. Food Comp. Analysis; USDA limited data",
+    "edible_parts": [
+      "leaves",
+      "bulbs",
+      "stems"
+    ],
+    "calories_per_100g": 30,
+    "protein_g": 1.8,
+    "fat_g": 0.3,
+    "carbs_g": 5.0,
+    "fiber_g": 1.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~55mg",
+        "percent_dv": 61
+      },
+      {
+        "nutrient": "Allicin & organosulfur compounds",
+        "amount": "present, antimicrobial",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Selenium",
+        "amount": "~0.9µg",
+        "percent_dv": 2
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.3mg",
+        "percent_dv": 13
+      }
+    ],
+    "notes": "One of the most sought-after spring wild edibles. Strong garlic-onion flavor — all parts edible raw or cooked. Historically critical spring vitamin source for Appalachian communities. Overharvesting is a serious conservation concern — harvest no more than 1 leaf per plant, never the bulb, or use sustainable bulb harvesting (take max 1 in 10). Leaves expire quickly after harvest."
+  },
+  {
+    "species": "red_chanterelle",
+    "common_name": "Red Chanterelle",
+    "confidence": "low",
+    "source": "General Cantharellus / Craterellus sp. estimates; limited species-specific data for C. cinnabarinus",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 35,
+    "protein_g": 1.5,
+    "fat_g": 0.4,
+    "carbs_g": 6.5,
+    "fiber_g": 3.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Copper",
+        "amount": "~0.3mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~3mg",
+        "percent_dv": 19
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~400mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "Cinnabar chanterelle (Cantharellus cinnabarinus). Edible and good, though smaller than golden chanterelle. No species-specific nutritional analysis found; macros estimated from golden chanterelle (USDA #11821). Always cook before eating."
+  },
+  {
+    "species": "redbud",
+    "common_name": "Eastern Redbud",
+    "confidence": "low",
+    "source": "Couplan (1998); limited species-specific nutritional data",
+    "edible_parts": [
+      "flowers (raw)",
+      "young seed pods",
+      "flower buds"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "present in flowers",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Flowers are the primary edible — eaten raw, they have a pleasantly sour, slightly sweet flavor. Young seed pods (before seeds harden) edible cooked. Used primarily as a seasonal garnish rather than a nutritional staple. Limited nutritional analysis found. No known safety concerns for the edible parts."
+  },
+  {
+    "species": "rose_hip",
+    "common_name": "Rose Hip",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09287",
+    "edible_parts": [
+      "hip (outer flesh)",
+      "petals"
+    ],
+    "calories_per_100g": 162,
+    "protein_g": 1.6,
+    "fat_g": 0.3,
+    "carbs_g": 38.2,
+    "fiber_g": 24.1,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "426mg",
+        "percent_dv": 473
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "4345 IU",
+        "percent_dv": 87
+      },
+      {
+        "nutrient": "Fiber",
+        "amount": "24.1g",
+        "percent_dv": 86
+      },
+      {
+        "nutrient": "Vitamin E",
+        "amount": "5.8mg",
+        "percent_dv": 39
+      }
+    ],
+    "notes": "Extraordinary Vitamin C content — one of the richest plant sources known. Values are for dried rose hips; fresh hips have ~428mg Vitamin C/100g (USDA #09286, fresh). Hairy seeds inside must be removed before eating (irritating). Remove blossom and stem ends. Excellent for tea, jam, and syrup."
+  },
+  {
+    "species": "sassafras",
+    "common_name": "Sassafras",
+    "confidence": "medium",
+    "source": "USDA limited; FDA guidance; Duke (1992)",
+    "edible_parts": [
+      "young leaves (filé powder)",
+      "twigs (tea, limited)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Mucilage (in leaves)",
+        "amount": "thickening agent",
+        "percent_dv": null
+      }
+    ],
+    "notes": "REGULATORY NOTE: Safrole (found primarily in root bark and roots) is classified as a potential human carcinogen and was banned by the FDA in 1960 for use in root beer. Filé powder (ground dried leaves) is widely considered safe — safrole is not concentrated in leaves. Young leaves are also edible and safe as a seasoning or thickener (gumbo filé). Avoid consuming root bark or root tea in quantity."
+  },
+  {
+    "species": "serviceberry",
+    "common_name": "Serviceberry",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #09420 (juneberries/saskatoon); Hellson & Gadd (1974)",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 85,
+    "protein_g": 1.3,
+    "fat_g": 1.0,
+    "carbs_g": 20.0,
+    "fiber_g": 3.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Iron",
+        "amount": "2.1mg",
+        "percent_dv": 12
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "1.9mg",
+        "percent_dv": 83
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.5mg",
+        "percent_dv": 56
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~8mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "USDA data covers Amelanchier alnifolia (saskatoon/juneberry) — nutritional profile is similar across Amelanchier species. Exceptionally high in manganese and copper. Good iron source. Berries taste like blueberries with an almond hint (from seeds, which contain small amounts of cyanogenic glycosides — safe in normal food quantities)."
+  },
+  {
+    "species": "shagbark_hickory",
+    "common_name": "Shagbark Hickory",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #12142 (hickory nuts, general); Moerman (1998)",
+    "edible_parts": [
+      "nut meat"
+    ],
+    "calories_per_100g": 657,
+    "protein_g": 12.7,
+    "fat_g": 64.4,
+    "carbs_g": 18.3,
+    "fiber_g": 6.4,
+    "notable_nutrients": [
+      {
+        "nutrient": "Thiamine (B1)",
+        "amount": "0.87mg",
+        "percent_dv": 73
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "4.6mg",
+        "percent_dv": 200
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "173mg",
+        "percent_dv": 41
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "336mg",
+        "percent_dv": 27
+      }
+    ],
+    "notes": "One of the highest calorie wild foods available in the East. Hickory nuts have an excellent fat profile with a majority of unsaturated fats. Historically a critical calorie source for Indigenous nations and early colonists. Hard shells make cracking labor-intensive but yield is worth it. Sweeter and richer than black walnut."
+  },
+  {
+    "species": "smooth_chanterelle",
+    "common_name": "Smooth Chanterelle",
+    "confidence": "low",
+    "source": "General Cantharellus sp. estimates; no species-specific data for C. lateritius",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 35,
+    "protein_g": 1.5,
+    "fat_g": 0.5,
+    "carbs_g": 6.5,
+    "fiber_g": 3.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Copper",
+        "amount": "~0.4mg",
+        "percent_dv": 44
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~4mg",
+        "percent_dv": 25
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~490mg",
+        "percent_dv": 11
+      }
+    ],
+    "notes": "Very similar to golden chanterelle (C. cibarius) in flavor and appearance. Distinguished by smooth (not ridged/forked) false gills. Macros estimated from golden chanterelle USDA data. Excellent edible. Always cook before eating."
+  },
+  {
+    "species": "sochan",
+    "common_name": "Sochan",
+    "confidence": "low",
+    "source": "Limited data; Moerman (1998); Cherokee ethnobotanical records",
+    "edible_parts": [
+      "young leaves and stems (cooked)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Iron",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Rudbeckia laciniata — an important traditional green vegetable for the Cherokee Nation. Young leaves and stems harvested in spring are cooked as greens. No modern nutritional analysis found. Related to coneflowers. Bitter if eaten raw; boil with water changes. Culturally significant Appalachian food."
+  },
+  {
+    "species": "solomons_seal",
+    "common_name": "Solomon's Seal",
+    "confidence": "low",
+    "source": "Thayer (2010); Couplan (1998); no modern nutritional analysis",
+    "edible_parts": [
+      "young shoots (cooked)",
+      "rhizome (leached and cooked)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Starch (rhizome)",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Young spring shoots are edible when boiled. Rhizome contains starch but requires leaching (repeated boiling with water changes) to remove bitterness and potential irritants. Berries are NOT edible (mildly toxic). Limited modern nutritional data available. Primarily a survival or famine food historically. Not to be confused with False Solomon's Seal (Maianthemum)."
+  },
+  {
+    "species": "spicebush",
+    "common_name": "Spicebush",
+    "confidence": "low",
+    "source": "Couplan (1998); Peterson (1977); limited nutritional data",
+    "edible_parts": [
+      "berries (spice)",
+      "twigs/bark (tea)",
+      "leaves (tea)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Lindera benzoin essential oils",
+        "amount": "present — allspice-like flavor compounds",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Primarily used as a spice, not a caloric food source. Dried/ground berries are an excellent native allspice substitute. Twigs and leaves make a flavorful tea. Used as an allspice substitute during the American Revolution. No macro nutritional data applicable — consumed in spice quantities. No known safety concerns."
+  },
+  {
+    "species": "spring_beauty",
+    "common_name": "Spring Beauty",
+    "confidence": "low",
+    "source": "Thayer (2010); Duke (1992); limited nutritional analysis",
+    "edible_parts": [
+      "corm (tuber)",
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Starch (corm)",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C (leaves)",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Small corms taste like mild potatoes when boiled or roasted. Leaves and flowers are edible raw. The corm is small and difficult to harvest in quantity. No reliable macro data available. Harvest only where abundant and never take more than a small fraction from any patch — overharvesting is a concern."
+  },
+  {
+    "species": "staghorn_sumac",
+    "common_name": "Staghorn Sumac",
+    "confidence": "medium",
+    "source": "Moerman (1998); Duke (1992); limited USDA data",
+    "edible_parts": [
+      "berry clusters (for sumac-ade drink)",
+      "berries (spice when dried)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Malic acid",
+        "amount": "high — tart/sour flavor source",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "present in berries",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~10–21mg/100mL (sumac-ade)",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Red berry clusters (drupes) are soaked in cold water to make a tart lemonade-like drink. Dried and ground berries used as a spice (similar to Middle Eastern sumac). Not enough pulp to eat directly. CAUTION: do NOT confuse with white-berried sumacs (Toxicodendron species — poison sumac has white/cream berries, not red). Staghorn sumac has fuzzy red clusters."
+  },
+  {
+    "species": "stinging_nettle",
+    "common_name": "Stinging Nettle",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11490",
+    "edible_parts": [
+      "young leaves and stems (cooked or dried — sting neutralized)"
+    ],
+    "calories_per_100g": 42,
+    "protein_g": 2.7,
+    "fat_g": 0.1,
+    "carbs_g": 7.5,
+    "fiber_g": 6.9,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin K",
+        "amount": "498µg",
+        "percent_dv": 415
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "2011 IU",
+        "percent_dv": 40
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "481mg",
+        "percent_dv": 37
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "1.6mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "Exceptional nutritional profile — one of the most nutritious wild greens. Extremely high in Vitamin K and calcium. Stinging hairs are neutralized completely by boiling, steaming, drying, or blending. Never eat raw. Harvest young shoots (under 30cm) with gloves. One of the most reliable, productive, and nutritious wild plants available."
+  },
+  {
+    "species": "teaberry",
+    "common_name": "Eastern Teaberry",
+    "confidence": "low",
+    "source": "Limited species-specific data; Couplan (1998); Duke (1992)",
+    "edible_parts": [
+      "berries",
+      "leaves (tea)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Methyl salicylate",
+        "amount": "high in leaves — wintergreen flavor",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present in berries, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Gaultheria procumbens. Small red berries have a strong wintergreen flavor; edible raw in small quantities. Leaves make wintergreen tea. CAUTION: methyl salicylate (oil of wintergreen) is toxic in concentrated form — do not use essential oil internally. Berries and occasional leaf tea are safe. Avoid in large quantities, especially for those sensitive to aspirin (salicylate sensitivity)."
+  },
+  {
+    "species": "toothwort",
+    "common_name": "Cutleaf Toothwort",
+    "confidence": "low",
+    "source": "Thayer (2010); Couplan (1998); very limited nutritional data",
+    "edible_parts": [
+      "rhizome (raw or cooked)",
+      "leaves"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Glucosinolates",
+        "amount": "present — horseradish-like pungency",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Cardamine concatenata. Rhizomes taste like horseradish or wasabi — used as a condiment. Leaves have a milder peppery flavor and are edible raw or cooked. Ephemeral spring plant — disappears by summer. Very limited nutritional data. Glucosinolate content is nutritionally beneficial (similar to other Brassicaceae). No safety concerns when eaten in normal food quantities."
+  },
+  {
+    "species": "trout_lily",
+    "common_name": "Trout Lily",
+    "confidence": "low",
+    "source": "Thayer (2010); Couplan (1998); very limited nutritional data",
+    "edible_parts": [
+      "leaves (small quantities)",
+      "corms"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Starch (corm)",
+        "amount": "present, unquantified",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Erythronium americanum. Leaves are edible raw in very small amounts — larger quantities cause nausea and vomiting. Corms edible but small and difficult to harvest sustainably. An ephemeral spring plant that takes 7 years to bloom from seed — extremely vulnerable to overharvesting. Primarily of historical/ethnobotanical interest. Use only in survival contexts."
+  },
+  {
+    "species": "turkey_tail",
+    "common_name": "Turkey Tail",
+    "confidence": "medium",
+    "source": "Standish et al. (2008) ISRN Oncology; USDA partial; general Trametes versicolor research",
+    "edible_parts": [
+      "fruiting body (tea/tincture only — too tough to eat)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "PSK (Krestin) polysaccharide",
+        "amount": "well-studied immunomodulator",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "PSP polysaccharide",
+        "amount": "present, immunomodulatory",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Beta-glucans",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Trametes versicolor — one of the most studied medicinal mushrooms globally. PSK (polysaccharide K) is approved as an adjunct cancer treatment in Japan. FDA approved a clinical trial for its use with conventional cancer treatment. Consumed as a long-simmered tea or dual-extraction tincture. Too leathery to eat. Confirm correct ID — look for multicolored concentric zones with white/cream pore surface underneath."
+  },
+  {
+    "species": "watercress",
+    "common_name": "Watercress",
+    "confidence": "high",
+    "source": "USDA SR Legacy #11591",
+    "edible_parts": [
+      "leaves",
+      "stems"
+    ],
+    "calories_per_100g": 11,
+    "protein_g": 2.3,
+    "fat_g": 0.1,
+    "carbs_g": 1.3,
+    "fiber_g": 0.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin K",
+        "amount": "250µg",
+        "percent_dv": 208
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "43mg",
+        "percent_dv": 48
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "3191 IU",
+        "percent_dv": 64
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "120mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "One of the most nutrient-dense leafy greens by calorie. Exceptionally high in Vitamin K. CAUTION: only harvest from clean, fast-moving water sources — watercress from slow or contaminated water can harbor liver flukes (Fasciola hepatica). Wash thoroughly. Cook to eliminate pathogen risk if water quality is uncertain."
+  },
+  {
+    "species": "white_pored_chicken_of_the_woods",
+    "common_name": "White-Pored Chicken of the Woods",
+    "confidence": "low",
+    "source": "General Laetiporus sp. estimates; limited species-specific data for L. cincinnatus",
+    "edible_parts": [
+      "fruiting body (young, tender)"
+    ],
+    "calories_per_100g": 33,
+    "protein_g": 3.3,
+    "fat_g": 0.5,
+    "carbs_g": 5.0,
+    "fiber_g": 1.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Protein",
+        "amount": "3.3g",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~370mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~5mg",
+        "percent_dv": 31
+      }
+    ],
+    "notes": "Laetiporus cincinnatus — grows from the ground at base of oaks rather than on trunks (unlike L. sulphureus). Generally considered to cause fewer GI reactions than L. sulphureus. Macros estimated from L. sulphureus analysis. Must be cooked thoroughly. Only tender young tissue is edible."
+  },
+  {
+    "species": "wild_black_cherry",
+    "common_name": "Wild Black Cherry",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #09063 (sour cherries proxy); Moerman (1998)",
+    "edible_parts": [
+      "ripe fruit (flesh only)"
+    ],
+    "calories_per_100g": 50,
+    "protein_g": 1.0,
+    "fat_g": 0.3,
+    "carbs_g": 12.2,
+    "fiber_g": 1.6,
+    "notable_nutrients": [
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "~300–500mg/100g",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~10mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~180mg",
+        "percent_dv": 4
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~640 IU",
+        "percent_dv": 13
+      }
+    ],
+    "notes": "CAUTION: Leaves, twigs, bark, and seeds contain cyanogenic glycosides (prunasin) — DO NOT eat seeds, do not use plant parts for tea. Ripe fruit flesh is safe and nutritious. Very small cherries; somewhat bitter. Historically important food and medicine for many Indigenous nations. Do not confuse with chokecherry (Prunus virginiana — also edible) or black nightshade (Solanum — toxic)."
+  },
+  {
+    "species": "wild_ginger",
+    "common_name": "Wild Ginger",
+    "confidence": "low",
+    "source": "Duke (1992); Couplan (1998); limited modern data",
+    "edible_parts": [
+      "rhizome (small amounts as spice)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Aristolochic acid",
+        "amount": "present — see safety note",
+        "percent_dv": null
+      }
+    ],
+    "notes": "SAFETY NOTE: Asarum canadense contains aristolochic acid, a compound classified as a Group 1 human carcinogen (IARC). Traditional use as a ginger substitute is well-documented, but long-term or regular consumption is not recommended based on current evidence. Occasional use as a spice in small amounts is considered low-risk by most foraging authors (Thayer, Kallas), but use with caution and do not consume in large amounts or regularly. No macro nutritional data applicable for spice-quantity use."
+  },
+  {
+    "species": "wild_grape",
+    "common_name": "Riverbank Grape",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #09132 (muscadine proxy); Vitis riparia partial analysis",
+    "edible_parts": [
+      "fruit",
+      "young leaves",
+      "tendrils"
+    ],
+    "calories_per_100g": 67,
+    "protein_g": 0.6,
+    "fat_g": 0.4,
+    "carbs_g": 17.2,
+    "fiber_g": 0.9,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~10mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "~14.6µg",
+        "percent_dv": 12
+      },
+      {
+        "nutrient": "Resveratrol",
+        "amount": "present in skin",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.7mg",
+        "percent_dv": 30
+      }
+    ],
+    "notes": "Vitis riparia is very tart; best for jelly, juice, or wine rather than fresh eating. Young spring leaves are edible and commonly used for dolmades (stuffed grape leaves). Tendrils are edible raw. CAUTION: Moonseed (Menispermum canadense) can resemble wild grape — check for a single crescent-shaped seed (moonseed, toxic) vs. multiple round seeds (grape, edible)."
+  },
+  {
+    "species": "wild_strawberry",
+    "common_name": "Wild Strawberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09316",
+    "edible_parts": [
+      "berries",
+      "leaves (tea)"
+    ],
+    "calories_per_100g": 32,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "carbs_g": 7.7,
+    "fiber_g": 2.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "58.8mg",
+        "percent_dv": 65
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.4mg",
+        "percent_dv": 17
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "24µg",
+        "percent_dv": 6
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "153mg",
+        "percent_dv": 3
+      }
+    ],
+    "notes": "Wild strawberries (Fragaria virginiana) are significantly more flavorful and nutrient-dense by weight than cultivated strawberries, though smaller. Much higher Vitamin C content relative to calories. Leaves can be dried for a pleasant tea (contain tannins and Vitamin C). Unmistakable when fruiting; no dangerous lookalikes."
+  },
+  {
+    "species": "wineberry",
+    "common_name": "Wineberry",
+    "confidence": "medium",
+    "source": "General Rubus sp. data; USDA SR Legacy #09252 (raspberry proxy)",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 52,
+    "protein_g": 1.2,
+    "fat_g": 0.7,
+    "carbs_g": 11.9,
+    "fiber_g": 6.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~26mg",
+        "percent_dv": 29
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "~0.7mg",
+        "percent_dv": 30
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "~7µg",
+        "percent_dv": 6
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "~21µg",
+        "percent_dv": 5
+      }
+    ],
+    "notes": "Rubus phoenicolasius — invasive Asian raspberry, widely foraged in the eastern US. Nutritionally very similar to red raspberry. Sweet, juicy, and less tart than native raspberries. Invasive status means foraging is actively encouraged. No safety concerns; edible raw or cooked."
+  },
+  {
+    "species": "wood_sorrel",
+    "common_name": "Wood Sorrel",
+    "confidence": "medium",
+    "source": "Kuhnlein & Turner (1991); Kallas (2010); limited USDA data",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers",
+      "seed pods"
+    ],
+    "calories_per_100g": 25,
+    "protein_g": 1.7,
+    "fat_g": 0.3,
+    "carbs_g": 4.5,
+    "fiber_g": 1.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~50mg",
+        "percent_dv": 56
+      },
+      {
+        "nutrient": "Oxalic acid",
+        "amount": "high — see safety note",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "~100mg (largely bound)",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Distinctive clover-like leaves with a bright, lemony sour flavor — due to oxalic acid. Excellent as a trail nibble or salad accent. CAUTION: Very high in oxalic acid — do not eat in large quantities. Not suitable as a primary green for those with kidney stones, gout, or rheumatoid arthritis. Calcium is present but largely unavailable due to oxalate binding. Eat in moderation; fine as a seasoning or snack."
+  },
+  {
+    "species": "yarrow",
+    "common_name": "Yarrow",
+    "confidence": "low",
+    "source": "Duke (1992); Couplan (1998); primarily medicinal plant with limited food use data",
+    "edible_parts": [
+      "young leaves (small amounts)",
+      "flowers (tea)"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Achilleic acid / sesquiterpene lactones",
+        "amount": "present, bitter/medicinal",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Flavonoids",
+        "amount": "present",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Primarily a medicinal herb — used as a wound herb and fever tea for millennia. Young leaves are edible as a bitter seasoning in small amounts. Not typically used as a food plant in significant quantity due to bitterness and bioactive compounds. Some people develop contact dermatitis from handling. No reliable macro nutritional data for food use. CAUTION: Do not confuse with poison hemlock (Conium maculatum) or water hemlock (Cicuta) — always confirm fern-like leaves and characteristic yarrow aroma."
+  },
+  {
+    "species": "yellowfoot_chanterelle",
+    "common_name": "Yellowfoot Chanterelle",
+    "confidence": "medium",
+    "source": "Mattila et al. (2001) J. Agric. Food Chem.; general Craterellus tubaeformis analysis",
+    "edible_parts": [
+      "fruiting body"
+    ],
+    "calories_per_100g": 31,
+    "protein_g": 2.2,
+    "fat_g": 0.5,
+    "carbs_g": 5.0,
+    "fiber_g": 3.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin D",
+        "amount": "~141 IU",
+        "percent_dv": 18
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "~0.3mg",
+        "percent_dv": 33
+      },
+      {
+        "nutrient": "Niacin",
+        "amount": "~3.6mg",
+        "percent_dv": 23
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "~450mg",
+        "percent_dv": 10
+      }
+    ],
+    "notes": "Craterellus tubaeformis (formerly Cantharellus tubaeformis). Also called winter chanterelle — fruits into late fall and sometimes winter, extending the foraging season. Good Vitamin D source. Hollow stem is a key ID feature. Thinner and more delicate than golden chanterelle; excellent dried. Always cook before eating."
+  },
+  {
+    "species": "multiflora_rose",
+    "common_name": "Multiflora Rose",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #168998 (rose hips, wild). Data is for generic wild rose hips (Rosa spp.), not specifically Rosa multiflora.",
+    "edible_parts": [
+      "rose hips",
+      "flower petals"
+    ],
+    "calories_per_100g": 162,
+    "protein_g": 1.6,
+    "fat_g": 0.34,
+    "carbs_g": 38.2,
+    "fiber_g": 24.1,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "426mg",
+        "percent_dv": 473
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "217µg",
+        "percent_dv": 24
+      },
+      {
+        "nutrient": "Vitamin E",
+        "amount": "5.8mg",
+        "percent_dv": 39
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "1.0mg",
+        "percent_dv": 44
+      }
+    ],
+    "notes": "Exceptionally high in vitamin C — nearly 5x the daily value per 100g. Very high in fiber (24g). Rose hips are typically harvested after first frost for best flavor. Used in teas, jams, and syrups."
+  },
+  {
+    "species": "pineapple_weed",
+    "common_name": "Pineapple Weed",
+    "confidence": "low",
+    "source": "No USDA entry exists for Matricaria discoidea. Closest relative is chamomile (Matricaria chamomilla). Used primarily as a tea herb, not a caloric food.",
+    "edible_parts": [
+      "flower heads"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [],
+    "notes": "Consumed as tea or minor edible garnish rather than a food source. No reliable per-100g nutritional analysis available. Flowers have a pineapple-like aroma and are steeped for tea or added raw to salads in small amounts."
+  },
+  {
+    "species": "purple_dead_nettle",
+    "common_name": "Purple Dead Nettle",
+    "confidence": "low",
+    "source": "Estimated from Lamium album (white dead nettle) via Bremness, L. The Complete Book of Herbs, 1988. No USDA entry for Lamium purpureum.",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "flowers"
+    ],
+    "calories_per_100g": null,
+    "protein_g": 6.5,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "76mg",
+        "percent_dv": 84
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "3.4mg",
+        "percent_dv": 19
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "76mg",
+        "percent_dv": 6
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "411mg",
+        "percent_dv": 9
+      }
+    ],
+    "notes": "No USDA data — values estimated from related Lamium album (white dead nettle). Notable for high protein content among wild greens (6.5g/100g fresh weight). Rich in vitamins A, C, and K, iron, and calcium. Eaten raw in salads or cooked like spinach."
+  },
+  {
+    "species": "queen_annes_lace",
+    "common_name": "Queen Anne's Lace (Wild Carrot)",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #170393 (carrots, raw). Queen Anne's lace (Daucus carota) is the wild ancestor of cultivated carrot. Wild roots are smaller and more fibrous.",
+    "edible_parts": [
+      "roots (first-year plants)",
+      "flowers",
+      "seeds"
+    ],
+    "calories_per_100g": 41,
+    "protein_g": 0.93,
+    "fat_g": 0.24,
+    "carbs_g": 9.6,
+    "fiber_g": 2.8,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "amount": "835µg",
+        "percent_dv": 93
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "320mg",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "13.2µg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "5.9mg",
+        "percent_dv": 7
+      }
+    ],
+    "notes": "Wild ancestor of cultivated carrot. First-year roots are edible but woodier and smaller. Values based on cultivated carrot — wild roots likely have less sugar and more fiber. CRITICAL: Easily confused with poison hemlock (Conium maculatum), which is deadly."
+  },
+  {
+    "species": "red_clover",
+    "common_name": "Red Clover",
+    "confidence": "low",
+    "source": "USDA Branded Foods #535852 (clover sprouts). Data is for cultivated clover sprouts, not wild red clover flowers/leaves.",
+    "edible_parts": [
+      "flower heads",
+      "young leaves",
+      "sprouts"
+    ],
+    "calories_per_100g": 29,
+    "protein_g": 3.5,
+    "fat_g": 0.59,
+    "carbs_g": 3.5,
+    "fiber_g": 2.4,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "7.1mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "0.85mg",
+        "percent_dv": 5
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "24mg",
+        "percent_dv": 2
+      }
+    ],
+    "notes": "Limited nutrition data for wild red clover. Values from cultivated clover sprouts (USDA), which may differ from wild flower heads. Rich in isoflavones. Flowers eaten raw, in salads, or dried for tea. Low calorie with moderate protein."
+  },
+  {
+    "species": "red_mulberry",
+    "common_name": "Red Mulberry",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #169913 (mulberries, raw). USDA data is for generic mulberries — likely a mix of Morus alba and Morus rubra.",
+    "edible_parts": [
+      "ripe berries"
+    ],
+    "calories_per_100g": 43,
+    "protein_g": 1.44,
+    "fat_g": 0.39,
+    "carbs_g": 9.8,
+    "fiber_g": 1.7,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "36.4mg",
+        "percent_dv": 41
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "1.85mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Riboflavin",
+        "amount": "0.101mg",
+        "percent_dv": 8
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "194mg",
+        "percent_dv": 4
+      }
+    ],
+    "notes": "Good source of vitamin C and iron for a berry. Native to eastern North America. Ripe berries are dark purple-black and sweet. Higher iron content than most common berries. Unripe berries may cause stomach upset."
+  },
+  {
+    "species": "red_raspberry",
+    "common_name": "Red Raspberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09302",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 52,
+    "protein_g": 1.2,
+    "fat_g": 0.65,
+    "carbs_g": 11.9,
+    "fiber_g": 6.5,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "26.2mg",
+        "percent_dv": 29
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.67mg",
+        "percent_dv": 29
+      },
+      {
+        "nutrient": "Dietary Fiber",
+        "amount": "6.5g",
+        "percent_dv": 24
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.09mg",
+        "percent_dv": 10
+      }
+    ],
+    "notes": "Exceptionally high in dietary fiber (6.5g per 100g — higher than most fruits). Rich in manganese and vitamin C. Low calorie, virtually fat-free. Berries are fragile and best eaten fresh or quickly preserved."
+  },
+  {
+    "species": "violet",
+    "common_name": "Common Blue Violet",
+    "confidence": "low",
+    "source": "Zennie, T.M. & Ogzewalla, C.D. Ascorbic acid and Vitamin A content of edible wild plants of Ohio and Kentucky. Economic Botany, 1977; 31:76-79.",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin A",
+        "amount": "~20,000 IU",
+        "percent_dv": 400
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "~265mg",
+        "percent_dv": 294
+      }
+    ],
+    "notes": "No USDA entry. Zennie & Ogzewalla (1977) found violet leaves contain ~5x the vitamin C of oranges by weight and ~2.5x the vitamin A of spinach. Exceptionally rich in vitamins A and C among wild greens. Macro values unavailable from reliable sources."
+  },
+  {
+    "species": "white_mulberry",
+    "common_name": "White Mulberry",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #09190 (mulberries, raw — not species-specific)",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 43,
+    "protein_g": 1.4,
+    "fat_g": 0.4,
+    "carbs_g": 9.8,
+    "fiber_g": 1.7,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "36.4mg",
+        "percent_dv": 41
+      },
+      {
+        "nutrient": "Iron",
+        "amount": "1.85mg",
+        "percent_dv": 10
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "194mg",
+        "percent_dv": 4
+      },
+      {
+        "nutrient": "Riboflavin",
+        "amount": "0.10mg",
+        "percent_dv": 8
+      }
+    ],
+    "notes": "USDA entry is for generic mulberries — white and red mulberry are nutritionally similar. Notable iron content for a fruit (1.85mg/100g). Low calorie and very low fat. Sweet when fully ripe; used fresh, dried, or in preserves."
+  },
+  {
+    "species": "white_oak",
+    "common_name": "White Oak Acorn",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #12058 (nuts, acorns, raw)",
+    "edible_parts": [
+      "acorns (leached)"
+    ],
+    "calories_per_100g": 387,
+    "protein_g": 6.2,
+    "fat_g": 23.9,
+    "carbs_g": 40.8,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Manganese",
+        "amount": "1.34mg",
+        "percent_dv": 58
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.63mg",
+        "percent_dv": 70
+      },
+      {
+        "nutrient": "Vitamin B6",
+        "amount": "0.53mg",
+        "percent_dv": 26
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "539mg",
+        "percent_dv": 11
+      }
+    ],
+    "notes": "USDA data is for generic raw acorns. White oak acorns are lower in tannins than red oak and require less leaching. Calorie-dense — high in monounsaturated fat (similar profile to olive oil). Must be leached in water to remove bitter tannins before eating. Historically ground into flour for bread and porridge."
+  },
+  {
+    "species": "wild_bergamot",
+    "common_name": "Wild Bergamot (Bee Balm)",
+    "confidence": "low",
+    "source": "No USDA entry or published nutritional analysis available.",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [],
+    "notes": "No published nutritional data exists. Used primarily as a flavoring herb and tea, not a caloric food source. Contains thymol and carvacrol (essential oils with antiseptic properties). Consumed in small quantities as seasoning or infusion."
+  },
+  {
+    "species": "american_chestnut",
+    "common_name": "American Chestnut",
+    "confidence": "medium",
+    "source": "USDA SR Legacy #170574 (chestnuts, european, raw, unpeeled). European chestnut used as proxy — American chestnut is nutritionally similar but extremely rare due to blight.",
+    "edible_parts": [
+      "nuts"
+    ],
+    "calories_per_100g": 213,
+    "protein_g": 2.42,
+    "fat_g": 2.26,
+    "carbs_g": 45.54,
+    "fiber_g": 8.1,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "43mg",
+        "percent_dv": 48
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.45mg",
+        "percent_dv": 50
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.95mg",
+        "percent_dv": 41
+      },
+      {
+        "nutrient": "Potassium",
+        "amount": "518mg",
+        "percent_dv": 11
+      }
+    ],
+    "notes": "Data from European chestnut (closest USDA match). Unusually low in fat for a nut (2.3g vs 50-70g for most nuts). High in carbs and starch — more like a grain nutritionally. Good source of vitamin C, rare among nuts. Historically a staple food in Appalachia before blight."
+  },
+  {
+    "species": "butternut",
+    "common_name": "Butternut (White Walnut)",
+    "confidence": "high",
+    "source": "USDA SR Legacy #12084 (nuts, butternuts, dried)",
+    "edible_parts": [
+      "nuts"
+    ],
+    "calories_per_100g": 612,
+    "protein_g": 24.9,
+    "fat_g": 57.0,
+    "carbs_g": 12.1,
+    "fiber_g": 4.7,
+    "notable_nutrients": [
+      {
+        "nutrient": "Manganese",
+        "amount": "6.56mg",
+        "percent_dv": 342
+      },
+      {
+        "nutrient": "Magnesium",
+        "amount": "237mg",
+        "percent_dv": 68
+      },
+      {
+        "nutrient": "Copper",
+        "amount": "0.45mg",
+        "percent_dv": 60
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "446mg",
+        "percent_dv": 43
+      }
+    ],
+    "notes": "Extremely calorie-dense tree nut with very high manganese (over 3x daily value). Rich in omega-3 fatty acids. Sweet, mild flavor compared to black walnut. Species is endangered due to butternut canker — harvest only from healthy, abundant trees."
+  },
+  {
+    "species": "chicory",
+    "common_name": "Chicory",
+    "confidence": "high",
+    "source": "USDA SR Legacy #169992 (chicory greens, raw)",
+    "edible_parts": [
+      "leaves",
+      "roots",
+      "flowers"
+    ],
+    "calories_per_100g": 23,
+    "protein_g": 1.7,
+    "fat_g": 0.3,
+    "carbs_g": 4.7,
+    "fiber_g": 4.0,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin K",
+        "amount": "297µg",
+        "percent_dv": 372
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "286µg",
+        "percent_dv": 32
+      },
+      {
+        "nutrient": "Folate",
+        "amount": "110µg",
+        "percent_dv": 28
+      },
+      {
+        "nutrient": "Vitamin C",
+        "amount": "24mg",
+        "percent_dv": 27
+      }
+    ],
+    "notes": "Exceptionally high in vitamin K (nearly 4x daily value). Very low calorie with good fiber. Young leaves eaten raw in salads (bitter) or cooked. Roots roasted as coffee substitute (New Orleans-style). Root is rich in inulin, a prebiotic fiber."
+  },
+  {
+    "species": "daylily",
+    "common_name": "Common Daylily",
+    "confidence": "low",
+    "source": "Compiled from foraging literature; no USDA entry. Amino acid data from Food Chemistry: X, 2024; 21:101239 (Hemerocallis citrina).",
+    "edible_parts": [
+      "flower buds",
+      "open flowers",
+      "tubers"
+    ],
+    "calories_per_100g": 42,
+    "protein_g": 2.0,
+    "fat_g": 0.4,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "88mg",
+        "percent_dv": 98
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "3,000 IU",
+        "percent_dv": 60
+      },
+      {
+        "nutrient": "Calcium",
+        "amount": "87mg",
+        "percent_dv": 7
+      },
+      {
+        "nutrient": "Phosphorus",
+        "amount": "176mg",
+        "percent_dv": 14
+      }
+    ],
+    "notes": "No USDA entry — values from foraging literature for raw buds. Rich in carotenoids. Dried flowers (golden needles) used extensively in Chinese cuisine. Some individuals experience digestive sensitivity — eat small amounts first. Only Hemerocallis species are edible; true lilies (Lilium) can be toxic."
+  },
+  {
+    "species": "greenbrier",
+    "common_name": "Greenbrier",
+    "confidence": "low",
+    "source": "No USDA entry or published nutritional analysis available for Smilax spp. shoots.",
+    "edible_parts": [
+      "young shoots",
+      "tendrils",
+      "leaves",
+      "roots"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [],
+    "notes": "No published nutritional data exists. Young shoots and tendrils eaten raw or cooked like asparagus. Roots are starch-rich and can be dried into flour or made into jelly. Comparable to asparagus in culinary use but unanalyzed nutritionally."
+  },
+  {
+    "species": "japanese_knotweed",
+    "common_name": "Japanese Knotweed",
+    "confidence": "low",
+    "source": "No USDA entry. Qualitative nutrient data from Lachowicz et al., 2019 (PMC).",
+    "edible_parts": [
+      "young shoots"
+    ],
+    "calories_per_100g": null,
+    "protein_g": null,
+    "fat_g": null,
+    "carbs_g": null,
+    "fiber_g": null,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "present (unquantified)",
+        "percent_dv": null
+      },
+      {
+        "nutrient": "Vitamin A",
+        "amount": "present (unquantified)",
+        "percent_dv": null
+      }
+    ],
+    "notes": "No per-100g macronutrient analysis available. Young shoots (under 30cm) are tart and rhubarb-like due to oxalic acid. Contains resveratrol (same antioxidant as red wine), concentrated in rhizome. Used in jams, pies, and chutneys. Invasive species — foraging is encouraged."
+  },
+  {
+    "species": "blueberry",
+    "common_name": "Wild Blueberry",
+    "confidence": "high",
+    "source": "USDA SR Legacy #09050 (blueberries, raw). Covers cultivated highbush blueberry; wild blueberries typically have 2x higher anthocyanin content.",
+    "edible_parts": [
+      "berries"
+    ],
+    "calories_per_100g": 57,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "carbs_g": 14.5,
+    "fiber_g": 2.4,
+    "notable_nutrients": [
+      {
+        "nutrient": "Vitamin C",
+        "amount": "9.7mg",
+        "percent_dv": 11
+      },
+      {
+        "nutrient": "Vitamin K",
+        "amount": "19.3µg",
+        "percent_dv": 16
+      },
+      {
+        "nutrient": "Manganese",
+        "amount": "0.3mg",
+        "percent_dv": 17
+      },
+      {
+        "nutrient": "Anthocyanins",
+        "amount": "~163mg/100g (cultivated); ~326mg/100g (wild)",
+        "percent_dv": null
+      }
+    ],
+    "notes": "Covers both highbush (Vaccinium corymbosum) and lowbush (V. angustifolium) blueberry — merged class. Wild blueberries have roughly 2x the anthocyanin content of cultivated. Strong antioxidant profile, well-studied for cognitive and cardiovascular health."
+  }
+]
