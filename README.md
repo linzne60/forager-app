@@ -1,6 +1,6 @@
 # Forager
 
-I wanted to build something that could tell me whether the mushroom I just found would make a good dinner or send me to the hospital. So I built a full-stack foraging assistant. Take a photo of plant or mushroom, and find out if it's edible or not, how to perpare it, nutrition info, and the weather at the time of discovery. This info streams in as the pipeline works.
+I wanted to build something that could tell me whether the mushroom I just found would make a good dinner or send me to the hospital. So I built a full-stack foraging assistant. Take a photo of plant or mushroom, and find out if it's edible or not, how to prepare it, nutrition info, and the weather at the time of discovery. This info streams in as the pipeline works.
 
 Check it live **[forager.lindsayschwartz.com](https://forager.lindsayschwartz.com)**
 
