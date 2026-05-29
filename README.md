@@ -1,6 +1,6 @@
 # Forager
 
-I wanted to build something that could tell me whether the mushroom I just found would make a good dinner or send me to the hospital. So I built a full-stack foraging assistant. Take a photo of plant or mushroom, and find out if it's edible or not, how to perpare it, nutirtion info, and the weather at the time of discovery. This info streams in as the pipeline works.
+I wanted to build something that could tell me whether the mushroom I just found would make a good dinner or send me to the hospital. So I built a full-stack foraging assistant. Take a photo of plant or mushroom, and find out if it's edible or not, how to perpare it, nutrition info, and the weather at the time of discovery. This info streams in as the pipeline works.
 
 Check it live **[forager.lindsayschwartz.com](https://forager.lindsayschwartz.com)**
 
@@ -17,7 +17,7 @@ Check it live **[forager.lindsayschwartz.com](https://forager.lindsayschwartz.co
 
 **[forager.lindsayschwartz.com](https://forager.lindsayschwartz.com)**
 
-## What It Does [TODO: rewrite this part a bit, nail down the flow, makesure all parts, like preperation are included]
+## What It Does
 
 Here's how it works, you upload a photo and confirm your location. The image hits an EfficientNet-B7 model running ONNX inference. Classification comes back in about a second with a confidence rating and a heatmap showing exactly what the model keyed in on. While you're looking at that, the rest of the pipeline is already working. Safety analysis pulls from a curated dataset covering all 105 species; toxic lookalikes, protection status by state, and preparation requirements. Then nutrition and local weather comes in. Everything streams to the client as it completes via server-sent events, so you're not waiting for everything to complete.
 
@@ -30,9 +30,9 @@ An account is not required to identify a plant. But you can sign in if you want 
 ## Technical Highlights
 
 - **Immediate Classification:** ONNX Runtime inference, there is no PyTorch in production. A dual-output model produces both predictions and spatial feature maps for CAM heatmaps in a single forward pass.
-- **Three-phase training pipeline:** Head-only warmup, full fine-tune with Mixup/CutMix augmentation, then a Phase C pass that targets the model's worst confusion pairs. The model achieved 95.7% validation accuracy across 101 classes and was trained on 177k images form iNaturalist [TODO: get link for this].
+- **Three-phase training pipeline:** Head-only warmup, full fine-tune with Mixup/CutMix augmentation, then a Phase C pass that targets the model's worst confusion pairs. The model achieved 95.7% validation accuracy across 101 classes and was trained on 177k images from iNaturalist.
 - **Progressive SSE streaming:** Results stream to the client as each pipeline stage completes. The frontend navigates on classification (~1s) and fills in enrichment data as it arrives. Confidence tiers gate how much data gets sent, a weak match doesn't trigger nutrition lookups.
-- **Deterministic safety pipeline:** Verdicts come from curated, sourced data covering 105 species with confidence gates and toxic lookalike checks insteaed of an LLM to provide instant and reproducible information.
+- **Deterministic safety pipeline:** Verdicts come from curated, sourced data covering 105 species with confidence gates and toxic lookalike checks instead of an LLM to provide instant and reproducible information.
 - **Async generator orchestrator:** The pipeline is a single async generator that the SSE endpoint consumes via `async for`. Each `yield` becomes a server-sent event, with clean separation between pipeline logic and transport.
 - **Progressive DB persistence:** Discoveries save on classification and update as each enrichment step completes. If the weather API goes down, everything else was save, so no data lost.
 - **Rate limiting:** Redis-backed rate limiting via slowapi. Identification is capped at 10/hour, login at 5/minute, and registration at 3/minute. Limits are per-IP and survive server restarts.
